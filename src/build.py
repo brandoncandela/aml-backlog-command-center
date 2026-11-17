@@ -47,7 +47,7 @@ def build() -> dict:
 
     return {
         "as_of": case_builder.AS_OF.isoformat(),
-        "bank": "Larkspur Bank (fictional)",
+        "bank": "Candela Bank (fictional)",
         "summary": {
             "alerts": len(alerts),
             "cases": len(cases),

@@ -1,6 +1,6 @@
 """Generate the fictional customer's raw exports, the way a bank would hand them over.
 
-Larkspur Bank (fictional) runs three alert sources that disagree on IDs, formats
+Candela Bank (fictional) runs three alert sources that disagree on IDs, formats
 and quality. This script writes those exports to data/customer_exports/ plus a
 hidden answer key in data/eval/ used only to measure entity resolution accuracy.
 Everything is synthetic and deterministic (fixed seed).

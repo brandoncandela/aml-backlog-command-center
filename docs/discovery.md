@@ -1,6 +1,6 @@
 # Discovery notes
 
-Larkspur Bank is fictional. These notes are written the way I would write them after the first week on site with a real customer, so the rest of the project has something concrete to answer to.
+Candela Bank is fictional. These notes are written the way I would write them after the first week on site with a real customer, so the rest of the project has something concrete to answer to.
 
 ## The situation
 
