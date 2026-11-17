@@ -1,0 +1,1901 @@
+rule_name|cust_no|customer|created|amount|state
+Cash deposits over 10k in 3 days|927889|Anderson, Mark R.|2026-03-04|$37,075|open
+Wires to high risk jurisdiction|544178|Williams, Kevin|2026-04-20|$3,976|open
+Cash deposits over 10k in 3 days|619537|Cruz, Daniel|2026/08/18|$39,499|open
+Check kiting pattern|00880249|Ramirez, Thomas|2026/07/13|$20,864|open
+Check kiting pattern|961450|Ramos, Pat|2026/05/24|$29,130|open
+Round dollar wires|546241|Lopez, Raymond|2026-08-19|$30,928|open
+Funnel account deposits|00989303|Flores, Diana|2026-07-22|$8,754|open
+Check kiting pattern|646422|Johnson, Elena|2026-08-20|$31,242|open
+Check kiting pattern|00290760|Perez, Carmen|2026-04-03|$20,527|open
+Round dollar wires|00556607|Green, Andy|2026/09/04|$13,087|open
+Cash deposits over 10k in 3 days|00519521|Diaz, Henry C.|2026/06/07|$69,866|open
+Check kiting pattern|00188244|Garcia, Steven|2026/04/18|$20,825|open
+Wires to high risk jurisdiction|00627664|Garcia, Angela M.|2026-03-17|$9,433|open
+Funnel account deposits|407793|Davis, Robert|2026/07/12|$17,643|open
+Round dollar wires|00887273|Jones, Victor|2026-09-02|$21,783|open
+Wires to high risk jurisdiction|00070818|Diaz, Angela|2026-07-21|$21,342|open
+Round dollar wires|88966|Sanchez, Laura|2026/03/12|$19,640|open
+Wires to high risk jurisdiction|362261|Ramos, Victor|2026-03-13|$10,320|open
+Funnel account deposits|00963040|Diaz, Linda G.|2026-05-21|$18,224|open
+Wires to high risk jurisdiction|540348|Martinez, Monica G.|2026-04-07|$4,448|open
+Round dollar wires|00486697|Perez, Lucia|2026-03-20|$11,817|open
+Funnel account deposits|540348|Martinez, Monica|2026/03/01||open
+Check kiting pattern|00785535|Anderson, Raymond|2026/06/24|$33,539|open
+Check kiting pattern|00340225|Ramirez, Raymond|2026/05/03|$27,591|open
+Funnel account deposits|00866396|Ramirez, Mark E.|2026-10-24|$27,007|open
+Wires to high risk jurisdiction|00040844|Green, Samuel|2026-10-04|$4,644|open
+Check kiting pattern|00738613|King, Raymond|2026/07/01|$9,322|open
+Round dollar wires|00588035|Diaz, Patricia|2026-07-28|$59,174|open
+Cash deposits over 10k in 3 days|639649|Gutierrez, Joe B.|2026/10/08|$4,235|open
+Round dollar wires|00507231|Johnson, Lucia|2026/05/08|$3,959|open
+Funnel account deposits|195394|Brown, Teresa T.|2026-08-06|$27,402|closed
+Round dollar wires|00197331|Ortiz, Ana|2026-07-25|$11,951|open
+Wires to high risk jurisdiction|247872|Hernandez, Pat|2026/09/04|$3,497|open
+Funnel account deposits|270413|Martinez, Rosa|2026-10-30|$26,347|open
+Round dollar wires|00662673|Cruz, Teresa|2026/05/17|$4,122|open
+Cash deposits over 10k in 3 days|522771|Hall, Brian|2026-08-18|$18,374|open
+Check kiting pattern|00281801|Garcia, Carlos|2026-03-30|$10,827|open
+Wires to high risk jurisdiction|270413|Martinez, Rosa|2026-07-10|$5,004|open
+Check kiting pattern|00136445|Perez, Carlos|2026/08/14|$3,567|open
+Cash deposits over 10k in 3 days|694751|Moore, Rosa K.|2026-06-12|$2,217|open
+Funnel account deposits|665035|Smith, Maria|2026-05-16|$15,592|open
+Round dollar wires|583950|Walker, Mark|2026/07/19|$27,650|open
+Cash deposits over 10k in 3 days|00507231|Johnson, Lucia|2026/08/15|$20,588|open
+Round dollar wires|00529809|Gutierrez, Teresa|2026-03-24|$3,753|open
+Cash deposits over 10k in 3 days|502985|Gomez, Paula|2026-04-17|$4,063|open
+Round dollar wires|00700133|Miller, Rosa J.|2026/04/03|$29,207|open
+Cash deposits over 10k in 3 days|412554|Johnson, Gloria|2026-06-10|$14,946|open
+Cash deposits over 10k in 3 days|00169567|Reyes, Steven H.|2026-07-23|$8,170|closed
+Cash deposits over 10k in 3 days|883442|Anderson, Laura|2026/10/23|$5,241|open
+Funnel account deposits|126264|Garcia, Elena|2026-09-22|$13,537|open
+Wires to high risk jurisdiction|546241|Lopez, Raymond|2026-07-20|$3,448|open
+Wires to high risk jurisdiction|573746|Flores, James H.|2026/05/04|$37,538|open
+Funnel account deposits|00313054|Lopez, Anthony|2026-07-23|$14,688|open
+Wires to high risk jurisdiction|974054|Miller, Monica|2026/06/08|$2,370|open
+Cash deposits over 10k in 3 days|00071080|Flores, Maria|2026/08/21|$21,894|open
+Round dollar wires|00883442|Anderson, Laura F.|2026-10-19|$5,519|open
+Check kiting pattern|992177|Reyes, Gloria T.|2026-09-04|$3,522|open
+Cash deposits over 10k in 3 days|00560121|Ortiz, David E.|2026-08-04|$9,176|open
+Wires to high risk jurisdiction|487958|Jones, Rosa|2026-07-29|$17,593|open
+Round dollar wires|00088966|Sanchez, Laura|2026-10-12|$5,894|open
+Round dollar wires|145709|Moore, Eric F.|2026-05-29|$36,423|open
+Check kiting pattern|00170942|Gomez, Robert|2026-04-15|$6,239|open
+Round dollar wires|00485669|Scott, Linda|2026/07/20|$13,315|open
+Round dollar wires|00587899|Sanchez, Monica|2026-07-14|$13,185|open
+Cash deposits over 10k in 3 days|00665164|Sanchez, Teresa R.|2026-06-04|$2,312|open
+Round dollar wires|00085494|Lee, Sofia M.|2026-03-06|$1,930|open
+Check kiting pattern|988001|Morales, Rosa N.|2026-08-11|$11,008|open
+Wires to high risk jurisdiction|00391272|Green, Andy|2026-06-02|$14,624|open
+Funnel account deposits|516481|Ortiz, Victor|2026/04/02|$2,671|open
+Wires to high risk jurisdiction|246854|Vargas, Eric|2026/04/03|$6,622|open
+Round dollar wires|278248|Johnson, James|2026/08/21|$8,255|open
+Wires to high risk jurisdiction|963040|Diaz, Linda G.|2026-04-28|$15,013|open
+Cash deposits over 10k in 3 days|00010411|Garcia, Diana W.|2026-04-02|$21,445|open
+Wires to high risk jurisdiction|155657|Williams, Elena T.|2026/10/07|$52,096|open
+Funnel account deposits|00553438|Rodriguez, Maria|2026-08-12|$4,156|open
+Funnel account deposits|00626148|Walker, Joseph|2026-03-16|$18,212|open
+Round dollar wires|799927|Rodriguez, Nadia|2026/07/26|$11,196|open
+Round dollar wires|00556944|Anderson, Teresa G.|2026-09-07|$24,741|open
+Check kiting pattern|00339316|Wilson, David J.|2026-05-01|$3,486|open
+Cash deposits over 10k in 3 days|906007|Williams, Sofia A.|2026/08/25|$6,816|open
+Funnel account deposits|00800057|Sanchez, Carmen E.|2026-05-23|$4,327|closed
+Funnel account deposits|986719|Williams, Lucia|2026/08/09|$1,761|open
+Funnel account deposits|00657804|Anderson, Daniel|2026-07-21|$4,380|open
+Round dollar wires|00236861|Ramirez, Joseph|2026/06/23|$7,673|open
+Round dollar wires|00188244|Garcia, Steven|2026/09/24|$3,062|open
+Funnel account deposits|00539299|Young, Daniel|2026-04-23|$7,588|closed
+Check kiting pattern|466668|Hernandez, Julia|2026/07/16|$19,349|closed
+Wires to high risk jurisdiction|237391|Lee, Steven D.|2026-09-01|$6,488|open
+Cash deposits over 10k in 3 days|159993|Gomez, Mark|2026-07-25|$17,421|open
+Round dollar wires|194004|Wright, Anthony|2026-03-28|$13,280|open
+Funnel account deposits|392485|Sanchez, Samuel|2026-06-09|$13,043|open
+Funnel account deposits|00902944|Reyes, Samuel|2026-07-06|$3,593|open
+Funnel account deposits|895030|Flores, Ana|2026-04-23|$10,598|open
+Cash deposits over 10k in 3 days|00198573|Johnson, Steven D.|2026/04/20||open
+Funnel account deposits|00077768|Gutierrez, Joe|2026-09-08|$9,544|open
+Wires to high risk jurisdiction|00990688|Perez, Rosa|2026/05/10|$7,439|open
+Check kiting pattern|00173028|King, Joseph|2026-09-05|$20,168|open
+Funnel account deposits|00990688|Perez, Rosa|2026/10/01|$14,909|open
+Wires to high risk jurisdiction|517657|Martinez, Andrew|2026/07/06|$13,228|open
+Check kiting pattern|972163|Young, Raymond|2026-04-22|$56,051|open
+Round dollar wires|00549745|Wilson, Samuel N.|2026/08/29|$6,434|open
+Check kiting pattern|927889|Anderson, Mark R.|2026/10/02|$17,714|open
+Wires to high risk jurisdiction|00518554|Rodriguez, Nadia|2026-08-29|$33,186|open
+Check kiting pattern|684123|Chavez, Gloria R.|2026-06-10||open
+Check kiting pattern|53115|Lopez, Linda E.|2026-04-15|$7,786|open
+Funnel account deposits|246905|Flores, Victor|2026-06-08|$7,215|open
+Check kiting pattern|00113041|Gutierrez, Paula|2026/08/29|$22,959|open
+Cash deposits over 10k in 3 days|470161|Jones, Diana|2026/03/15|$5,633|open
+Funnel account deposits|41673|Green, Luis|2026-09-18|$6,315|open
+Round dollar wires|00715374|Brown, Tom J.|2026-08-20|$7,134|open
+Funnel account deposits|553438|Rodriguez, Maria|2026-03-12|$3,946|open
+Funnel account deposits|00022594|Anderson, Patricia|2026-08-25|$16,011|open
+Check kiting pattern|00898605|Martinez, Laura B.|2026-10-02||open
+Funnel account deposits|735021|Wilson, Robert|2026-04-03|$22,071|open
+Check kiting pattern|5943577|Walker, Mark|2026-04-07|$31,746|open
+Round dollar wires|128606|Moore, Rosa|2026-09-18|$16,468|open
+Check kiting pattern|00265878|Johnson, Ana|2026-05-24|$20,774|open
+Funnel account deposits|9677714|Martinez, Anthony N.|2026-03-22|$15,029|open
+Check kiting pattern|584129|Reyes, Raymond|2026-07-21|$18,784|closed
+Round dollar wires|53115|Lopez, Linda|2026/10/18|$4,094|open
+Check kiting pattern|00537417|Moore, Robert|2026-09-20|$6,044|open
+Cash deposits over 10k in 3 days|00735239|Hernandez, Linda|2026/10/05||open
+Check kiting pattern|355602|Green, Jason|2026-07-24|$6,970|open
+Round dollar wires|00912426|Anderson, Bob|2026/08/27|$7,928|open
+Check kiting pattern|2006004|Torres, Thomas H.|2026-07-11|$7,790|open
+Cash deposits over 10k in 3 days|530186|Jackson, Kevin|2026-10-12|$9,405|open
+Check kiting pattern|00447394|Gutierrez, Diana T.|2026-10-24|$7,361|closed
+Funnel account deposits|00486455|Lopez, Joseph|2026-03-18|$7,051|open
+Check kiting pattern|544441|Gutierrez, Monica|2026-10-05|$5,940|open
+Cash deposits over 10k in 3 days|198573|Johnson, Steve D.|2026-06-14|$3,687|open
+Round dollar wires|40073|Martin, Julia E.|2026-10-29|$5,381|open
+Cash deposits over 10k in 3 days|486863|Ortiz, Samuel|2026-08-02|$11,240|open
+Funnel account deposits|578988|Hernandez, Angela W.|2026/10/08|$4,241|open
+Round dollar wires|463274|Jackson, Nadia|2026/03/04||closed
+Wires to high risk jurisdiction|895001|Reyes, Sofia H.|2026-09-12|$4,361|open
+Check kiting pattern|737593|Moore, Luis|2026/10/06|$10,700|open
+Funnel account deposits|676709|Rodriguez, Angela|2026-05-29|$12,540|open
+Check kiting pattern|00209559|Walker, Angela|2026/10/18|$19,583|open
+Round dollar wires|126264|Garcia, Elena|2026-04-04|$9,052|open
+Wires to high risk jurisdiction|00656879|Rivera, Julia|2026/09/18|$2,077|open
+Funnel account deposits|00619396|Sanchez, Angela|2026-08-14|$36,451|open
+Cash deposits over 10k in 3 days|511563|Reyes, Jason|2026-08-25|$5,033|open
+Funnel account deposits|828034|Hernandez, Brian|2026-06-24|$15,465|open
+Round dollar wires|342800|Gutierrez, Andrew T.|2026-08-20|$7,175|open
+Funnel account deposits|00909961|Jones, Dan|2026-08-30|$10,851|closed
+Check kiting pattern|00040844|Green, Sam|2026/05/24|$3,130|open
+Cash deposits over 10k in 3 days|51103|Taylor, Angela|2026-04-05|$4,325|open
+Check kiting pattern|188244|Garcia, Steven|2026-06-25|$4,278|open
+Round dollar wires|00324962|Martin, Ana|2026-04-01|$5,160|open
+Funnel account deposits|788807|Torres, Carlos|2026-03-23|$3,388|open
+Check kiting pattern|221540|Smith, Monica K.|2026-06-07|$7,917|open
+Check kiting pattern|456824|Lee, James|2026-07-19|$1,316|open
+Check kiting pattern|619537|Cruz, Daniel G.|2026-08-17|$18,300|open
+Cash deposits over 10k in 3 days|00126264|Garcia, Elena F.|2026/08/27|$2,943|open
+Wires to high risk jurisdiction|883758|Smith, Kevin|2026/10/14|$1,814|open
+Funnel account deposits|9037205|Vargas, Andrew|2026-09-23|$3,127|open
+Check kiting pattern|00038087|Young, Angela E.|2026-08-31|$44,039|open
+Cash deposits over 10k in 3 days|234989|Williams, Carmen S.|2026/07/19|$19,911|open
+Check kiting pattern|15525|Lee, Paula|2026-06-29|$5,318|open
+Round dollar wires|00165570|Ramos, Joseph|2026-04-08|$56,386|open
+Wires to high risk jurisdiction|00840168|Torres, Victor|2026/06/25|$10,259|open
+Cash deposits over 10k in 3 days|00496649|Rodriguez, Sofia R.|2026-08-15|$2,632|open
+Cash deposits over 10k in 3 days|426933|Lopez, Luis|2026-06-27|$70,198|open
+Wires to high risk jurisdiction|619396|Sanchez, Angela|2026-10-02|$15,755|open
+Round dollar wires|362243|Allen, Kevin|2026/05/02|$5,141|open
+Check kiting pattern|00419744|Lopez, Henry|2026-07-08|$6,392|open
+Wires to high risk jurisdiction|00342800|Gutierrez, Andrew|2026/10/18|$56,704|open
+Round dollar wires|7500983|Ramirez, Laura W.|2026-09-09|$14,048|open
+Check kiting pattern|00678782|Perez, Victor|2026/03/24|$29,500|open
+Check kiting pattern|00423658|Chavez, Maria|2026-07-07|$10,314|open
+Wires to high risk jurisdiction|880249|Ramirez, Thomas R.|2026-10-23|$11,501|open
+Funnel account deposits|524851|Young, Ana|2026-07-19|$5,151|open
+Funnel account deposits|638523|Chavez, Pat|2026/06/19|$8,497|open
+Funnel account deposits|00094811|Martin, Raymond|2026/04/17|$11,388|open
+Cash deposits over 10k in 3 days|00552149|Jackson, Henry|2026-03-21|$42,473|open
+Round dollar wires|262771|Davis, Julia|2026/06/07|$1,264|open
+Cash deposits over 10k in 3 days|61796|Wright, Jason C.|2026/03/27|$15,041|open
+Cash deposits over 10k in 3 days|412799|Wilson, Kevin|2026-08-20|$23,076|open
+Cash deposits over 10k in 3 days|00522051|Walker, Sofia|2026-07-03|$14,285|open
+Cash deposits over 10k in 3 days|70818|Diaz, Angela B.|2026-04-01|$10,157|open
+Cash deposits over 10k in 3 days|00796668|Rodriguez, Sam|2026-03-05|$3,882|open
+Round dollar wires|00986719|Williams, Lucia|2026-07-11|$26,835|open
+Check kiting pattern|00549456|Gutierrez, Laura B.|2026-08-12|$6,145|open
+Wires to high risk jurisdiction|256944|Ortiz, Eric A.|2026-10-17|$6,212|open
+Check kiting pattern|231252|Reyes, Kevin|2026-06-07|$5,072|open
+Funnel account deposits|00421065|Vargas, James|2026-08-23|$6,571|open
+Round dollar wires|347062|Gonzalez, Linda G.|2026-08-02|$8,686|open
+Round dollar wires|00545419|Lee, Elena F.|2026-10-09|$7,124|open
+Cash deposits over 10k in 3 days|00209531|Morales, Jason|2026/10/29|$9,811|open
+Round dollar wires|636392|Green, Kevin R.|2026-03-18|$10,609|open
+Check kiting pattern|366556|Davis, Laura|2026-05-22|$19,704|open
+Round dollar wires|838006|Wright, Joe|2026-04-28|$3,507|closed
+Round dollar wires|840168|Torres, Victor W.|2026-04-26|$4,346|open
+Round dollar wires|66464|Allen, Diana M.|2026-09-11|$5,504|open
+Round dollar wires|106071|Anderson, Diana|2026-09-29|$35,607|open
+Cash deposits over 10k in 3 days|746449|Torres, Carmen|2026/04/25|$12,711|open
+Funnel account deposits|665035|Smith, Maria|2026-10-25|$8,163|open
+Round dollar wires|00083573|Wright, Steve|2026/07/01|$8,034|open
+Cash deposits over 10k in 3 days|462176|Ortiz, Carmen|2026/03/30|$3,549|open
+Wires to high risk jurisdiction|998465|Reyes, Michael C.|2026/06/09|$33,186|open
+Check kiting pattern|342800|Gutierrez, Andrew|2026-03-10|$4,604|open
+Wires to high risk jurisdiction|00540348|Martinez, Monica G.|2026-06-28|$5,637|open
+Wires to high risk jurisdiction|00705926|Walker, Kevin L.|2026-06-23|$4,181|open
+Cash deposits over 10k in 3 days|260691|Flores, Daniel F.|2026/10/26|$4,264|open
+Round dollar wires|705703|Walker, Angela K.|2026/07/18|$34,600|open
+Cash deposits over 10k in 3 days|895297|Ramirez, Ana|2026-09-19|$16,618|open
+Round dollar wires|00389671|Moore, Monica|2026-09-06|$5,550|open
+Round dollar wires|00646569|Hernandez, Tom|2026-08-14|$8,453|open
+Funnel account deposits|00966378|Anderson, Carmen|2026/04/30|$3,982|open
+Funnel account deposits|705926|Walker, Kevin|2026-07-10|$8,846|open
+Cash deposits over 10k in 3 days|00231696|Green, Daniel|2026-09-01|$10,123|open
+Check kiting pattern|392287|Sanchez, Joseph|2026/09/25|$10,106|open
+Funnel account deposits|888436|Wilson, Daniel|2026-07-15|$3,956|open
+Check kiting pattern|00522771|Hall, Brian|2026-05-14|$6,449|open
+Wires to high risk jurisdiction|00917515|Gomez, Steven|2026/10/31|$21,433|open
+Round dollar wires|353161|Gonzalez, Raymond H.|2026/07/25|$14,093|open
+Funnel account deposits|00715374|Brown, Thomas|2026-08-04|$21,731|open
+Cash deposits over 10k in 3 days|00433462|Young, Isabel|2026/06/08|$23,195|open
+Check kiting pattern|281801|Garcia, Carlos|2026/10/25|$27,483|open
+Round dollar wires|00567084|Williams, Anthony|2026-04-01|$10,048|open
+Cash deposits over 10k in 3 days|235924|Gomez, Luis|2026/03/31|$10,504|open
+Round dollar wires|789265|Brown, Victor|2026-10-24|$8,211|open
+Cash deposits over 10k in 3 days|00638523|Chavez, Patricia|2026/10/01|$53,089|open
+Funnel account deposits|00190569|Ortiz, Monica|2026-03-21|$19,114|open
+Wires to high risk jurisdiction|00519521|Diaz, Henry|2026-07-06|$12,746|open
+Funnel account deposits|00986719|Williams, Lucia|2026/05/18|$13,897|open
+Check kiting pattern|00029082|Miller, Lucia G.|2026-03-09|$3,950|open
+Round dollar wires|279203|Jackson, Victor|2026/06/22|$6,596|open
+Cash deposits over 10k in 3 days|00328926|Flores, Maria|2026-03-23|$11,100|open
+Cash deposits over 10k in 3 days|00416400|Johnson, Julia|2026/09/02|$7,192|open
+Round dollar wires|00113944|Ortiz, Paula|2026-10-31|$13,415|open
+Wires to high risk jurisdiction|00792491|Ramirez, Eric E.|2026-06-11|$5,247|open
+Cash deposits over 10k in 3 days|297711|Wright, Dan|2026/03/02|$4,408|open
+Funnel account deposits|00061508|Hall, Bob|2026/09/11|$6,656|open
+Check kiting pattern|00519521|Diaz, Henry|2026-10-27|$2,176|open
+Wires to high risk jurisdiction|331003|Davis, Diana|2026-08-07|$10,414|open
+Round dollar wires|706607|Ortiz, Raymond|2026/06/25|$6,850|open
+Wires to high risk jurisdiction|866396|Ramirez, Mark|2026-09-20|$2,704|open
+Wires to high risk jurisdiction|70818|Diaz, Angela|2026/06/24|$5,916|closed
+Cash deposits over 10k in 3 days|275536|Green, Daniel M.|2026/10/01||open
+Check kiting pattern|00867263|Green, Isabel T.|2026-10-24|$11,719|open
+Round dollar wires|128241|Chavez, Daniel G.|2026-04-15|$8,760|open
+Funnel account deposits|850460|King, Thomas|2026-05-14|$19,982|open
+Funnel account deposits|00567279|Ramos, Carmen B.|2026/09/10|$13,788|open
+Funnel account deposits|141997|Allen, Isabel|2026-05-26|$8,798|open
+Check kiting pattern|18356|Wright, Patricia|2026-09-04|$12,179|open
+Round dollar wires|7405056|Cruz, Sofia R.|2026-03-04|$9,304|open
+Round dollar wires|00748723|Ramirez, David|2026-10-23|$22,642|open
+Funnel account deposits|00528665|Ortiz, Mike|2026-06-20|$7,459|open
+Cash deposits over 10k in 3 days|548184|Anderson, Mark H.|2026/06/21|$6,354|open
+Check kiting pattern|963102|Diaz, Henry J.|2026-05-28|$17,330|open
+Check kiting pattern|00549456|Gutierrez, Laura|2026-04-08|$10,951|open
+Cash deposits over 10k in 3 days|536499|Martin, Thomas|2026-03-07|$10,910|open
+Funnel account deposits|00912426|Anderson, Robert|2026/10/26|$39,358|open
+Check kiting pattern|00136445|Perez, Carlos|2026-10-11||open
+Check kiting pattern|00887273|Jones, Victor|2026-08-04|$2,793|open
+Cash deposits over 10k in 3 days|416400|Johnson, Julia|2026-09-07|$104,364|open
+Round dollar wires|00968682|Lee, Angela|2026-08-06|$3,118|closed
+Funnel account deposits|00895001|Reyes, Sofia|2026-08-28|$5,392|open
+Round dollar wires|239073|Wright, Brian|2026-08-28|$3,967|open
+Cash deposits over 10k in 3 days|00702219|Green, Patricia|2026-04-22|$11,926|open
+Funnel account deposits|65395|Flores, Mark|2026-09-25||open
+Round dollar wires|962084|Martinez, Julia G.|2026-04-07||open
+Round dollar wires|880249|Ramirez, Thomas|2026-03-06|$4,595|open
+Cash deposits over 10k in 3 days|484810|Torres, Carmen M.|2026-08-13|$6,140|open
+Check kiting pattern|6272834|Walker, Lucia|2026-05-11|$1,020|open
+Wires to high risk jurisdiction|596252|Jones, Mark|2026-06-28|$14,546|open
+Cash deposits over 10k in 3 days|00576315|Young, Sofia A.|2026-05-17|$9,011|closed
+Funnel account deposits|187429|Taylor, Paula|2026/04/27|$18,306|open
+Wires to high risk jurisdiction|484198|Lopez, Steven N.|2026-07-03|$4,004|open
+Funnel account deposits|184794|Davis, Laura|2026-06-06|$24,790|open
+Cash deposits over 10k in 3 days|582849|Ortiz, Victor C.|2026-10-07|$11,342|closed
+Wires to high risk jurisdiction|00700133|Miller, Rosa|2026-06-17|$2,679|open
+Round dollar wires|828034|Hernandez, Brian N.|2026/06/18|$7,454|open
+Wires to high risk jurisdiction|00545631|King, Andrew|2026/10/20||open
+Funnel account deposits|123285|Sanchez, Raymond|2026-04-01|$19,964|open
+Funnel account deposits|00511229|Diaz, Carmen|2026/10/09|$37,565|open
+Round dollar wires|455285|Perez, Ana|2026-07-12|$4,145|open
+Round dollar wires|99830|Hall, Sofia D.|2026-10-21|$5,690|open
+Wires to high risk jurisdiction|363932|Taylor, Rosa R.|2026-04-01|$6,600|open
+Wires to high risk jurisdiction|00487958|Jones, Rosa|2026-07-08|$29,836|open
+Wires to high risk jurisdiction|00928006|Perez, Monica|2026-03-28|$71,751|open
+Funnel account deposits|371212|Reyes, Paula G.|2026/07/29|$38,231|open
+Round dollar wires|00175456|Anderson, Luis|2026/10/10|$9,808|open
+Cash deposits over 10k in 3 days|862837|Cruz, Luis|2026-10-25|$8,216|open
+Check kiting pattern|00723795|Flores, Rosa|2026-06-23||open
+Check kiting pattern|94811|Martin, Raymond P.|2026-06-07|$14,611|open
+Cash deposits over 10k in 3 days|482032|Martinez, Patricia M.|2026/08/27|$36,809|open
+Cash deposits over 10k in 3 days|839815|Hall, Monica|2026/04/04|$28,128|open
+Wires to high risk jurisdiction|00161567|Scott, Isabel|2026/08/06|$24,227|open
+Cash deposits over 10k in 3 days|503881|Wilson, Linda|2026-10-13|$4,086|open
+Funnel account deposits|157235|Miller, Thomas|2026-08-09|$6,315|open
+Wires to high risk jurisdiction|00126264|Garcia, Elena F.|2026-05-12|$15,627|open
+Round dollar wires|00048380|Brown, Eric|2026-03-03|$7,678|open
+Wires to high risk jurisdiction|00023559|Green, Jason|2026-03-09|$4,238|open
+Cash deposits over 10k in 3 days|886089|Gutierrez, Nadia|2026-03-26|$10,451|open
+Wires to high risk jurisdiction|00061796|Wright, Jason C.|2026/10/27|$18,762|open
+Cash deposits over 10k in 3 days|00060119|Gomez, Rosa|2026-10-10|$3,652|open
+Cash deposits over 10k in 3 days|61508|Hall, Bob H.|2026-07-15|$6,477|open
+Wires to high risk jurisdiction|290760|Perez, Carmen|2026-10-04|$14,320|open
+Round dollar wires|00677140|Ramos, Maria|2026-07-28|$21,757|closed
+Funnel account deposits|159993|Gomez, Mark F.|2026/07/10|$1,942|open
+Funnel account deposits|94811|Martin, Raymond P.|2026-03-13|$6,849|open
+Check kiting pattern|736828|Miller, Eric|2026-06-19|$15,469|open
+Funnel account deposits|00094662|Jones, Raymond|2026-10-17|$3,128|open
+Check kiting pattern|00574035|Rivera, Steven|2026/08/18|$5,251|open
+Funnel account deposits|00788807|Torres, Carlos S.|2026-03-16|$1,334|open
+Funnel account deposits|00431627|Davis, Patricia|2026-08-14|$6,654|open
+Cash deposits over 10k in 3 days|852192|Gomez, David|2026-03-13|$2,041|open
+Round dollar wires|00080030|Brown, Jason B.|2026-03-31|$26,667|open
+Cash deposits over 10k in 3 days|955710|Gonzalez, Gloria|2026-06-23|$22,308|open
+Round dollar wires|00639083|Perez, Laura|2026-08-01|$15,653|open
+Round dollar wires|5750764|Scott, Gloria|2026-05-16|$35,925|open
+Round dollar wires|00709223|Smith, Henry|2026-03-06|$11,331|open
+Round dollar wires|407793|Davis, Bob|2026-09-01|$12,679|open
+Round dollar wires|00045859|Lee, Teresa|2026/03/20|$17,586|open
+Cash deposits over 10k in 3 days|525426|Miller, Elena|2026-03-10|$15,277|open
+Round dollar wires|00053115|Lopez, Linda|2026-09-02|$19,086|open
+Check kiting pattern|838006|Wright, Joe|2026/08/07|$2,837|open
+Funnel account deposits|00190048|Cruz, Carlos|2026-06-13|$4,973|open
+Wires to high risk jurisdiction|961334|Vargas, Thomas|2026-05-30|$5,067|open
+Wires to high risk jurisdiction|00654853|Flores, Carmen H.|2026/09/13|$5,611|open
+Funnel account deposits|793319|Miller, Jason|2026-04-07|$1,169|open
+Wires to high risk jurisdiction|00986719|Williams, Lucia R.|2026-04-30|$11,770|open
+Round dollar wires|123285|Sanchez, Raymond E.|2026-10-08|$33,023|open
+Wires to high risk jurisdiction|94299|Allen, Jason|2026/05/25|$9,821|open
+Round dollar wires|794384|Gonzalez, Carmen|2026-08-29|$14,541|open
+Check kiting pattern|00556607|Green, Andrew|2026-09-15|$6,009|open
+Check kiting pattern|00482032|Martinez, Patricia|2026/09/20|$14,363|open
+Round dollar wires|880249|Ramirez, Thomas R.|2026/05/21|$19,324|open
+Check kiting pattern|00586436|Flores, Victor|2026-04-26|$6,762|open
+Funnel account deposits|21194|Rodriguez, Linda|2026-10-20|$22,974|open
+Round dollar wires|00927889|Anderson, Mark R.|2026-03-22|$9,518|open
+Check kiting pattern|530186|Jackson, Kevin|2026-03-28|$4,583|open
+Round dollar wires|00495066|Walker, Carmen|2026-03-09|$11,693|open
+Round dollar wires|573746|Flores, James|2026-07-23|$13,762|open
+Wires to high risk jurisdiction|00726615|Johnson, Eric|2026/05/24|$11,712|open
+Cash deposits over 10k in 3 days|8651567|Anderson, Laura F.|2026-07-05|$22,576|open
+Check kiting pattern|735021|Wilson, Robert M.|2026-03-14|$5,604|open
+Cash deposits over 10k in 3 days|694751|Moore, Rosa|2026/04/15|$29,084|open
+Check kiting pattern|00206182|Wilson, Michael|2026-05-15|$2,811|open
+Wires to high risk jurisdiction|781880|Hernandez, James|2026-04-08|$31,733|open
+Funnel account deposits|00953957|Martin, Rosa|2026-03-19|$4,965|open
+Round dollar wires|502985|Gomez, Paula|2026-10-27|$35,796|open
+Wires to high risk jurisdiction|49890|Walker, David|2026-03-11|$12,468|open
+Funnel account deposits|496735|Jones, Sofia|2026/06/15|$9,152|open
+Funnel account deposits|190569|Ortiz, Monica|2026-05-18|$7,690|open
+Cash deposits over 10k in 3 days|364585|Martin, Samuel|2026-08-20|$13,973|open
+Wires to high risk jurisdiction|00061009|Sanchez, Teresa|2026-10-07||open
+Cash deposits over 10k in 3 days|00126264|Garcia, Elena|2026-07-23|$14,602|open
+Wires to high risk jurisdiction|00934980|Hernandez, Jason|2026/08/02|$6,798|closed
+Round dollar wires|9276648|Hernandez, Teresa K.|2026-07-06|$11,373|open
+Round dollar wires|544342|Hernandez, Jason|2026-08-02|$3,537|open
+Check kiting pattern|00486863|Ortiz, Samuel|2026-07-28|$8,862|open
+Check kiting pattern|00578988|Hernandez, Angela|2026-10-20|$44,738|open
+Cash deposits over 10k in 3 days|28443|Davis, Samuel|2026-04-17|$4,219|open
+Check kiting pattern|00557726|Vargas, Andy|2026-03-13|$8,766|open
+Check kiting pattern|00584818|Hernandez, Ana A.|2026/06/27|$4,126|open
+Check kiting pattern|350463|Gutierrez, Teresa A.|2026-10-27|$11,600|open
+Round dollar wires|549456|Gutierrez, Laura|2026/08/05|$10,145|open
+Wires to high risk jurisdiction|213295|Jones, Michael W.|2026/09/08|$17,380|open
+Check kiting pattern|00194004|Wright, Anthony S.|2026-04-27|$4,473|open
+Wires to high risk jurisdiction|989303|Flores, Diana L.|2026-06-13|$8,633|open
+Wires to high risk jurisdiction|480933|Green, David|2026-10-20|$1,871|open
+Round dollar wires|937655|Hall, Angela|2026/10/11|$3,866|open
+Cash deposits over 10k in 3 days|429303|Williams, James|2026-04-25|$9,216|open
+Wires to high risk jurisdiction|00283237|Davis, Mark|2026/08/18|$4,757|open
+Cash deposits over 10k in 3 days|543664|Moore, Sofia|2026-04-24|$6,674|open
+Cash deposits over 10k in 3 days|00097685|Cruz, Elena|2026-09-06|$33,248|open
+Check kiting pattern|313054|Lopez, Anthony|2026-04-21|$6,001|open
+Round dollar wires|412799|Wilson, Kevin|2026/07/27|$19,287|open
+Check kiting pattern|00074256|Moore, David|2026/05/31|$10,917|open
+Cash deposits over 10k in 3 days|00197331|Ortiz, Ana|2026/03/02|$14,853|open
+Funnel account deposits|476036|Ramirez, Anthony|2026-04-17|$7,644|open
+Wires to high risk jurisdiction|00706466|Ramos, Andy|2026-06-26|$5,156|open
+Wires to high risk jurisdiction|00293192|Flores, Ana|2026-05-17|$25,554|open
+Check kiting pattern|983314|Gonzalez, Eric|2026-03-11|$3,948|open
+Wires to high risk jurisdiction|00471643|Ortiz, Michael|2026-10-14|$12,184|open
+Funnel account deposits|00555403|Scott, Raymond|2026/03/28|$11,169|open
+Wires to high risk jurisdiction|903772|Reyes, Rosa N.|2026-04-17|$4,352|open
+Wires to high risk jurisdiction|429303|Williams, James|2026-10-24|$20,910|open
+Check kiting pattern|23559|Green, Jason|2026-06-26|$1,381|open
+Check kiting pattern|00968682|Lee, Angela S.|2026/04/30|$10,661|open
+Round dollar wires|00082391|Wilson, Pat G.|2026-06-03|$2,954|open
+Round dollar wires|00125700|Ramirez, Henry|2026-05-16|$6,196|open
+Round dollar wires|00190048|Cruz, Carlos R.|2026-07-06|$33,188|open
+Round dollar wires|830356|Lopez, Maria K.|2026-08-09|$40,088|open
+Funnel account deposits|00072693|Cruz, Carmen|2026/04/02|$13,362|open
+Cash deposits over 10k in 3 days|00350463|Gutierrez, Teresa A.|2026/06/13|$12,945|open
+Wires to high risk jurisdiction|00651834|Sanchez, Linda S.|2026-10-07|$13,674|open
+Wires to high risk jurisdiction|00549015|Flores, Andrew|2026/08/07|$20,007|open
+Funnel account deposits|94662|Jones, Raymond|2026-08-05|$7,846|closed
+Round dollar wires|00496649|Rodriguez, Sofia R.|2026/07/04|$4,375|open
+Cash deposits over 10k in 3 days|61242|Chavez, Rosa|2026-09-11|$10,405|open
+Cash deposits over 10k in 3 days|00638523|Chavez, Patricia|2026/03/06|$13,437|open
+Funnel account deposits|00800057|Sanchez, Carmen|2026/10/27|$57,906|open
+Cash deposits over 10k in 3 days|00286155|Cruz, Samuel A.|2026/07/13|$10,800|open
+Check kiting pattern|00231252|Reyes, Kevin R.|2026/04/19|$10,446|open
+Funnel account deposits|639649|Gutierrez, Joe|2026/05/18|$3,120|open
+Round dollar wires|00023559|Green, Jason|2026-04-30||open
+Wires to high risk jurisdiction|899674|Chavez, Mike|2026-07-27|$10,131|open
+Round dollar wires|391166|Moore, Pat|2026-04-01|$16,344|open
+Cash deposits over 10k in 3 days|577307|Jones, Carlos|2026-07-11|$4,509|closed
+Wires to high risk jurisdiction|974351|Sanchez, James N.|2026-04-06|$15,311|open
+Cash deposits over 10k in 3 days|00275536|Green, Daniel|2026-08-16|$7,531|open
+Wires to high risk jurisdiction|578988|Hernandez, Angela W.|2026-07-18|$12,707|open
+Wires to high risk jurisdiction|00917086|Davis, David|2026-08-13|$11,327|open
+Check kiting pattern|263328|Davis, Jason T.|2026-03-18||open
+Funnel account deposits|00435603|Davis, Teresa A.|2026-06-04|$1,283|open
+Round dollar wires|458570|Brown, David F.|2026/07/05|$38,140|open
+Round dollar wires|00458642|Wilson, Elena|2026-09-13|$25,540|open
+Wires to high risk jurisdiction|00099820|Brown, Monica|2026-03-13|$9,232|open
+Check kiting pattern|313054|Lopez, Anthony S.|2026/09/17|$14,191|open
+Wires to high risk jurisdiction|00094811|Martin, Raymond|2026-08-04|$3,766|open
+Check kiting pattern|00435603|Davis, Teresa A.|2026-03-14|$4,969|open
+Round dollar wires|00387719|Scott, Brian P.|2026-07-17|$80,793|open
+Wires to high risk jurisdiction|00544342|Hernandez, Jason R.|2026/08/12|$12,893|open
+Funnel account deposits|972163|Young, Raymond K.|2026/10/30|$45,629|open
+Cash deposits over 10k in 3 days|00388375|Perez, Teresa|2026-05-29|$27,613|open
+Cash deposits over 10k in 3 days|611354|Miller, Angela|2026/10/31|$10,378|open
+Wires to high risk jurisdiction|883758|Smith, Kevin|2026-07-24|$3,367|open
+Round dollar wires|929004|Reyes, Angela|2026/10/22|$10,176|open
+Wires to high risk jurisdiction|00578988|Hernandez, Angela|2026-06-25|$12,275|open
+Funnel account deposits|494002|Sanchez, Carlos K.|2026/03/19|$33,362|open
+Wires to high risk jurisdiction|177890|Morales, Henry|2026-05-15|$9,118|open
+Round dollar wires|882869|Morales, Nadia|2026-09-24|$17,164|open
+Round dollar wires|846607|Moore, Diana|2026-03-22|$10,474|open
+Funnel account deposits|910721|Walker, Steven|2026/09/20|$392|open
+Round dollar wires|00048380|Brown, Eric|2026-04-29|$6,438|open
+Wires to high risk jurisdiction|00381406|Sanchez, Carlos M.|2026-06-15|$3,078|open
+Round dollar wires|364585|Martin, Samuel|2026-05-23|$12,432|open
+Funnel account deposits|18456|Sanchez, Carlos|2026-04-08|$7,705|open
+Funnel account deposits|00308254|Martinez, Mark L.|2026-05-09|$2,905|open
+Round dollar wires|00038087|Young, Angela|2026-06-08|$30,487|open
+Cash deposits over 10k in 3 days|459141|Hall, Steven|2026-03-15|$13,684|open
+Funnel account deposits|805854|Rodriguez, Steven|2026-06-05|$10,917|open
+Wires to high risk jurisdiction|00237391|Lee, Steve|2026-03-29|$2,249|open
+Wires to high risk jurisdiction|587418|Vargas, Andy|2026/10/13|$2,288|open
+Round dollar wires|00904197|Walker, Anthony|2026-04-14|$3,157|open
+Check kiting pattern|00234989|Williams, Carmen|2026/10/25|$37,480|open
+Check kiting pattern|00458859|Torres, Mark B.|2026-07-26|$6,818|closed
+Check kiting pattern|00962406|Martin, Victor|2026-06-15|$15,280|open
+Round dollar wires|293192|Flores, Ana|2026/10/30|$11,418|open
+Check kiting pattern|00519521|Diaz, Henry C.|2026/08/09|$2,963|open
+Check kiting pattern|00584818|Hernandez, Ana|2026-04-02|$6,142|open
+Round dollar wires|00579658|Garcia, Eric|2026/10/12|$60,443|open
+Funnel account deposits|00544342|Hernandez, Jason|2026/06/27|$9,711|open
+Cash deposits over 10k in 3 days|00705926|Walker, Kevin L.|2026/08/31|$3,333|open
+Round dollar wires|00082391|Wilson, Patricia|2026-10-03|$37,491|open
+Check kiting pattern|00419122|Chavez, Julia|2026/05/17|$4,840|open
+Wires to high risk jurisdiction|161567|Scott, Isabel K.|2026-05-23|$9,449|open
+Wires to high risk jurisdiction|00377452|Jones, Jason J.|2026-03-25|$13,000|open
+Cash deposits over 10k in 3 days|00826993|Lopez, Eric|2026/05/16|$9,357|open
+Check kiting pattern|2047101|Perez, Kevin|2026-04-20|$5,154|open
+Cash deposits over 10k in 3 days|780560|Moore, Gloria P.|2026-08-26|$11,612|open
+Cash deposits over 10k in 3 days|00737593|Moore, Luis|2026/10/15|$38,345|open
+Wires to high risk jurisdiction|00020581|Cruz, Samuel|2026/10/10|$6,705|open
+Wires to high risk jurisdiction|827263|Young, Patricia|2026-07-03|$4,265|open
+Round dollar wires|40073|Martin, Julia|2026/04/11|$3,590|open
+Check kiting pattern|3392961|King, Raymond E.|2026-04-27|$8,666|open
+Funnel account deposits|919548|Gonzalez, Sam|2026/08/08|$4,523|open
+Round dollar wires|381406|Sanchez, Carlos M.|2026-03-14|$18,643|open
+Check kiting pattern|00188244|Garcia, Steven|2026-10-27||open
+Wires to high risk jurisdiction|815411|Perez, Kevin|2026/06/09|$34,692|open
+Funnel account deposits|628007|Reyes, Carmen|2026-08-22|$7,380|open
+Funnel account deposits|721094|Sanchez, Brian|2026-04-03|$909|open
+Funnel account deposits|40844|Green, Samuel|2026-03-23|$17,893|open
+Check kiting pattern|00361582|Garcia, Monica|2026-03-03|$4,855|open
+Round dollar wires|00900596|Ramos, Nadia|2026-06-11|$33,664|open
+Wires to high risk jurisdiction|873977|Jackson, Joseph B.|2026/08/10|$28,204|closed
+Round dollar wires|986719|Williams, Lucia R.|2026-07-16|$10,734|open
+Wires to high risk jurisdiction|00398258|Rodriguez, Linda S.|2026-03-19|$5,618|open
+Wires to high risk jurisdiction|00121087|Garcia, Nadia|2026-04-26|$12,671|open
+Cash deposits over 10k in 3 days|00136145|Davis, Carlos|2026/03/24|$60,335|open
+Round dollar wires|84182|Flores, Carlos|2026-06-21|$4,858|closed
+Wires to high risk jurisdiction|549456|Gutierrez, Laura|2026-07-25|$7,087|open
+Cash deposits over 10k in 3 days|726615|Johnson, Eric|2026/10/07|$3,221|open
+Round dollar wires|471643|Ortiz, Michael G.|2026/09/16|$4,104|open
+Cash deposits over 10k in 3 days|127186|Sanchez, Eric C.|2026-07-07|$12,750|open
+Round dollar wires|579614|Miller, James W.|2026-08-08|$48,360|closed
+Cash deposits over 10k in 3 days|00880249|Ramirez, Tom|2026/09/10|$33,187|open
+Cash deposits over 10k in 3 days|00247872|Hernandez, Patricia|2026-07-24|$31,113|open
+Check kiting pattern|00549456|Gutierrez, Laura|2026/05/13|$1,325|open
+Funnel account deposits|00519100|Walker, Maria|2026-06-05|$13,568|open
+Round dollar wires|00700133|Miller, Rosa|2026-07-09|$10,340|open
+Check kiting pattern|00963039|Perez, Kevin|2026/03/04|$15,932|open
+Round dollar wires|529809|Gutierrez, Teresa|2026-09-08|$4,188|open
+Check kiting pattern|00505168|Vargas, Rosa|2026-09-20||closed
+Funnel account deposits|748480|Sanchez, Rosa|2026/05/03|$13,931|closed
+Wires to high risk jurisdiction|615856|Rivera, Carmen|2026-05-21|$9,598|open
+Cash deposits over 10k in 3 days|377515|Walker, Carmen|2026-09-04|$15,328|open
+Round dollar wires|839815|Hall, Monica|2026-08-22|$4,370|open
+Round dollar wires|466668|Hernandez, Julia|2026-10-06|$7,156|open
+Round dollar wires|484606|Ortiz, David|2026-07-30|$7,271|open
+Funnel account deposits|961450|Ramos, Patricia|2026/04/01|$11,212|open
+Cash deposits over 10k in 3 days|00788807|Torres, Carlos S.|2026-05-18|$3,028|open
+Wires to high risk jurisdiction|00070655|King, Gloria|2026/04/27|$7,338|open
+Check kiting pattern|00407793|Davis, Robert T.|2026-03-12|$5,169|open
+Check kiting pattern|00998465|Reyes, Michael|2026-03-26|$5,980|open
+Funnel account deposits|50789|Jackson, Carlos|2026-10-25||open
+Funnel account deposits|1812814|Ramirez, Tom|2026-04-15|$4,375|open
+Wires to high risk jurisdiction|570161|Martin, Carlos|2026/10/10|$23,420|open
+Cash deposits over 10k in 3 days|00175456|Anderson, Luis|2026-05-11|$2,316|open
+Cash deposits over 10k in 3 days|00560424|Moore, Maria|2026-03-23|$5,693|open
+Wires to high risk jurisdiction|293192|Flores, Ana|2026-07-09|$6,356|open
+Check kiting pattern|291976|Wilson, Michael S.|2026-05-20|$7,233|open
+Wires to high risk jurisdiction|584129|Reyes, Raymond H.|2026/08/27|$939|open
+Check kiting pattern|777077|Vargas, Andrew|2026-09-09|$16,266|open
+Cash deposits over 10k in 3 days|412799|Wilson, Kevin|2026/08/18|$7,591|open
+Wires to high risk jurisdiction|639649|Gutierrez, Joseph|2026/05/03|$16,183|closed
+Funnel account deposits|234989|Williams, Carmen S.|2026/03/26|$4,273|open
+Funnel account deposits|00508082|Jones, Carlos|2026/09/28|$3,431|open
+Funnel account deposits|305286|Ramirez, Angela|2026-07-31|$8,418|open
+Check kiting pattern|615598|Hall, Elena|2026-07-29|$17,336|open
+Round dollar wires|00448799|Jackson, Henry|2026/07/25|$3,289|open
+Wires to high risk jurisdiction|00393908|Miller, Mark|2026-09-23|$20,694|open
+Funnel account deposits|731726|Johnson, Daniel|2026-10-31|$7,959|open
+Wires to high risk jurisdiction|303619|Perez, Tom|2026-06-24|$6,593|open
+Wires to high risk jurisdiction|562658|Chavez, Daniel|2026-06-14|$8,444|open
+Funnel account deposits|580292|Scott, Maria|2026/10/27|$17,530|open
+Check kiting pattern|8317663|Gonzalez, Nadia|2026-06-30|$24,183|open
+Check kiting pattern|986296|Walker, Diana|2026-08-31|$45,706|open
+Round dollar wires|00458570|Brown, David F.|2026-03-08|$16,945|open
+Funnel account deposits|00209531|Morales, Jason|2026-10-18|$40,726|open
+Check kiting pattern|00224518|King, Linda|2026-04-21|$18,792|open
+Cash deposits over 10k in 3 days|00331003|Davis, Diana|2026-04-08|$7,594|open
+Round dollar wires|815638|Martinez, Kevin W.|2026-07-13|$12,119|open
+Cash deposits over 10k in 3 days|882869|Morales, Nadia T.|2026-10-30|$24,958|open
+Wires to high risk jurisdiction|419122|Chavez, Julia E.|2026-09-23|$12,197|open
+Round dollar wires|718823|Gonzalez, Mike C.|2026-10-25|$7,673|closed
+Funnel account deposits|00141997|Allen, Isabel|2026-05-30|$45,525|open
+Funnel account deposits|00616497|Rodriguez, Laura|2026/06/11|$5,794|open
+Cash deposits over 10k in 3 days|00878494|Garcia, Linda|2026/10/14|$18,383|open
+Round dollar wires|330206|Ramos, Victor D.|2026-10-25|$2,108|open
+Round dollar wires|828034|Hernandez, Brian|2026-03-21|$15,299|open
+Round dollar wires|388375|Perez, Teresa|2026-04-13|$11,851|open
+Check kiting pattern|818948|Torres, Pat|2026-07-30|$5,573|open
+Wires to high risk jurisdiction|508082|Jones, Carlos|2026-09-29|$9,687|open
+Check kiting pattern|1326184|Garcia, Steven|2026-09-19|$11,217|open
+Round dollar wires|639649|Gutierrez, Joseph|2026-09-12|$5,835|open
+Check kiting pattern|639083|Perez, Laura|2026-08-13|$4,403|open
+Round dollar wires|00584818|Hernandez, Ana|2026-09-21|$10,516|open
+Check kiting pattern|878494|Garcia, Linda|2026-07-09|$5,683|open
+Round dollar wires|00384992|Moore, Brian|2026-07-30|$15,038|open
+Round dollar wires|00737593|Moore, Luis L.|2026-04-14|$12,830|open
+Wires to high risk jurisdiction|00049890|Walker, David|2026-03-23|$23,566|open
+Wires to high risk jurisdiction|486697|Perez, Lucia|2026-05-28|$40,979|open
+Cash deposits over 10k in 3 days|113041|Gutierrez, Paula S.|2026-04-25|$3,141|open
+Wires to high risk jurisdiction|00070655|King, Gloria|2026-08-06|$24,635|open
+Wires to high risk jurisdiction|00113455|Young, Daniel|2026-06-02|$16,978|open
+Round dollar wires|00185099|Hernandez, Luis E.|2026-08-14|$13,413|open
+Funnel account deposits|561907|Diaz, Angela|2026/10/23|$4,335|open
+Funnel account deposits|00593227|Wilson, Victor|2026-10-04|$7,667|open
+Round dollar wires|19835|Smith, Isabel|2026/05/24|$1,229|open
+Round dollar wires|184925|Williams, Henry|2026-08-18|$11,901|open
+Funnel account deposits|00834498|Jones, Joseph|2026-10-05|$14,695|open
+Round dollar wires|00167399|Martin, Monica|2026-10-08|$23,469|open
+Wires to high risk jurisdiction|635821|Martinez, Ana|2026-04-13|$7,551|open
+Check kiting pattern|389491|Martin, Brian D.|2026-07-18|$17,411|open
+Check kiting pattern|131821|Smith, Thomas|2026/03/19|$52,424|open
+Wires to high risk jurisdiction|00555421|Wilson, Gloria|2026/08/14|$13,186|open
+Wires to high risk jurisdiction|519521|Diaz, Henry C.|2026-06-09|$16,727|open
+Round dollar wires|00299657|Brown, Julia|2026-10-12||open
+Check kiting pattern|234989|Williams, Carmen S.|2026-06-22|$6,087|open
+Cash deposits over 10k in 3 days|00818166|Reyes, James|2026-09-09|$25,870|open
+Wires to high risk jurisdiction|74256|Moore, David L.|2026-10-26||open
+Check kiting pattern|00468802|Torres, Daniel M.|2026-05-18|$29,374|open
+Funnel account deposits|00905857|Cruz, Eric|2026-10-02|$10,653|open
+Check kiting pattern|861919|Jackson, Steve|2026-09-09|$10,507|open
+Funnel account deposits|00407793|Davis, Bob|2026-10-12|$26,614|open
+Wires to high risk jurisdiction|293192|Flores, Ana|2026-08-22|$30,509|open
+Round dollar wires|93705|Gomez, Henry P.|2026/07/14|$16,169|open
+Wires to high risk jurisdiction|834498|Jones, Joseph|2026-03-28|$5,144|open
+Wires to high risk jurisdiction|640091|Cruz, Victor|2026/04/23|$6,044|open
+Funnel account deposits|00727534|Anderson, Henry|2026/03/20|$16,462|open
+Wires to high risk jurisdiction|119197|Martin, Diana|2026/09/26|$35,026|open
+Round dollar wires|00442645|Lopez, Raymond|2026-05-09|$3,866|closed
+Round dollar wires|561907|Diaz, Angela|2026-10-16|$10,064|open
+Funnel account deposits|626567|Martinez, David|2026/09/03|$3,550|open
+Funnel account deposits|00539299|Young, Daniel|2026-04-06|$3,255|open
+Cash deposits over 10k in 3 days|00197968|Rivera, Henry H.|2026-10-10|$6,727|open
+Wires to high risk jurisdiction|00035650|Reyes, Daniel T.|2026-09-23|$13,810|open
+Check kiting pattern|638899|Ortiz, Steve|2026-05-02|$11,981|open
+Check kiting pattern|00646087|Gonzalez, Monica|2026-03-12|$7,435|open
+Cash deposits over 10k in 3 days|549456|Gutierrez, Laura|2026-06-02|$12,328|open
+Funnel account deposits|619537|Cruz, Daniel G.|2026/05/09|$15,695|open
+Check kiting pattern|00546111|Cruz, Sofia|2026-09-03|$5,868|open
+Wires to high risk jurisdiction|00657804|Anderson, Daniel T.|2026/08/09|$19,006|open
+Wires to high risk jurisdiction|00571314|Wilson, Kevin|2026-05-29|$10,176|open
+Funnel account deposits|2443329|Anderson, Paula A.|2026-05-02|$14,475|open
+Round dollar wires|00553438|Rodriguez, Maria|2026-08-31|$20,837|open
+Cash deposits over 10k in 3 days|226735|Anderson, Daniel|2026-03-27|$3,150|open
+Wires to high risk jurisdiction|00276200|Ramos, Julia|2026-07-07|$9,722|open
+Funnel account deposits|910558|Gomez, Henry|2026-03-07|$3,631|open
+Funnel account deposits|00848290|Martin, Robert|2026-05-26|$13,983|open
+Check kiting pattern|431615|Flores, Carlos|2026-04-08|$37,020|open
+Cash deposits over 10k in 3 days|00412062|Flores, Maria|2026-10-19|$6,805|open
+Cash deposits over 10k in 3 days|00264732|Moore, Elena K.|2026/07/25|$19,608|open
+Funnel account deposits|00386645|Ortiz, Pat C.|2026-07-15|$20,249|open
+Cash deposits over 10k in 3 days|777077|Vargas, Andy|2026/05/03||open
+Wires to high risk jurisdiction|22160|Williams, Carmen|2026-04-19|$54,561|open
+Funnel account deposits|903713|Scott, Sofia|2026-04-12|$2,795|open
+Cash deposits over 10k in 3 days|00665035|Smith, Maria|2026-03-10||open
+Wires to high risk jurisdiction|764751|Brown, Eric|2026-08-07|$5,910|open
+Round dollar wires|681482|Rivera, Isabel|2026/03/07||open
+Cash deposits over 10k in 3 days|188244|Garcia, Steven|2026-03-01|$3,209|open
+Round dollar wires|00618815|Young, Eric|2026-08-25|$10,640|open
+Cash deposits over 10k in 3 days|709223|Smith, Henry|2026/06/21|$100,968|open
+Wires to high risk jurisdiction|245801|Cruz, James|2026-03-15|$89,869|open
+Funnel account deposits|364585|Martin, Samuel|2026/06/19|$13,334|open
+Cash deposits over 10k in 3 days|00362261|Ramos, Victor|2026-08-01|$4,818|open
+Wires to high risk jurisdiction|00652269|Garcia, Luis|2026/06/10|$56,576|open
+Check kiting pattern|174293|Martin, Steve|2026/05/04|$20,099|open
+Round dollar wires|93705|Gomez, Henry|2026-05-11|$14,530|open
+Check kiting pattern|818948|Torres, Patricia|2026/05/02|$3,480|open
+Cash deposits over 10k in 3 days|496735|Jones, Sofia|2026-03-22|$10,352|open
+Round dollar wires|575718|Williams, Maria|2026/04/15|$41,524|open
+Wires to high risk jurisdiction|00265878|Johnson, Ana|2026/07/08|$14,878|open
+Cash deposits over 10k in 3 days|431615|Flores, Carlos|2026-05-10|$15,722|open
+Funnel account deposits|00560668|Scott, Henry M.|2026/04/20|$3,976|open
+Check kiting pattern|00909961|Jones, Daniel|2026/10/29|$1,523|open
+Wires to high risk jurisdiction|00788807|Torres, Carlos|2026-09-19|$21,844|open
+Funnel account deposits|416400|Johnson, Julia|2026-05-16||closed
+Check kiting pattern|00583892|Johnson, Robert F.|2026-07-06|$9,696|open
+Wires to high risk jurisdiction|00815685|Jones, Monica|2026-05-10|$19,136|open
+Check kiting pattern|225308|Garcia, Elena|2026-07-08|$11,215|open
+Round dollar wires|126264|Garcia, Elena|2026-07-29|$27,940|open
+Round dollar wires|573746|Flores, James|2026/08/30|$17,845|open
+Wires to high risk jurisdiction|316115|Ramirez, Laura|2026-09-15|$717|open
+Check kiting pattern|00927889|Anderson, Mark R.|2026/09/03|$6,598|open
+Check kiting pattern|108599|Miller, Luis S.|2026-04-17|$25,151|open
+Check kiting pattern|00764109|Green, David T.|2026-08-27|$40,050|open
+Funnel account deposits|00561519|Jones, Henry|2026/05/30||open
+Round dollar wires|00297855|Ortiz, Paula|2026-07-27|$17,501|open
+Funnel account deposits|00113815|Anderson, Pat|2026/07/27|$12,167|open
+Cash deposits over 10k in 3 days|00945116|Miller, Brian M.|2026/05/14|$32,234|open
+Check kiting pattern|328099|Moore, Lucia|2026-08-07|$4,098|open
+Round dollar wires|00619537|Cruz, Daniel|2026-04-18||open
+Cash deposits over 10k in 3 days|764751|Brown, Eric J.|2026-04-12|$10,461|open
+Check kiting pattern|00052237|Ramirez, Luis N.|2026-09-15|$2,541|open
+Cash deposits over 10k in 3 days|548184|Anderson, Mark H.|2026/07/04|$5,334|open
+Cash deposits over 10k in 3 days|995313|Jones, Teresa N.|2026-06-27|$14,042|open
+Wires to high risk jurisdiction|00416400|Johnson, Julia L.|2026-09-04|$38,422|open
+Cash deposits over 10k in 3 days|00187429|Taylor, Paula|2026-06-30|$6,598|open
+Cash deposits over 10k in 3 days|654853|Flores, Carmen|2026/08/20|$18,528|open
+Round dollar wires|00852625|Gutierrez, Steven|2026/06/07|$16,901|open
+Check kiting pattern|175456|Anderson, Luis|2026-09-03|$28,843|open
+Funnel account deposits|152638|King, Kevin|2026-06-04|$7,795|open
+Round dollar wires|99820|Brown, Monica T.|2026-06-10|$8,963|open
+Wires to high risk jurisdiction|418478|Torres, Paula|2026/03/02|$47,448|open
+Round dollar wires|308254|Martinez, Mark L.|2026/10/04|$72,168|open
+Wires to high risk jurisdiction|525681|Chavez, Kevin|2026-03-19|$2,878|open
+Wires to high risk jurisdiction|00099830|Hall, Sofia|2026-08-06|$4,733|open
+Round dollar wires|00360533|Green, Paula F.|2026/07/13|$9,404|open
+Funnel account deposits|543664|Moore, Sofia|2026-07-25|$5,323|open
+Funnel account deposits|00070290|Garcia, Sofia|2026-03-15|$19,198|open
+Cash deposits over 10k in 3 days|00907811|Martinez, Luis|2026/09/18|$8,451|open
+Funnel account deposits|527490|Chavez, Bob|2026-03-23|$10,858|open
+Funnel account deposits|677083|Davis, Lucia E.|2026-07-03|$14,811|open
+Wires to high risk jurisdiction|00797607|Flores, Eric S.|2026-05-08|$14,004|open
+Funnel account deposits|293192|Flores, Ana|2026/09/08|$9,866|open
+Check kiting pattern|00963039|Perez, Kevin H.|2026/07/09|$6,761|open
+Check kiting pattern|167399|Martin, Monica|2026/07/23|$4,464|closed
+Wires to high risk jurisdiction|00038087|Young, Angela|2026-09-28|$10,629|open
+Cash deposits over 10k in 3 days|458859|Torres, Mark B.|2026-03-27|$2,201|closed
+Wires to high risk jurisdiction|00937655|Hall, Angela N.|2026/05/04|$4,481|open
+Wires to high risk jurisdiction|00407793|Davis, Robert T.|2026-06-21|$10,225|open
+Funnel account deposits|00451781|Gonzalez, Nadia S.|2026-07-07|$7,079|open
+Round dollar wires|463727|Hernandez, Patricia|2026-07-07|$2,331|open
+Cash deposits over 10k in 3 days|990634|Allen, Kevin|2026/06/23|$15,593|open
+Check kiting pattern|00878706|Hall, Raymond K.|2026-09-27|$14,083|closed
+Funnel account deposits|00081276|Lee, Kevin|2026-03-17|$28,029|closed
+Check kiting pattern|00170942|Gomez, Robert K.|2026-03-04|$4,285|open
+Round dollar wires|249066|Cruz, Maria L.|2026-09-10|$7,306|open
+Cash deposits over 10k in 3 days|00350463|Gutierrez, Teresa A.|2026-08-30|$11,916|open
+Check kiting pattern|840168|Torres, Victor|2026-08-25|$3,500|open
+Round dollar wires|190569|Ortiz, Monica F.|2026-08-13|$14,183|open
+Funnel account deposits|498352|Gutierrez, Patricia|2026-10-26|$5,271|open
+Round dollar wires|875784|Gomez, Samuel K.|2026-03-16|$22,447|open
+Check kiting pattern|00372769|Vargas, James|2026-04-17|$17,834|open
+Wires to high risk jurisdiction|304628|King, Julia|2026-10-26|$5,037|open
+Check kiting pattern|990688|Perez, Rosa|2026-05-22|$21,366|open
+Wires to high risk jurisdiction|00895297|Ramirez, Ana|2026/08/28|$15,039|open
+Funnel account deposits|499811|Hernandez, Thomas R.|2026/09/01|$2,445|open
+Check kiting pattern|00993414|Perez, Henry|2026-04-17|$14,159|open
+Round dollar wires|00781880|Hernandez, James M.|2026/09/10|$25,538|open
+Round dollar wires|429303|Williams, James|2026/08/25|$20,093|open
+Cash deposits over 10k in 3 days|00986719|Williams, Lucia R.|2026-05-10|$2,561|open
+Funnel account deposits|128606|Moore, Rosa|2026-09-03|$7,722|open
+Wires to high risk jurisdiction|41776|Jones, Brian|2026-05-17|$19,016|open
+Funnel account deposits|727919|Perez, Robert|2026/05/31|$2,759|open
+Check kiting pattern|00906007|Williams, Sofia A.|2026-03-07|$2,461|open
+Round dollar wires|617141|Davis, Julia P.|2026-07-25|$139,810|open
+Check kiting pattern|175456|Anderson, Luis|2026-07-18|$11,496|open
+Round dollar wires|00883442|Anderson, Laura|2026-09-13||open
+Cash deposits over 10k in 3 days|00403635|Lee, Linda|2026-09-04|$3,322|open
+Funnel account deposits|216122|Reyes, James|2026-09-12|$10,167|open
+Round dollar wires|00170942|Gomez, Robert|2026-04-03|$82,022|open
+Funnel account deposits|00298561|Anderson, David|2026-08-29|$5,717|open
+Funnel account deposits|00412799|Wilson, Kevin|2026-05-05|$5,136|closed
+Check kiting pattern|709387|Gutierrez, Dan|2026-08-05|$2,238|open
+Wires to high risk jurisdiction|188244|Garcia, Steven L.|2026/06/19|$19,575|open
+Funnel account deposits|00033049|Wright, Victor|2026-07-13|$4,714|open
+Wires to high risk jurisdiction|690242|Ramos, Daniel|2026-04-09|$8,315|open
+Round dollar wires|277597|Hall, Nadia F.|2026-03-13|$7,452|open
+Funnel account deposits|702893|King, Daniel|2026-10-22|$10,733|open
+Round dollar wires|00746449|Torres, Carmen|2026-09-07|$5,809|open
+Cash deposits over 10k in 3 days|988001|Morales, Rosa|2026/08/17|$11,521|open
+Wires to high risk jurisdiction|156926|Allen, Henry|2026-08-18|$2,118|open
+Wires to high risk jurisdiction|486697|Perez, Lucia C.|2026-09-01|$12,910|open
+Check kiting pattern|00126264|Garcia, Elena|2026-04-20|$13,004|open
+Check kiting pattern|305731|Martinez, Steven|2026/06/21|$2,165|open
+Check kiting pattern|263268|Cruz, Mark|2026/05/02|$7,335|open
+Funnel account deposits|141673|Ramirez, Monica N.|2026-09-05|$5,195|open
+Cash deposits over 10k in 3 days|234082|Allen, Lucia|2026-09-21|$5,381|open
+Funnel account deposits|00293912|Morales, Carmen|2026-08-23|$56,511|closed
+Round dollar wires|102500|Miller, Laura|2026-03-22||open
+Funnel account deposits|187429|Taylor, Paula J.|2026-10-09|$10,340|open
+Wires to high risk jurisdiction|944661|Jones, Eric|2026/04/06|$9,468|open
+Check kiting pattern|145709|Moore, Eric|2026/06/01|$8,645|open
+Funnel account deposits|00575718|Williams, Maria|2026-06-08|$10,715|open
+Wires to high risk jurisdiction|48724|Johnson, Nadia|2026-06-27|$25,324|open
+Check kiting pattern|00275536|Green, Daniel|2026-05-12|$28,846|open
+Wires to high risk jurisdiction|00907903|Williams, Mark|2026-09-08|$9,055|open
+Cash deposits over 10k in 3 days|00103424|Wright, Rosa|2026-09-25|$9,940|open
+Cash deposits over 10k in 3 days|00554399|Rodriguez, Raymond S.|2026/07/06|$10,444|open
+Cash deposits over 10k in 3 days|70818|Diaz, Angela|2026-05-30|$9,393|open
+Funnel account deposits|00279821|Moore, Michael|2026-10-22|$3,103|open
+Cash deposits over 10k in 3 days|256219|Moore, Nadia|2026-03-12|$9,759|open
+Cash deposits over 10k in 3 days|187953|Garcia, Laura R.|2026-03-30|$22,115|open
+Funnel account deposits|81276|Lee, Kevin P.|2026-07-06|$10,652|open
+Funnel account deposits|00823985|Brown, Monica A.|2026-09-16||closed
+Check kiting pattern|190569|Ortiz, Monica|2026-04-26|$13,015|open
+Wires to high risk jurisdiction|937655|Hall, Angela|2026-04-22|$12,873|open
+Round dollar wires|00746449|Torres, Carmen C.|2026-06-30|$11,782|open
+Wires to high risk jurisdiction|403635|Lee, Linda|2026-09-07|$8,590|open
+Funnel account deposits|485306|Wright, Monica|2026-03-17|$8,761|open
+Funnel account deposits|00521033|Reyes, Joe|2026-03-22|$17,560|open
+Funnel account deposits|576315|Young, Sofia A.|2026/10/15|$1,941|open
+Check kiting pattern|00419122|Chavez, Julia E.|2026-10-08|$1,520|open
+Check kiting pattern|89011|Walker, Steve|2026/08/10|$4,880|open
+Cash deposits over 10k in 3 days|00435603|Davis, Teresa A.|2026-10-09|$7,351|open
+Funnel account deposits|43062|Garcia, Carmen|2026-07-24|$90,960|open
+Check kiting pattern|00546111|Cruz, Sofia|2026/08/22|$12,333|open
+Check kiting pattern|421065|Vargas, James|2026/08/22|$2,205|open
+Funnel account deposits|900387|Garcia, Samuel|2026-07-08|$6,795|open
+Check kiting pattern|00905216|Gonzalez, Robert|2026-03-07|$15,576|open
+Cash deposits over 10k in 3 days|7769608|Smith, Thomas|2026-08-23|$30,705|open
+Wires to high risk jurisdiction|129316|Rodriguez, Isabel|2026/03/11|$29,661|open
+Check kiting pattern|00415170|Flores, Teresa|2026-08-09|$6,410|open
+Funnel account deposits|00458642|Wilson, Elena|2026-03-27|$20,858|open
+Wires to high risk jurisdiction|332710|Gomez, Mark|2026-09-07|$13,456|open
+Funnel account deposits|00102500|Miller, Laura H.|2026-06-15|$4,978|open
+Wires to high risk jurisdiction|204691|Ramirez, Julia|2026-04-29|$10,012|open
+Funnel account deposits|00099820|Brown, Monica|2026/10/06|$15,503|open
+Cash deposits over 10k in 3 days|00070818|Diaz, Angela B.|2026-07-18|$10,044|open
+Wires to high risk jurisdiction|00213295|Jones, Mike W.|2026-08-03|$34,413|open
+Round dollar wires|00297711|Wright, Daniel H.|2026-03-09|$3,764|open
+Cash deposits over 10k in 3 days|00579614|Miller, James|2026-10-16||open
+Wires to high risk jurisdiction|458859|Torres, Mark B.|2026-06-24|$5,160|open
+Cash deposits over 10k in 3 days|353863|Wilson, Monica B.|2026/10/05|$4,911|open
+Wires to high risk jurisdiction|907811|Martinez, Luis|2026/04/30|$77,815|open
+Cash deposits over 10k in 3 days|873977|Jackson, Joe|2026/07/29|$5,016|open
+Cash deposits over 10k in 3 days|00099820|Brown, Monica T.|2026-08-31|$3,267|open
+Funnel account deposits|00658884|Williams, Monica|2026/05/20|$17,079|open
+Funnel account deposits|00700133|Miller, Rosa|2026-03-29|$6,994|open
+Round dollar wires|702219|Green, Pat B.|2026-10-22|$16,048|open
+Wires to high risk jurisdiction|776877|Lee, David|2026-06-19|$5,134|open
+Cash deposits over 10k in 3 days|00416400|Johnson, Julia|2026-10-20|$3,867|open
+Check kiting pattern|519521|Diaz, Henry|2026-09-05|$5,721|open
+Wires to high risk jurisdiction|579614|Miller, James|2026/07/22|$22,321|open
+Cash deposits over 10k in 3 days|00844717|Young, Anthony|2026/10/05|$11,780|open
+Round dollar wires|726082|Torres, Isabel|2026-05-23|$16,227|closed
+Funnel account deposits|00941657|Gonzalez, Teresa|2026-08-22|$3,361|open
+Cash deposits over 10k in 3 days|00281162|Morales, Angela|2026-10-03|$4,764|closed
+Check kiting pattern|340225|Ramirez, Raymond|2026/05/13|$26,503|open
+Round dollar wires|00525426|Miller, Elena|2026-05-25|$2,640|open
+Funnel account deposits|389889|Lopez, Carmen|2026/03/01|$3,828|open
+Funnel account deposits|740871|Gomez, David R.|2026-05-15|$8,261|open
+Round dollar wires|809971|Gonzalez, Laura|2026-09-08|$1,826|open
+Round dollar wires|00852625|Gutierrez, Steven L.|2026-05-24|$2,790|open
+Cash deposits over 10k in 3 days|00161567|Scott, Isabel|2026-08-27|$9,023|open
+Cash deposits over 10k in 3 days|626567|Martinez, David|2026-04-27|$11,383|open
+Check kiting pattern|00937655|Hall, Angela|2026-04-02|$5,507|open
+Funnel account deposits|00126264|Garcia, Elena|2026-09-04|$10,356|open
+Check kiting pattern|00484606|Ortiz, David|2026/09/03|$80,643|open
+Wires to high risk jurisdiction|484198|Lopez, Steven N.|2026-09-03|$11,715|open
+Round dollar wires|860389|King, Brian|2026-07-21|$17,264|open
+Round dollar wires|275536|Green, Daniel|2026-07-09|$5,108|open
+Cash deposits over 10k in 3 days|00153161|Davis, Sofia|2026/05/13|$62,434|open
+Cash deposits over 10k in 3 days|907836|Garcia, Elena|2026-05-21|$10,199|open
+Wires to high risk jurisdiction|995313|Jones, Teresa N.|2026/08/28|$6,802|open
+Funnel account deposits|00611354|Miller, Angela P.|2026-04-21|$7,238|open
+Funnel account deposits|00705926|Walker, Kevin|2026/03/02|$19,233|open
+Funnel account deposits|852192|Gomez, David|2026-09-29|$11,641|open
+Cash deposits over 10k in 3 days|00340225|Ramirez, Raymond N.|2026-10-31|$9,631|open
+Check kiting pattern|00553438|Rodriguez, Maria F.|2026/06/07|$2,421|open
+Wires to high risk jurisdiction|426933|Lopez, Luis D.|2026/07/25|$5,809|open
+Funnel account deposits|496735|Jones, Sofia|2026-04-23|$2,423|open
+Funnel account deposits|00268003|Diaz, Victor|2026-05-30|$12,125|open
+Wires to high risk jurisdiction|00262771|Davis, Julia F.|2026/08/24|$23,527|open
+Cash deposits over 10k in 3 days|718329|Wright, Diana N.|2026-04-06|$7,739|open
+Round dollar wires|809971|Gonzalez, Laura|2026/09/23|$10,266|open
+Check kiting pattern|00549745|Wilson, Sam N.|2026-07-20|$8,153|closed
+Wires to high risk jurisdiction|82391|Wilson, Patricia G.|2026/03/03|$9,652|open
+Cash deposits over 10k in 3 days|00619537|Cruz, Daniel|2026-05-17|$16,342|open
+Cash deposits over 10k in 3 days|962084|Martinez, Julia|2026/08/22|$26,243|open
+Cash deposits over 10k in 3 days|00094662|Jones, Raymond|2026/03/01|$12,825|open
+Funnel account deposits|490057|Torres, Patricia|2026-06-04|$9,606|open
+Round dollar wires|00136445|Perez, Carlos W.|2026-07-27|$46,993|closed
+Cash deposits over 10k in 3 days|463274|Jackson, Nadia|2026-07-04|$7,143|open
+Round dollar wires|00201239|Walker, David|2026-09-18|$14,774|open
+Round dollar wires|00640091|Cruz, Victor|2026-10-31|$29,779|open
+Check kiting pattern|41776|Jones, Brian|2026-08-23|$6,393|open
+Check kiting pattern|681423|Miller, Patricia|2026/05/16|$21,061|open
+Funnel account deposits|815638|Martinez, Kevin|2026-04-17|$5,408|open
+Wires to high risk jurisdiction|00630383|Garcia, Rosa|2026/05/20|$10,696|open
+Check kiting pattern|639083|Perez, Laura|2026/04/12|$25,957|open
+Funnel account deposits|293192|Flores, Ana|2026-05-24|$4,960|open
+Wires to high risk jurisdiction|00305286|Ramirez, Angela|2026/09/05||open
+Round dollar wires|724330|Reyes, Anthony|2026-06-07|$5,562|open
+Wires to high risk jurisdiction|00053115|Lopez, Linda|2026-05-24|$2,253|open
+Round dollar wires|00927889|Anderson, Mark R.|2026-06-21|$2,792|open
+Round dollar wires|798694|Rodriguez, Laura K.|2026-08-10|$30,167|open
+Cash deposits over 10k in 3 days|63798|Walker, Elena|2026-06-07|$11,244|open
+Funnel account deposits|00928006|Perez, Monica|2026-05-11|$20,300|open
+Funnel account deposits|12323|Ramirez, Victor|2026/06/13|$23,040|closed
+Cash deposits over 10k in 3 days|00160959|Reyes, Ana P.|2026-07-18|$8,071|open
+Check kiting pattern|00676709|Rodriguez, Angela|2026-06-30|$18,672|open
+Funnel account deposits|00711221|Green, Ana|2026/08/06|$57,899|open
+Wires to high risk jurisdiction|00683704|Jones, Patricia|2026-05-12|$10,423|open
+Check kiting pattern|5003014|Ramos, Joe|2026/09/05|$25,585|open
+Funnel account deposits|00350463|Gutierrez, Teresa|2026-06-11|$4,833|open
+Check kiting pattern|00209422|Chavez, Jason|2026/05/29|$29,004|open
+Check kiting pattern|468802|Torres, Daniel|2026/03/17|$4,894|open
+Wires to high risk jurisdiction|286155|Cruz, Samuel A.|2026/07/08|$39,269|open
+Check kiting pattern|00181888|Wright, Carmen|2026/06/23|$4,130|open
+Cash deposits over 10k in 3 days|41776|Jones, Brian|2026-04-12|$20,360|open
+Wires to high risk jurisdiction|00638523|Chavez, Patricia|2026-06-13|$15,561|open
+Funnel account deposits|00891828|Walker, Paula K.|2026-06-07|$8,731|open
+Wires to high risk jurisdiction|00330206|Ramos, Victor|2026/03/21|$12,754|open
+Funnel account deposits|791611|Perez, Laura A.|2026-04-07|$18,777|open
+Wires to high risk jurisdiction|317492|Flores, Lucia|2026-06-05|$6,604|open
+Check kiting pattern|630564|Sanchez, Isabel|2026/08/11|$8,695|open
+Funnel account deposits|287708|Scott, Julia|2026/05/22|$11,199|open
+Funnel account deposits|72307|Lopez, Lucia|2026-09-19|$4,976|open
+Cash deposits over 10k in 3 days|00986719|Williams, Lucia|2026-10-23|$19,983|open
+Funnel account deposits|824674|Scott, Gloria|2026-09-24|$1,686|open
+Wires to high risk jurisdiction|00791611|Perez, Laura|2026/04/04|$8,562|closed
+Round dollar wires|549745|Wilson, Samuel|2026/07/27|$5,663|open
+Funnel account deposits|00746449|Torres, Carmen|2026-10-19|$27,353|open
+Round dollar wires|00077597|Williams, Robert|2026-05-07|$29,762|open
+Funnel account deposits|00363932|Taylor, Rosa|2026-03-04|$5,251|open
+Round dollar wires|00638899|Ortiz, Steven|2026/05/27|$5,899|open
+Funnel account deposits|125304|Flores, Mark|2026/03/14|$9,737|open
+Cash deposits over 10k in 3 days|953772|Flores, Elena|2026-05-19|$6,686|open
+Wires to high risk jurisdiction|00900596|Ramos, Nadia|2026/04/21|$41,694|open
+Cash deposits over 10k in 3 days|00892877|Young, Gloria W.|2026-08-03|$14,516|open
+Funnel account deposits|00632018|Garcia, Carmen|2026-09-02|$4,807|open
+Funnel account deposits|00104147|Perez, Sofia|2026-08-09|$9,719|open
+Round dollar wires|316115|Ramirez, Laura|2026-04-06|$7,773|open
+Check kiting pattern|00484198|Lopez, Steven|2026-03-22|$9,785|open
+Funnel account deposits|119197|Martin, Diana E.|2026-09-26|$3,283|open
+Funnel account deposits|856748|Torres, Eric|2026/10/12|$1,972|open
+Check kiting pattern|959645|Martin, Carmen|2026/04/30|$4,439|open
+Round dollar wires|226735|Anderson, Daniel|2026-08-16|$28,326|open
+Check kiting pattern|635821|Martinez, Ana E.|2026-04-15|$19,004|open
+Wires to high risk jurisdiction|298443|Gonzalez, Nadia|2026-05-29|$27,288|open
+Funnel account deposits|00995313|Jones, Teresa|2026/04/07|$16,221|closed
+Cash deposits over 10k in 3 days|399249|Allen, Lucia|2026-10-14|$9,122|open
+Funnel account deposits|416400|Johnson, Julia|2026-04-24|$27,857|open
+Cash deposits over 10k in 3 days|00277981|Ramirez, Kevin C.|2026-07-17|$8,580|open
+Funnel account deposits|992177|Reyes, Gloria|2026-10-12|$6,923|open
+Wires to high risk jurisdiction|524851|Young, Ana|2026-03-15|$8,626|open
+Check kiting pattern|00033049|Wright, Victor P.|2026-06-02|$22,430|open
+Check kiting pattern|707631|Williams, Raymond|2026-04-28|$5,163|open
+Round dollar wires|736828|Miller, Eric|2026-03-17|$5,993|open
+Wires to high risk jurisdiction|407614|Garcia, Maria|2026/07/02|$16,519|open
+Funnel account deposits|65707|Miller, Mark C.|2026/04/10|$3,748|open
+Cash deposits over 10k in 3 days|159993|Gomez, Mark F.|2026-05-16|$12,034|open
+Funnel account deposits|00865415|Jackson, Michael|2026-05-01|$24,600|open
+Wires to high risk jurisdiction|00104416|Cruz, Michael|2026-05-15|$6,138|open
+Wires to high risk jurisdiction|00361160|Moore, Isabel|2026-06-05|$2,064|closed
+Round dollar wires|221002|Jones, Thomas|2026/03/19|$38,270|open
+Wires to high risk jurisdiction|00342800|Gutierrez, Andy|2026-08-21|$10,909|open
+Wires to high risk jurisdiction|587418|Vargas, Andrew|2026/05/07||open
+Round dollar wires|00207961|Lopez, Diana|2026/08/31|$17,276|open
+Round dollar wires|00800057|Sanchez, Carmen|2026-10-19|$30,047|open
+Wires to high risk jurisdiction|00895030|Flores, Ana E.|2026-08-14|$11,411|open
+Wires to high risk jurisdiction|545631|King, Andy|2026/04/18|$8,209|open
+Wires to high risk jurisdiction|471550|Ramos, Teresa K.|2026-03-01|$5,527|open
+Cash deposits over 10k in 3 days|00209531|Morales, Jason|2026-10-01|$11,118|open
+Cash deposits over 10k in 3 days|00507705|Wilson, Rosa|2026-05-07|$10,150|open
+Wires to high risk jurisdiction|00180660|Torres, Maria W.|2026/05/08|$18,310|open
+Check kiting pattern|18456|Sanchez, Carlos G.|2026-05-22|$4,862|open
+Funnel account deposits|00848305|Hernandez, Eric C.|2026/09/30|$19,360|open
+Wires to high risk jurisdiction|626148|Walker, Joseph J.|2026-04-20|$15,028|open
+Round dollar wires|6315396|King, Daniel|2026-09-26|$6,077|open
+Cash deposits over 10k in 3 days|198573|Johnson, Steve|2026-08-01|$35,730|open
+Wires to high risk jurisdiction|00094811|Martin, Raymond|2026-03-06|$13,746|open
+Cash deposits over 10k in 3 days|00638523|Chavez, Patricia|2026/10/12|$9,506|open
+Cash deposits over 10k in 3 days|00102500|Miller, Laura|2026/04/19|$6,490|open
+Wires to high risk jurisdiction|00895030|Flores, Ana|2026-03-04|$55,069|open
+Funnel account deposits|00919548|Gonzalez, Samuel|2026-03-21|$7,528|open
+Wires to high risk jurisdiction|00916325|Scott, Luis|2026-05-12|$8,893|open
+Check kiting pattern|00060410|Brown, Maria R.|2026/04/09|$3,363|open
+Cash deposits over 10k in 3 days|00089011|Walker, Steven|2026/05/28|$9,265|open
+Round dollar wires|00372930|Walker, Linda|2026-07-07|$12,892|open
+Wires to high risk jurisdiction|80432|Garcia, Elena|2026-08-05|$13,462|open
+Round dollar wires|00263673|Davis, Kevin|2026-06-13|$11,403|closed
+Cash deposits over 10k in 3 days|530186|Jackson, Kevin|2026-08-06|$6,240|open
+Check kiting pattern|00937655|Hall, Angela|2026/04/06|$32,220|open
+Round dollar wires|00199688|Martinez, Linda|2026-07-29|$1,264|open
+Check kiting pattern|00037383|Hall, James|2026-08-10|$3,563|open
+Wires to high risk jurisdiction|00698791|Smith, Rosa R.|2026-05-10|$5,834|open
+Check kiting pattern|591735|Ramirez, Paula|2026-09-28|$10,049|open
+Check kiting pattern|342800|Gutierrez, Andrew T.|2026/03/30|$13,575|open
+Round dollar wires|00061242|Chavez, Rosa W.|2026-08-18|$14,574|open
+Round dollar wires|197573|Smith, Angela|2026-07-01|$32,474|open
+Check kiting pattern|00834498|Jones, Joe N.|2026/04/13|$10,496|open
+Cash deposits over 10k in 3 days|412799|Wilson, Kevin|2026-04-23|$1,536|open
+Check kiting pattern|391272|Green, Andrew|2026/03/04|$3,637|open
+Round dollar wires|00827263|Young, Patricia|2026-07-06|$22,245|open
+Check kiting pattern|381406|Sanchez, Carlos M.|2026/06/20|$14,363|open
+Wires to high risk jurisdiction|00929217|Scott, Nadia|2026-06-21|$11,197|open
+Wires to high risk jurisdiction|00281162|Morales, Angela|2026-07-18|$19,790|open
+Cash deposits over 10k in 3 days|00803752|Anderson, Tom|2026/08/22|$5,390|open
+Check kiting pattern|695133|Anderson, Gloria|2026-10-14|$22,115|open
+Round dollar wires|00083573|Wright, Steven|2026-09-24|$4,840|open
+Cash deposits over 10k in 3 days|00944733|Chavez, Michael|2026/10/30|$4,033|open
+Wires to high risk jurisdiction|00062380|Flores, David|2026-04-11||open
+Wires to high risk jurisdiction|00665164|Sanchez, Teresa|2026-03-16|$4,001|open
+Check kiting pattern|00010411|Garcia, Diana|2026-03-26|$4,626|open
+Check kiting pattern|00545419|Lee, Elena|2026-08-21|$1,952|open
+Round dollar wires|865367|Johnson, Laura P.|2026-03-20|$4,983|open
+Wires to high risk jurisdiction|00849565|Hall, Angela|2026/07/30|$16,534|open
+Wires to high risk jurisdiction|00848290|Martin, Robert|2026/03/13|$5,548|open
+Wires to high risk jurisdiction|50789|Jackson, Carlos|2026/03/16|$16,433|open
+Funnel account deposits|776877|Lee, David|2026/08/27|$3,904|open
+Round dollar wires|00364585|Martin, Samuel R.|2026-08-25|$6,882|open
+Funnel account deposits|207961|Lopez, Diana J.|2026-03-01|$5,894|open
+Round dollar wires|867887|Gomez, Angela S.|2026-09-29|$16,492|open
+Cash deposits over 10k in 3 days|324962|Martin, Ana C.|2026-04-10|$12,790|open
+Funnel account deposits|225308|Garcia, Elena G.|2026-10-04|$4,924|open
+Wires to high risk jurisdiction|503881|Wilson, Linda|2026-06-13|$30,376|open
+Cash deposits over 10k in 3 days|00188184|Gutierrez, Carlos A.|2026/06/20|$14,645|open
+Round dollar wires|00037383|Hall, James|2026-07-10|$6,609|open
+Cash deposits over 10k in 3 days|00788807|Torres, Carlos S.|2026-05-07|$9,446|open
+Funnel account deposits|293192|Flores, Ana|2026/09/08|$16,922|open
+Wires to high risk jurisdiction|96495|Flores, Andrew W.|2026/08/03|$29,481|open
+Funnel account deposits|00774734|Morales, Andrew T.|2026-05-22||open
+Cash deposits over 10k in 3 days|297711|Wright, Daniel H.|2026-05-08||open
+Funnel account deposits|00724330|Reyes, Anthony J.|2026/05/28|$5,447|open
+Funnel account deposits|627375|Williams, Mark|2026/07/11|$18,387|closed
+Round dollar wires|00685938|Miller, Monica|2026-04-15|$12,532|open
+Cash deposits over 10k in 3 days|00502002|Ortiz, Eric|2026-09-03|$17,272|open
+Funnel account deposits|511563|Reyes, Jason|2026-07-26|$27,042|open
+Cash deposits over 10k in 3 days|00161567|Scott, Isabel K.|2026-09-13|$1,886|open
+Wires to high risk jurisdiction|00207961|Lopez, Diana|2026-05-25|$15,451|open
+Round dollar wires|553438|Rodriguez, Maria|2026-07-03|$8,050|open
+Check kiting pattern|00384992|Moore, Brian|2026-10-10|$5,947|open
+Cash deposits over 10k in 3 days|393412|Moore, Robert|2026-06-20|$6,092|open
+Cash deposits over 10k in 3 days|636117|Lee, Laura|2026/04/28||open
+Wires to high risk jurisdiction|710226|Williams, Monica|2026-05-29|$44,235|open
+Funnel account deposits|00207961|Lopez, Diana J.|2026-08-18|$23,010|open
+Check kiting pattern|00048380|Brown, Eric|2026-03-27|$18,734|open
+Round dollar wires|00764751|Brown, Eric|2026/07/18|$8,452|open
+Cash deposits over 10k in 3 days|00119197|Martin, Diana|2026-06-13|$3,016|open
+Funnel account deposits|70655|King, Gloria K.|2026-04-25|$6,375|open
+Wires to high risk jurisdiction|6738103|Jones, Mark|2026-06-19|$3,851|closed
+Round dollar wires|00665035|Smith, Maria|2026-03-13|$1,174|open
+Cash deposits over 10k in 3 days|835390|Rodriguez, Lucia L.|2026/05/03|$1,953|open
+Cash deposits over 10k in 3 days|571314|Wilson, Kevin|2026-10-12|$5,628|open
+Wires to high risk jurisdiction|377452|Jones, Jason J.|2026/09/27|$20,299|open
+Round dollar wires|00139838|Hernandez, Monica|2026-06-13|$12,755|open
+Round dollar wires|00838006|Wright, Joseph|2026-04-21|$27,199|open
+Funnel account deposits|00793319|Miller, Jason|2026/04/21|$13,080|open
+Check kiting pattern|155657|Williams, Elena|2026/10/09|$12,419|open
+Funnel account deposits|00972853|Green, Raymond|2026-07-31|$17,892|open
+Check kiting pattern|74256|Moore, David|2026-09-16|$18,041|open
+Round dollar wires|00271142|Torres, Thomas H.|2026-05-22|$22,492|open
+Cash deposits over 10k in 3 days|00966378|Anderson, Carmen|2026-07-16|$43,687|open
+Round dollar wires|00826511|Sanchez, Robert T.|2026/03/16|$7,095|open
+Wires to high risk jurisdiction|00476484|Sanchez, Laura|2026/09/07|$42,813|open
+Cash deposits over 10k in 3 days|00607136|Ramirez, Mark T.|2026/08/13|$19,249|open
+Cash deposits over 10k in 3 days|00602770|Davis, Jason A.|2026-08-08|$10,251|open
+Check kiting pattern|00840168|Torres, Victor|2026/04/27|$43,580|open
+Wires to high risk jurisdiction|00231252|Reyes, Kevin|2026/07/31|$8,261|open
+Round dollar wires|00341445|Diaz, Andrew|2026/05/25|$2,467|open
+Funnel account deposits|305731|Martinez, Steven P.|2026-06-05||open
+Funnel account deposits|00519521|Diaz, Henry C.|2026-08-31|$12,260|open
+Cash deposits over 10k in 3 days|381406|Sanchez, Carlos|2026-09-27|$11,436|open
+Round dollar wires|00229920|Morales, Joseph|2026-06-20|$7,355|open
+Wires to high risk jurisdiction|469390|Gutierrez, Nadia K.|2026/04/16|$5,709|open
+Check kiting pattern|00234989|Williams, Carmen S.|2026-09-10|$18,450|open
+Funnel account deposits|00807154|Gutierrez, Teresa|2026-03-09|$6,737|open
+Cash deposits over 10k in 3 days|297294|Gonzalez, Patricia|2026-07-15|$61,830|open
+Round dollar wires|312821|Scott, Carlos|2026-06-15|$8,634|open
+Round dollar wires|00229970|Diaz, Raymond|2026-10-19|$1,507|open
+Round dollar wires|562658|Chavez, Daniel|2026/07/16|$35,411|open
+Wires to high risk jurisdiction|00246194|Lopez, Teresa G.|2026-07-19|$9,940|open
+Check kiting pattern|711221|Green, Ana|2026-10-02|$2,970|open
+Cash deposits over 10k in 3 days|840168|Torres, Victor|2026-06-15|$27,480|open
+Round dollar wires|00702219|Green, Pat|2026/10/19|$7,388|closed
+Check kiting pattern|00074256|Moore, David L.|2026-03-13|$13,490|open
+Round dollar wires|246854|Vargas, Eric|2026-05-16|$18,363|open
+Wires to high risk jurisdiction|00992177|Reyes, Gloria|2026/06/13|$2,261|open
+Round dollar wires|00816685|Lee, Luis|2026/10/28|$31,204|open
+Check kiting pattern|00451781|Gonzalez, Nadia|2026-03-05|$13,742|open
+Wires to high risk jurisdiction|484606|Ortiz, David|2026-07-30|$6,343|open
+Check kiting pattern|128606|Moore, Rosa T.|2026-06-15|$12,437|open
+Funnel account deposits|393213|Cruz, Jason J.|2026-08-08|$45,552|open
+Wires to high risk jurisdiction|00507231|Johnson, Lucia|2026/06/27|$11,660|open
+Round dollar wires|00237129|Ramos, Luis|2026-07-03|$2,047|closed
+Check kiting pattern|161567|Scott, Isabel|2026/08/08|$7,246|open
+Cash deposits over 10k in 3 days|471643|Ortiz, Michael|2026/07/27|$28,643|open
+Funnel account deposits|62392|King, Teresa R.|2026-07-02|$16,428|open
+Wires to high risk jurisdiction|00634399|Ortiz, Ana|2026/08/09|$13,007|open
+Round dollar wires|00560424|Moore, Maria W.|2026-08-04|$4,565|open
+Check kiting pattern|00502002|Ortiz, Eric|2026/04/14|$15,498|open
+Wires to high risk jurisdiction|00071654|Walker, Samuel|2026/04/07|$11,163|open
+Funnel account deposits|00590529|Smith, Nadia E.|2026-07-03|$81,794|open
+Cash deposits over 10k in 3 days|00788436|Reyes, Nadia R.|2026-05-28|$5,231|open
+Cash deposits over 10k in 3 days|00342800|Gutierrez, Andrew T.|2026-10-01|$28,500|open
+Cash deposits over 10k in 3 days|468802|Torres, Dan|2026-08-15|$5,241|open
+Check kiting pattern|170942|Gomez, Robert|2026-06-14|$5,614|open
+Check kiting pattern|32494|Jackson, Jason|2026/08/11|$20,354|open
+Funnel account deposits|00433462|Young, Isabel S.|2026/08/24||open
+Funnel account deposits|169282|Anderson, Joseph H.|2026/09/30|$7,845|open
+Cash deposits over 10k in 3 days|131928|Diaz, Kevin|2026-05-07|$6,152|open
+Wires to high risk jurisdiction|63619|Davis, Henry|2026-05-21|$5,633|open
+Wires to high risk jurisdiction|894860|Allen, Thomas|2026-07-19|$2,826|open
+Cash deposits over 10k in 3 days|698791|Smith, Rosa|2026/07/30|$8,557|open
+Check kiting pattern|00530186|Jackson, Kevin|2026/05/26|$5,841|open
+Round dollar wires|00764751|Brown, Eric|2026-04-16|$18,810|open
+Cash deposits over 10k in 3 days|00092249|Gomez, Anthony|2026-04-11|$8,572|closed
+Check kiting pattern|476930|Williams, Sofia|2026/07/03|$124,681|open
+Check kiting pattern|476036|Ramirez, Anthony|2026/10/28|$33,714|open
+Wires to high risk jurisdiction|00245801|Cruz, James|2026-03-19|$16,575|open
+Cash deposits over 10k in 3 days|00814169|Miller, Mark D.|2026-10-06|$22,183|open
+Wires to high risk jurisdiction|834504|Martinez, Joseph G.|2026-09-04|$3,570|open
+Funnel account deposits|00126264|Garcia, Elena F.|2026-08-18|$5,185|open
+Round dollar wires|00953957|Martin, Rosa|2026-03-04|$18,200|closed
+Wires to high risk jurisdiction|00226735|Anderson, Daniel|2026-10-01|$14,866|open
+Wires to high risk jurisdiction|00615856|Rivera, Carmen|2026-05-28|$6,144|open
+Cash deposits over 10k in 3 days|00036993|Martin, Luis|2026/03/06|$12,217|open
+Round dollar wires|184925|Williams, Henry|2026-04-21|$4,508|open
+Cash deposits over 10k in 3 days|900596|Ramos, Nadia M.|2026-07-09|$18,851|open
+Round dollar wires|00706715|Allen, Sofia N.|2026-09-27|$3,619|open
+Cash deposits over 10k in 3 days|00907811|Martinez, Luis|2026/03/03|$33,380|open
+Round dollar wires|00952241|Johnson, Mark|2026-07-01|$4,204|open
+Funnel account deposits|00748480|Sanchez, Rosa|2026-03-02|$9,820|open
+Wires to high risk jurisdiction|00126264|Garcia, Elena|2026-09-18|$15,407|open
+Round dollar wires|00094662|Jones, Raymond|2026/03/31|$11,107|open
+Round dollar wires|555403|Scott, Raymond D.|2026/10/06|$53,885|open
+Funnel account deposits|00098200|Martinez, Tom|2026-09-27|$7,895|open
+Check kiting pattern|902944|Reyes, Sam A.|2026-08-16|$8,175|open
+Check kiting pattern|00498518|Wilson, Carlos|2026-10-17|$15,805|open
+Wires to high risk jurisdiction|636820|Martinez, Raymond|2026-06-02|$7,014|open
+Round dollar wires|298443|Gonzalez, Nadia R.|2026-09-13|$4,142|open
+Funnel account deposits|00870904|Sanchez, Gloria|2026-09-10||open
+Wires to high risk jurisdiction|848305|Hernandez, Eric|2026/09/07|$34,486|open
+Check kiting pattern|313054|Lopez, Tony|2026-09-10|$5,713|open
+Funnel account deposits|61009|Sanchez, Teresa P.|2026/04/08|$8,561|open
+Check kiting pattern|00968682|Lee, Angela S.|2026-08-13||closed
+Check kiting pattern|421701|Hernandez, Samuel F.|2026/03/05|$3,969|open
+Cash deposits over 10k in 3 days|362261|Ramos, Victor M.|2026-04-29|$16,703|open
+Round dollar wires|00608171|Diaz, Dan|2026-09-01|$11,915|open
+Wires to high risk jurisdiction|761300|Jones, Laura|2026-08-28|$2,346|open
+Wires to high risk jurisdiction|665256|Jackson, Sam J.|2026-06-23|$10,067|open
+Check kiting pattern|00595347|Scott, Steven|2026-10-29|$12,186|open
+Cash deposits over 10k in 3 days|00693098|Lopez, Lucia|2026-06-20|$5,317|open
+Cash deposits over 10k in 3 days|00483543|Perez, Luis|2026-10-25|$12,998|open
+Funnel account deposits|00710226|Williams, Monica N.|2026-08-20|$7,592|open
+Cash deposits over 10k in 3 days|900596|Ramos, Nadia|2026-06-18|$17,382|open
+Wires to high risk jurisdiction|759882|Taylor, Carlos E.|2026/09/26|$3,609|open
+Funnel account deposits|00737593|Moore, Luis L.|2026-10-25|$6,099|open
+Funnel account deposits|732562|Lee, James|2026-08-01|$4,854|open
+Cash deposits over 10k in 3 days|549456|Gutierrez, Laura|2026-10-16|$7,818|open
+Cash deposits over 10k in 3 days|746449|Torres, Carmen|2026-05-23|$4,316|open
+Wires to high risk jurisdiction|00780009|Miller, Monica|2026-03-03|$1,880|open
+Cash deposits over 10k in 3 days|00519521|Diaz, Henry|2026-08-11|$11,310|open
+Check kiting pattern|953957|Martin, Rosa|2026-07-09|$14,019|open
+Wires to high risk jurisdiction|372506|Martinez, Sofia|2026-07-16|$7,078|open
+Round dollar wires|278835|Hernandez, Jason|2026-03-28|$28,185|open
+Funnel account deposits|37383|Hall, James F.|2026/05/22|$18,781|open
+Wires to high risk jurisdiction|00976281|Miller, Gloria|2026-06-04|$14,162|open
+Funnel account deposits|00910558|Gomez, Henry|2026-04-13|$3,266|open
+Check kiting pattern|883758|Smith, Kevin|2026/06/30|$12,067|open
+Round dollar wires|108357|Flores, Henry|2026-05-19||open
+Cash deposits over 10k in 3 days|634706|Garcia, Kevin G.|2026-09-03|$15,814|open
+Round dollar wires|4227239|Martinez, Julia|2026-03-03|$24,579|open
+Funnel account deposits|377452|Jones, Jason J.|2026-09-10|$5,538|closed
+Wires to high risk jurisdiction|00444041|Chavez, Angela K.|2026-04-13|$21,880|open
+Round dollar wires|709223|Smith, Henry N.|2026-09-13||open
+Round dollar wires|293912|Morales, Carmen B.|2026-07-27|$15,007|open
+Round dollar wires|381406|Sanchez, Carlos|2026-05-02|$38,399|open
+Cash deposits over 10k in 3 days|00389671|Moore, Monica|2026-08-05|$10,098|open
+Check kiting pattern|796668|Rodriguez, Sam M.|2026-05-13|$53,936|open
+Cash deposits over 10k in 3 days|00977457|Flores, Paula|2026/04/15|$13,112|open
+Check kiting pattern|00455285|Perez, Ana|2026/06/02|$24,562|open
+Check kiting pattern|347062|Gonzalez, Linda|2026-05-31|$15,463|open
+Round dollar wires|10727|Martin, Mark|2026-09-28|$9,414|open
+Funnel account deposits|710226|Williams, Monica|2026/08/16|$8,134|closed
+Round dollar wires|521002|Perez, Anthony|2026-07-24|$41,680|open
+Round dollar wires|00556944|Anderson, Teresa|2026-04-16|$4,131|open
+Funnel account deposits|426933|Lopez, Luis|2026-04-29|$17,400|open
+Round dollar wires|00712240|Gutierrez, Brian E.|2026/05/13|$2,345|closed
+Funnel account deposits|00702990|Reyes, Ana|2026-05-19|$15,808|open
+Cash deposits over 10k in 3 days|461252|Young, Carmen R.|2026-06-07|$10,801|open
+Wires to high risk jurisdiction|50789|Jackson, Carlos|2026-04-03|$5,453|open
+Round dollar wires|125700|Ramirez, Henry|2026-09-25|$2,611|open
+Check kiting pattern|458570|Brown, David|2026-04-11|$8,484|open
+Wires to high risk jurisdiction|00794053|Jackson, Samuel|2026/06/21|$9,499|open
+Cash deposits over 10k in 3 days|353863|Wilson, Monica B.|2026/07/23|$6,999|open
+Cash deposits over 10k in 3 days|556884|Young, Paula|2026-06-01|$26,449|open
+Cash deposits over 10k in 3 days|904197|Walker, Anthony W.|2026-04-07|$1,561|open
+Wires to high risk jurisdiction|174293|Martin, Steven|2026-04-19|$19,059|open
+Wires to high risk jurisdiction|485669|Scott, Linda|2026-04-06|$25,096|open
+Wires to high risk jurisdiction|579658|Garcia, Eric|2026-09-27|$3,481|open
+Round dollar wires|665812|Williams, Victor W.|2026/03/07|$1,818|open
+Wires to high risk jurisdiction|00772161|Williams, Steven|2026-06-07|$9,313|open
+Wires to high risk jurisdiction|00169282|Anderson, Joseph|2026/09/16|$8,387|open
+Round dollar wires|00184925|Williams, Henry|2026-09-25|$16,453|open
+Round dollar wires|349659|Perez, Carlos|2026/05/20|$7,809|open
+Check kiting pattern|653767|Rodriguez, Andrew|2026-08-18||open
+Funnel account deposits|751783|Gutierrez, Elena|2026-07-20|$1,809|open
+Cash deposits over 10k in 3 days|00646422|Johnson, Elena|2026/09/28|$4,191|open
+Funnel account deposits|796888|Diaz, Luis E.|2026-03-04|$25,997|open
+Wires to high risk jurisdiction|389129|Hernandez, Laura|2026/07/01|$26,678|open
+Wires to high risk jurisdiction|333971|Gutierrez, Daniel B.|2026/05/03|$5,255|open
+Wires to high risk jurisdiction|836748|Martinez, Monica J.|2026/06/03|$1,447|open
+Cash deposits over 10k in 3 days|00543664|Moore, Sofia|2026-04-12||open
+Wires to high risk jurisdiction|93705|Gomez, Henry|2026-03-02|$10,122|open
+Funnel account deposits|00986719|Williams, Lucia R.|2026/08/24|$3,968|open
+Funnel account deposits|00270275|Williams, Mark|2026-09-17|$4,289|open
+Round dollar wires|761709|Green, Joseph|2026-10-10|$3,261|open
+Round dollar wires|536499|Martin, Thomas N.|2026/06/01|$5,287|open
+Check kiting pattern|00045826|Jackson, Elena|2026/07/20|$15,363|open
+Wires to high risk jurisdiction|00840168|Torres, Victor W.|2026/03/17|$21,045|open
+Check kiting pattern|82391|Wilson, Patricia|2026-08-28|$7,632|open
+Funnel account deposits|00051103|Taylor, Angela|2026/05/28|$19,660|open
+Cash deposits over 10k in 3 days|61998|Martinez, Maria D.|2026/05/18|$5,341|open
+Funnel account deposits|00746449|Torres, Carmen|2026-06-08|$4,261|open
+Round dollar wires|00726082|Torres, Isabel A.|2026-06-20|$16,716|open
+Funnel account deposits|00246194|Lopez, Teresa|2026/06/20|$8,070|open
+Check kiting pattern|00659813|Johnson, Angela K.|2026-08-30|$8,239|open
+Funnel account deposits|206182|Wilson, Michael|2026/09/02|$40,557|open
+Cash deposits over 10k in 3 days|706607|Ortiz, Raymond D.|2026-03-16|$13,742|open
+Check kiting pattern|00860389|King, Brian G.|2026-04-02|$14,545|open
+Funnel account deposits|636820|Martinez, Raymond|2026-07-01|$1,656|open
+Funnel account deposits|00544342|Hernandez, Jason|2026-08-31|$37,894|open
+Wires to high risk jurisdiction|00976281|Miller, Gloria K.|2026-10-31|$6,805|open
+Funnel account deposits|00639083|Perez, Laura M.|2026/08/20|$44,388|open
+Wires to high risk jurisdiction|00959645|Martin, Carmen B.|2026-07-13|$6,183|open
+Funnel account deposits|00119815|Hernandez, Maria|2026/07/07|$71,614|open
+Cash deposits over 10k in 3 days|621447|King, Raymond|2026/09/15|$23,277|open
+Funnel account deposits|522828|Ramirez, Laura|2026/10/22|$3,486|open
+Check kiting pattern|00740871|Gomez, David|2026-09-21|$13,138|open
+Funnel account deposits|910558|Gomez, Henry|2026-09-18|$8,714|open
+Cash deposits over 10k in 3 days|502002|Ortiz, Eric|2026-09-15|$22,760|open
+Check kiting pattern|00432675|Sanchez, Anthony|2026-04-08|$9,692|open
+Funnel account deposits|587899|Sanchez, Monica|2026-03-07|$20,956|open
+Round dollar wires|00505168|Vargas, Rosa|2026-04-17|$2,903|open
+Check kiting pattern|00361582|Garcia, Monica F.|2026-04-26|$8,315|open
+Cash deposits over 10k in 3 days|00925561|Johnson, Paula|2026-09-09|$22,128|open
+Funnel account deposits|00290760|Perez, Carmen G.|2026-07-21|$3,863|open
+Funnel account deposits|00083573|Wright, Steven E.|2026-08-06|$9,363|open
+Wires to high risk jurisdiction|00663957|Diaz, Brian|2026-09-14|$20,314|open
+Wires to high risk jurisdiction|479442|Allen, Steven|2026-08-04|$26,134|open
+Check kiting pattern|539299|Young, Daniel H.|2026/06/26|$20,297|open
+Cash deposits over 10k in 3 days|134998|Wilson, James|2026-06-28|$5,878|open
+Round dollar wires|209531|Morales, Jason|2026-09-27|$10,283|open
+Check kiting pattern|9258072|Jones, Brian W.|2026/08/14|$3,070|open
+Round dollar wires|331003|Davis, Diana|2026-04-08|$5,870|open
+Cash deposits over 10k in 3 days|121087|Garcia, Nadia|2026-05-14|$29,521|open
+Check kiting pattern|00933612|Flores, Andy|2026-08-01|$11,951|open
+Funnel account deposits|636392|Green, Kevin|2026-06-02|$1,764|closed
+Cash deposits over 10k in 3 days|809971|Gonzalez, Laura|2026-10-09|$45,639|open
+Round dollar wires|958066|Jackson, Isabel|2026-09-18|$6,299|open
+Round dollar wires|424730|Lopez, Andrew H.|2026-04-08|$3,947|open
+Wires to high risk jurisdiction|00151572|Lee, Sofia|2026-09-12|$11,829|open
+Wires to high risk jurisdiction|00639083|Perez, Laura M.|2026-07-20|$12,369|open
+Check kiting pattern|361160|Moore, Isabel|2026-05-13|$12,647|open
+Check kiting pattern|231696|Green, Dan|2026/04/08|$870|open
+Wires to high risk jurisdiction|00941092|Sanchez, Samuel|2026-03-21|$2,071|open
+Cash deposits over 10k in 3 days|00070818|Diaz, Angela|2026-10-23|$20,059|open
+Funnel account deposits|96495|Flores, Andrew|2026-10-02|$14,630|open
+Funnel account deposits|00331786|Ortiz, Eric|2026/03/12|$11,018|open
+Round dollar wires|331003|Davis, Diana|2026-03-05|$4,736|open
+Funnel account deposits|00123285|Sanchez, Raymond|2026/05/15|$4,190|open
+Cash deposits over 10k in 3 days|00648442|Chavez, Elena|2026-07-11|$12,060|open
+Round dollar wires|60119|Gomez, Rosa|2026-04-28|$5,002|open
+Round dollar wires|00439625|Taylor, Lucia F.|2026-09-03|$12,595|open
+Check kiting pattern|762143|Young, Mark|2026-06-16|$3,961|open
+Check kiting pattern|00560121|Ortiz, David E.|2026-08-27|$1,819|open
+Wires to high risk jurisdiction|00549456|Gutierrez, Laura|2026-06-27|$13,094|closed
+Round dollar wires|00079829|Taylor, Rosa L.|2026/05/08|$12,426|open
+Wires to high risk jurisdiction|327056|Martinez, Diana|2026-04-28||open
+Wires to high risk jurisdiction|904197|Walker, Tony W.|2026-05-25|$13,412|open
+Round dollar wires|00736828|Miller, Eric|2026-09-01|$4,681|open
+Cash deposits over 10k in 3 days|72485|Ramos, Luis N.|2026/09/27|$18,756|open
+Funnel account deposits|37383|Hall, James|2026-05-09|$1,340|closed
+Funnel account deposits|557726|Vargas, Andrew|2026/03/19|$49,636|open
+Cash deposits over 10k in 3 days|00986296|Walker, Diana|2026-05-23|$7,679|open
+Cash deposits over 10k in 3 days|6726472|Williams, Ana W.|2026-07-14|$5,619|open
+Funnel account deposits|342800|Gutierrez, Andrew|2026-09-22|$1,975|open
+Check kiting pattern|00482032|Martinez, Pat|2026-04-22|$5,821|open
+Round dollar wires|00264732|Moore, Elena|2026-10-20|$36,623|open
+Cash deposits over 10k in 3 days|130283|Gonzalez, Carlos|2026-10-03|$9,596|open
+Round dollar wires|00511563|Reyes, Jason|2026-10-15|$4,518|open
+Round dollar wires|00249066|Cruz, Maria|2026/06/11|$11,220|open
+Cash deposits over 10k in 3 days|937655|Hall, Angela|2026-03-29|$2,996|open
+Wires to high risk jurisdiction|867887|Gomez, Angela|2026-06-18|$40,092|open
+Wires to high risk jurisdiction|363932|Taylor, Rosa|2026-03-20|$7,202|open
+Funnel account deposits|468802|Torres, Daniel|2026/10/16|$5,064|open
+Wires to high risk jurisdiction|00583950|Walker, Mark T.|2026-09-10|$3,824|open
+Check kiting pattern|00724330|Reyes, Anthony|2026-06-30|$5,991|open
+Wires to high risk jurisdiction|00748480|Sanchez, Rosa|2026-07-07|$48,652|open
+Funnel account deposits|169181|Anderson, Paula A.|2026/06/23|$9,325|open
+Wires to high risk jurisdiction|490057|Torres, Patricia|2026-05-25|$23,702|open
+Round dollar wires|349622|Lopez, Pat|2026-07-24|$1,713|open
+Cash deposits over 10k in 3 days|929217|Scott, Nadia C.|2026-10-26|$4,873|open
+Cash deposits over 10k in 3 days|846751|Jackson, Diana A.|2026-03-26|$6,932|open
+Round dollar wires|791611|Perez, Laura|2026-07-04|$13,926|open
+Wires to high risk jurisdiction|350463|Gutierrez, Teresa|2026-07-24|$4,843|closed
+Funnel account deposits|00662673|Cruz, Teresa G.|2026/05/23|$13,638|open
+Round dollar wires|662931|Hernandez, Gloria|2026/10/26|$30,003|open
+Round dollar wires|112808|Chavez, Luis|2026/10/08|$14,705|closed
+Funnel account deposits|4917099|Ramos, Maria|2026-09-28|$17,158|open
+Funnel account deposits|575718|Williams, Maria K.|2026-04-26|$4,554|closed
+Wires to high risk jurisdiction|00718823|Gonzalez, Michael|2026/07/03|$4,382|open
+Cash deposits over 10k in 3 days|00632272|Lopez, Carmen H.|2026/10/29|$7,077|closed
+Check kiting pattern|239073|Wright, Brian A.|2026-09-21|$2,213|open
+Funnel account deposits|524851|Young, Ana|2026-08-01|$17,732|closed
+Wires to high risk jurisdiction|657804|Anderson, Dan|2026/10/30|$12,990|open
+Cash deposits over 10k in 3 days|198837|Rodriguez, Monica|2026/05/11|$4,557|closed
+Cash deposits over 10k in 3 days|882869|Morales, Nadia T.|2026-04-27|$5,821|open
+Cash deposits over 10k in 3 days|422721|Lopez, Eric|2026-10-05|$4,545|open
+Check kiting pattern|00583950|Walker, Mark|2026-04-09|$8,905|open
+Check kiting pattern|00972163|Young, Raymond|2026-04-10|$2,235|open
+Check kiting pattern|00968682|Lee, Angela|2026-08-24|$12,130|open
+Funnel account deposits|762470|Torres, Joseph J.|2026-07-28|$5,664|open
+Funnel account deposits|384992|Moore, Brian|2026-08-31|$23,460|open
+Wires to high risk jurisdiction|106655|Ortiz, Michael|2026-07-10|$8,024|open
+Wires to high risk jurisdiction|00187429|Taylor, Paula J.|2026-06-05|$10,926|open
+Check kiting pattern|00349659|Perez, Carlos|2026-06-09|$7,309|open
+Round dollar wires|00463909|Morales, Thomas|2026/03/23|$9,089|open
+Funnel account deposits|279821|Moore, Michael J.|2026-06-02|$3,780|open
+Funnel account deposits|00579658|Garcia, Eric|2026-03-30|$15,646|open
+Round dollar wires|00632272|Lopez, Carmen|2026-09-08|$51,367|open
+Wires to high risk jurisdiction|00046937|Diaz, Diana|2026/03/14|$4,466|open
+Check kiting pattern|88966|Sanchez, Laura C.|2026/07/26|$51,000|open
+Funnel account deposits|636532|Morales, Brian|2026-06-01|$6,842|open
+Round dollar wires|619396|Sanchez, Angela|2026-10-04|$6,897|open
+Round dollar wires|527490|Chavez, Bob R.|2026/04/21|$5,493|open
+Cash deposits over 10k in 3 days|209531|Morales, Jason|2026-09-18|$16,197|open
+Cash deposits over 10k in 3 days|00883758|Smith, Kevin|2026/04/16|$20,860|open
+Cash deposits over 10k in 3 days|265878|Johnson, Ana|2026-10-18|$9,338|open
+Wires to high risk jurisdiction|293192|Flores, Ana|2026-08-30|$12,739|open
+Round dollar wires|976281|Miller, Gloria|2026-05-02|$1,567|open
+Wires to high risk jurisdiction|508082|Jones, Carlos|2026/07/29||open
+Check kiting pattern|00010411|Garcia, Diana W.|2026-09-21|$24,423|open
+Cash deposits over 10k in 3 days|298443|Gonzalez, Nadia R.|2026/03/14|$2,055|open
+Round dollar wires|842784|Moore, Mark|2026/08/19|$36,576|open
+Check kiting pattern|709387|Gutierrez, Daniel|2026-07-12|$1,012|open
+Cash deposits over 10k in 3 days|00427291|Gonzalez, Carlos|2026-05-13|$11,955|open
+Wires to high risk jurisdiction|00638571|Martin, Joseph H.|2026/03/31|$6,249|open
+Wires to high risk jurisdiction|519521|Diaz, Henry|2026-08-02|$8,002|open
+Funnel account deposits|00126264|Garcia, Elena F.|2026-08-26|$60,361|closed
+Round dollar wires|00018456|Sanchez, Carlos|2026-05-04|$4,423|open
+Funnel account deposits|170942|Gomez, Robert|2026-10-22||closed
+Check kiting pattern|121793|Anderson, Diana|2026-07-23|$23,312|open
+Round dollar wires|00432675|Sanchez, Tony|2026/05/04|$69,117|open
+Round dollar wires|00099820|Brown, Monica|2026/07/17|$5,841|open
+Cash deposits over 10k in 3 days|00690091|Rodriguez, Tom|2026-03-30|$8,263|open
+Check kiting pattern|1422101|Wilson, Kevin|2026-03-03|$1,422|open
+Round dollar wires|51103|Taylor, Angela|2026-09-26|$4,916|open
+Check kiting pattern|718823|Gonzalez, Mike|2026-10-06|$3,652|open
+Round dollar wires|00527553|Miller, Elena|2026-10-27|$88,890|open
+Cash deposits over 10k in 3 days|746945|Vargas, Julia J.|2026-05-01|$11,955|open
+Cash deposits over 10k in 3 days|561907|Diaz, Angela|2026-08-23|$23,820|open
+Wires to high risk jurisdiction|00882869|Morales, Nadia|2026-08-07|$8,869|open
+Wires to high risk jurisdiction|799927|Rodriguez, Nadia|2026-06-14|$10,722|open
+Wires to high risk jurisdiction|00253720|Martin, Robert|2026/03/09|$9,303|open
+Wires to high risk jurisdiction|00524851|Young, Ana|2026-06-24|$3,038|open
+Round dollar wires|419122|Chavez, Julia E.|2026-10-22|$16,595|open
+Wires to high risk jurisdiction|00941657|Gonzalez, Teresa S.|2026/03/23|$3,048|open
+Check kiting pattern|796668|Rodriguez, Samuel|2026-05-21|$8,668|open
+Cash deposits over 10k in 3 days|822790|Young, Lucia|2026-08-18|$10,865|open
+Round dollar wires|646087|Gonzalez, Monica|2026-03-17|$2,025|open
+Cash deposits over 10k in 3 days|00970165|Sanchez, Raymond|2026-08-26|$3,050|open
+Funnel account deposits|519521|Diaz, Henry C.|2026-06-15|$2,512|open
+Funnel account deposits|00187953|Garcia, Laura|2026-10-28|$9,113|open
+Cash deposits over 10k in 3 days|00502985|Gomez, Paula|2026-09-11||open
+Check kiting pattern|00444041|Chavez, Angela|2026-03-15|$10,866|open
+Funnel account deposits|00698758|Young, Sofia|2026/08/16|$7,026|open
+Check kiting pattern|00852192|Gomez, David|2026/03/15|$1,979|open
+Check kiting pattern|00247872|Hernandez, Patricia|2026-10-18|$14,814|open
+Round dollar wires|23559|Green, Jason|2026/05/08|$22,701|open
+Check kiting pattern|00197594|Chavez, Monica|2026-05-15|$8,634|open
+Check kiting pattern|10871|Gomez, Nadia E.|2026/08/15|$7,316|open
+Funnel account deposits|00530186|Jackson, Kevin J.|2026-08-17|$12,869|open
+Funnel account deposits|00726082|Torres, Isabel|2026-03-27|$28,580|open
+Round dollar wires|00056526|Lopez, Victor|2026-03-06|$12,128|closed
+Cash deposits over 10k in 3 days|279203|Jackson, Victor|2026-08-05|$7,639|open
+Cash deposits over 10k in 3 days|00750343|Perez, Andrew|2026/03/29|$26,019|open
+Funnel account deposits|160959|Reyes, Ana P.|2026-10-25|$5,118|open
+Round dollar wires|894011|Johnson, Jason|2026-05-13|$4,292|open
+Check kiting pattern|00536499|Martin, Tom|2026/04/30|$18,809|open
+Wires to high risk jurisdiction|549456|Gutierrez, Laura|2026/05/26|$31,924|open
+Wires to high risk jurisdiction|485306|Wright, Monica|2026-06-25|$61,847|open
+Check kiting pattern|954293|Martinez, Linda|2026/10/08|$10,102|open
+Check kiting pattern|00928006|Perez, Monica L.|2026/08/02|$13,462|open
+Check kiting pattern|548184|Anderson, Mark|2026-10-02|$12,079|open
+Check kiting pattern|00419077|Anderson, Isabel|2026-10-11|$20,724|open
+Round dollar wires|281162|Morales, Angela|2026/10/26|$3,711|open
+Funnel account deposits|00571314|Wilson, Kevin E.|2026-07-05|$23,487|open
+Cash deposits over 10k in 3 days|00207961|Lopez, Diana|2026-03-29||open
+Cash deposits over 10k in 3 days|00048994|Chavez, Steve|2026-07-11|$9,142|open
+Check kiting pattern|00827263|Young, Pat|2026-10-03|$18,016|open
+Round dollar wires|00954293|Martinez, Linda|2026-07-16|$3,512|open
+Check kiting pattern|705926|Walker, Kevin L.|2026-03-13|$6,889|open
+Funnel account deposits|00780169|Jackson, Michael|2026-04-24|$20,133|open
+Round dollar wires|00198837|Rodriguez, Monica|2026-07-21|$8,732|open
+Wires to high risk jurisdiction|00928006|Perez, Monica L.|2026-09-21|$26,487|open
+Wires to high risk jurisdiction|174293|Martin, Steven K.|2026-09-03|$14,956|open
+Round dollar wires|00082391|Wilson, Patricia|2026/06/16|$24,392|open
+Check kiting pattern|00407793|Davis, Robert|2026/08/09|$7,342|open
+Check kiting pattern|00638523|Chavez, Patricia S.|2026-07-13|$9,763|open
+Wires to high risk jurisdiction|648442|Chavez, Elena|2026-05-12|$22,696|open
+Cash deposits over 10k in 3 days|00519521|Diaz, Henry|2026-04-05|$10,846|open
+Check kiting pattern|40844|Green, Samuel|2026/04/27|$7,935|open
+Wires to high risk jurisdiction|791611|Perez, Laura A.|2026/03/02|$2,588|open
+Wires to high risk jurisdiction|00088966|Sanchez, Laura C.|2026-04-29|$2,334|open
+Cash deposits over 10k in 3 days|00548906|Chavez, Elena|2026/09/14|$16,006|open
+Wires to high risk jurisdiction|00928006|Perez, Monica|2026-07-20|$56,654|open
+Cash deposits over 10k in 3 days|706088|Davis, Nadia|2026-10-01|$6,558|open
+Wires to high risk jurisdiction|511229|Diaz, Carmen|2026-04-30|$11,706|open
+Check kiting pattern|892877|Young, Gloria|2026-10-03|$23,176|open
+Cash deposits over 10k in 3 days|00870904|Sanchez, Gloria|2026/03/24|$10,524|open
+Cash deposits over 10k in 3 days|00578215|Martin, Henry S.|2026-04-21|$15,254|open
+Check kiting pattern|578988|Hernandez, Angela|2026-03-23|$3,452|open
+Cash deposits over 10k in 3 days|00714933|Anderson, Victor|2026-03-02|$5,160|open
+Round dollar wires|00429303|Williams, James|2026-05-12|$6,415|open
+Funnel account deposits|00385373|Rivera, Robert B.|2026-04-29|$11,210|open
+Check kiting pattern|125700|Ramirez, Henry A.|2026-09-14|$12,547|open
+Wires to high risk jurisdiction|00077768|Gutierrez, Joseph|2026-06-10|$6,647|closed
+Cash deposits over 10k in 3 days|106655|Ortiz, Michael|2026-06-04||open
+Check kiting pattern|822135|Diaz, Gloria|2026-05-24|$2,353|open
+Check kiting pattern|264732|Moore, Elena|2026-05-19|$82,537|open
+Funnel account deposits|455978|Jackson, Gloria|2026-07-31|$4,118|open
+Round dollar wires|00486697|Perez, Lucia|2026-05-03|$5,657|open
+Wires to high risk jurisdiction|553438|Rodriguez, Maria F.|2026-07-09|$9,521|open
+Round dollar wires|00317492|Flores, Lucia|2026-05-04|$7,334|open
+Cash deposits over 10k in 3 days|961832|Scott, Patricia|2026-10-14|$7,349|open
+Round dollar wires|419122|Chavez, Julia|2026/05/09|$19,290|open
+Cash deposits over 10k in 3 days|608171|Diaz, Daniel|2026-03-28|$13,765|open
+Funnel account deposits|859483|Green, Paula|2026-10-30|$162|open
+Check kiting pattern|502985|Gomez, Paula|2026-09-02|$7,073|open
+Check kiting pattern|524851|Young, Ana D.|2026-07-29|$4,627|open
+Funnel account deposits|582936|Martinez, Joseph C.|2026-07-07||open
+Funnel account deposits|316115|Ramirez, Laura|2026-08-14|$18,265|open
+Cash deposits over 10k in 3 days|00959645|Martin, Carmen|2026-05-16|$4,201|open
+Cash deposits over 10k in 3 days|698791|Smith, Rosa|2026/10/21|$8,185|open
+Cash deposits over 10k in 3 days|00119197|Martin, Diana|2026/09/27|$4,774|open
+Wires to high risk jurisdiction|568330|Perez, Henry|2026-04-20|$14,655|open
+Cash deposits over 10k in 3 days|70290|Garcia, Sofia P.|2026-06-17|$11,207|open
+Funnel account deposits|00074256|Moore, David|2026-08-31|$3,099|open
+Check kiting pattern|392485|Sanchez, Sam|2026-08-19|$1,468|open
+Round dollar wires|00554399|Rodriguez, Raymond|2026-05-12|$4,213|open
+Round dollar wires|00231696|Green, Dan G.|2026-08-15|$13,681|open
+Cash deposits over 10k in 3 days|00249066|Cruz, Maria L.|2026/07/18|$24,556|open
+Funnel account deposits|00710226|Williams, Monica N.|2026/04/20|$32,606|open
+Check kiting pattern|00548184|Anderson, Mark|2026/05/21|$6,609|open
+Round dollar wires|00907811|Martinez, Luis|2026-08-13|$24,834|open
+Funnel account deposits|900596|Ramos, Nadia|2026-07-15|$3,598|open
+Cash deposits over 10k in 3 days|9851160|Martinez, Steven|2026-05-17|$3,595|open
+Funnel account deposits|00324935|Green, Victor|2026/04/26|$1,155|open
+Wires to high risk jurisdiction|00777077|Vargas, Andrew D.|2026/08/26|$4,704|open
+Round dollar wires|340225|Ramirez, Raymond|2026-09-02|$23,413|open
+Cash deposits over 10k in 3 days|905857|Cruz, Eric|2026-07-30|$16,623|open
+Cash deposits over 10k in 3 days|665035|Smith, Maria|2026/07/02|$16,924|open
+Round dollar wires|00746449|Torres, Carmen|2026/07/07|$23,513|open
+Funnel account deposits|234989|Williams, Carmen|2026-08-26|$17,329|open
+Cash deposits over 10k in 3 days|00539299|Young, Daniel|2026-04-21|$5,354|open
+Round dollar wires|00669481|Lee, Teresa P.|2026/07/01|$5,040|open
+Check kiting pattern|00342800|Gutierrez, Andrew|2026/09/13||open
+Wires to high risk jurisdiction|897976|Allen, Carmen|2026/03/02|$13,062|open
+Round dollar wires|369066|Perez, Daniel|2026-05-26|$26,542|closed
+Cash deposits over 10k in 3 days|00019835|Smith, Isabel|2026-07-07|$18,812|open
+Funnel account deposits|221540|Smith, Monica|2026/04/12|$7,701|open
+Funnel account deposits|963088|Gonzalez, Gloria|2026/05/08|$8,490|open
+Wires to high risk jurisdiction|80409|Brown, Nadia|2026/07/31|$4,972|open
+Check kiting pattern|00543664|Moore, Sofia|2026-04-11|$58,154|open
+Round dollar wires|3662823|Jones, Carlos S.|2026-05-19|$7,178|open
+Check kiting pattern|791611|Perez, Laura|2026-08-02|$5,691|open
+Funnel account deposits|00617141|Davis, Julia|2026-04-22|$15,534|open
+Check kiting pattern|25589|Flores, James|2026-09-10|$16,297|open
+Round dollar wires|00490057|Torres, Patricia|2026-04-12|$9,347|open
+Funnel account deposits|00040844|Green, Samuel J.|2026-04-11|$9,521|open
+Cash deposits over 10k in 3 days|00023559|Green, Jason|2026-08-03|$23,486|open
+Round dollar wires|00777077|Vargas, Andrew|2026-06-16|$3,165|closed
+Funnel account deposits|00788807|Torres, Carlos|2026/07/24|$10,278|open
+Funnel account deposits|914202|Lopez, Monica W.|2026-06-12|$103,924|open
+Funnel account deposits|187429|Taylor, Paula|2026-07-20|$4,268|open
+Funnel account deposits|00690040|Rodriguez, Patricia|2026-09-07|$5,727|open
+Round dollar wires|00050789|Jackson, Carlos|2026-09-11|$7,898|open
+Cash deposits over 10k in 3 days|894011|Johnson, Jason F.|2026/05/22|$15,947|open
+Funnel account deposits|00140358|Ramirez, Teresa|2026-09-04|$18,393|open
+Wires to high risk jurisdiction|78547|Johnson, Carlos|2026-03-22|$5,910|open
+Check kiting pattern|900387|Garcia, Samuel A.|2026-05-02|$10,370|open
+Wires to high risk jurisdiction|00058988|Hall, Jason|2026-10-17|$17,395|open
+Cash deposits over 10k in 3 days|99820|Brown, Monica|2026/08/22|$66,910|open
+Round dollar wires|00356061|Chavez, Laura|2026-05-22|$6,269|open
+Round dollar wires|814169|Miller, Mark|2026/04/09|$5,950|open
+Check kiting pattern|229970|Diaz, Raymond|2026/03/07|$5,932|open
+Cash deposits over 10k in 3 days|407793|Davis, Robert|2026-10-12|$2,848|open
+Round dollar wires|00937655|Hall, Angela|2026/05/25|$9,443|open
+Wires to high risk jurisdiction|00037604|Flores, Linda|2026/07/08|$25,264|open
+Round dollar wires|262438|Sanchez, Steven|2026/04/23|$2,387|open
+Wires to high risk jurisdiction|00190569|Ortiz, Monica F.|2026/03/19|$6,556|open
+Round dollar wires|00286557|Sanchez, Daniel M.|2026/06/28|$78,837|open
+Cash deposits over 10k in 3 days|560121|Ortiz, David E.|2026-03-24|$5,350|open
+Check kiting pattern|129316|Rodriguez, Isabel|2026-04-13|$23,373|open
+Funnel account deposits|387719|Scott, Brian P.|2026-05-12|$16,530|open
+Check kiting pattern|00937655|Hall, Angela|2026-08-03|$16,085|open
+Wires to high risk jurisdiction|00130283|Gonzalez, Carlos|2026-08-17|$9,078|open
+Check kiting pattern|815685|Jones, Monica D.|2026-05-19|$7,764|open
+Cash deposits over 10k in 3 days|197331|Ortiz, Ana|2026-03-05|$10,259|open
+Cash deposits over 10k in 3 days|00151572|Lee, Sofia B.|2026-09-30|$4,092|closed
+Check kiting pattern|291976|Wilson, Michael|2026/09/16|$6,705|open
+Wires to high risk jurisdiction|00226735|Anderson, Daniel|2026-08-22|$3,650|open
+Funnel account deposits|00327796|Moore, Anthony F.|2026-05-07|$5,736|open
+Round dollar wires|00407793|Davis, Robert T.|2026-10-26|$16,053|open
+Check kiting pattern|00624429|Vargas, Luis G.|2026/06/03|$16,381|open
+Round dollar wires|00852625|Gutierrez, Steven|2026-06-18|$4,531|open
+Wires to high risk jurisdiction|45826|Jackson, Elena A.|2026-06-19|$2,555|open
+Cash deposits over 10k in 3 days|00638523|Chavez, Patricia|2026-07-04|$2,692|open
+Wires to high risk jurisdiction|377452|Jones, Jason|2026-06-02|$9,457|open
+Wires to high risk jurisdiction|239073|Wright, Brian|2026/05/08|$31,197|closed
+Cash deposits over 10k in 3 days|170942|Gomez, Robert|2026-09-03|$2,669|open
+Wires to high risk jurisdiction|578988|Hernandez, Angela|2026-03-29|$11,649|closed
+Round dollar wires|00092249|Gomez, Tony|2026-07-05|$7,306|open
+Round dollar wires|00416400|Johnson, Julia L.|2026-04-21|$63,018|open
+Round dollar wires|00013144|Anderson, Joseph E.|2026/07/23|$3,619|open
+Cash deposits over 10k in 3 days|291976|Wilson, Michael|2026-03-27|$6,143|open
+Round dollar wires|659813|Johnson, Angela|2026-05-07|$9,610|open
+Cash deposits over 10k in 3 days|00624429|Vargas, Luis|2026-04-05|$17,718|open
+Funnel account deposits|229970|Diaz, Raymond S.|2026/08/07|$9,305|open
+Funnel account deposits|905216|Gonzalez, Bob|2026-08-04|$10,454|open
+Funnel account deposits|312821|Scott, Carlos|2026-10-16|$4,037|open
+Funnel account deposits|00136445|Perez, Carlos|2026-03-05|$2,617|open
+Cash deposits over 10k in 3 days|00553438|Rodriguez, Maria|2026-08-12|$4,603|open
+Wires to high risk jurisdiction|290247|Martinez, Elena|2026-03-06|$21,100|open
+Funnel account deposits|00697383|Reyes, Julia R.|2026-07-06|$3,207|open
+Funnel account deposits|894860|Allen, Thomas|2026-03-13|$8,985|open
+Funnel account deposits|00592064|Reyes, Victor|2026/03/26|$1,640|closed
+Check kiting pattern|6393464|Ramirez, Isabel J.|2026-09-26|$9,347|open
+Cash deposits over 10k in 3 days|82391|Wilson, Patricia G.|2026-10-05|$11,884|open
+Funnel account deposits|00093705|Gomez, Henry P.|2026-07-15|$4,724|open
+Wires to high risk jurisdiction|364585|Martin, Sam|2026-05-01|$12,737|open
+Funnel account deposits|00270275|Williams, Mark|2026/05/20|$42,411|open
+Cash deposits over 10k in 3 days|00291976|Wilson, Michael S.|2026-03-10|$38,851|open
+Cash deposits over 10k in 3 days|00574035|Rivera, Steve H.|2026-07-03|$6,220|open
+Check kiting pattern|00833550|Williams, Laura|2026-09-08|$4,580|open
+Cash deposits over 10k in 3 days|582800|Gomez, Tony|2026-09-25|$15,360|open
+Round dollar wires|654853|Flores, Carmen H.|2026-05-04|$10,502|open
+Cash deposits over 10k in 3 days|781880|Hernandez, James|2026-06-20|$48,914|open
+Cash deposits over 10k in 3 days|00420409|Flores, Victor G.|2026-09-06|$6,829|open
+Round dollar wires|331003|Davis, Diana|2026-05-14|$5,649|open
+Round dollar wires|00582800|Gomez, Anthony|2026-06-18|$22,387|open
+Check kiting pattern|00608171|Diaz, Daniel K.|2026-05-20|$10,239|open
+Check kiting pattern|00938874|Chavez, Kevin|2026-09-07|$16,660|open
+Cash deposits over 10k in 3 days|305803|Ortiz, Sofia|2026-04-23|$50,726|open
+Check kiting pattern|327056|Martinez, Diana D.|2026/07/10|$22,312|open
+Check kiting pattern|00710226|Williams, Monica|2026-05-29|$6,994|open
+Cash deposits over 10k in 3 days|175456|Anderson, Luis|2026/09/24|$15,909|open
+Round dollar wires|350463|Gutierrez, Teresa|2026-09-15|$9,594|open
+Check kiting pattern|00789265|Brown, Victor C.|2026-05-29|$2,823|open
+Round dollar wires|367928|Flores, Maria|2026-04-28|$6,045|open
+Funnel account deposits|556884|Young, Paula|2026/03/10|$4,430|open
+Wires to high risk jurisdiction|833550|Williams, Laura A.|2026/04/13|$28,983|open
+Check kiting pattern|737593|Moore, Luis|2026/10/28|$9,543|open
+Round dollar wires|625406|Martin, Andrew|2026-08-24||open
+Wires to high risk jurisdiction|642061|Walker, Samuel|2026-06-11|$12,142|open
+Cash deposits over 10k in 3 days|99820|Brown, Monica|2026-06-11|$4,409|open
+Wires to high risk jurisdiction|00530186|Jackson, Kevin|2026-10-05|$12,965|open
+Wires to high risk jurisdiction|435603|Davis, Teresa A.|2026-04-04|$16,018|open
+Cash deposits over 10k in 3 days|575718|Williams, Maria|2026-09-04|$4,236|open
+Round dollar wires|140358|Ramirez, Teresa|2026-06-16|$10,744|closed
+Cash deposits over 10k in 3 days|422721|Lopez, Eric|2026-05-02|$13,392|open
+Check kiting pattern|702219|Green, Pat|2026-03-10|$4,449|open
+Round dollar wires|413247|King, Carmen G.|2026-07-24|$67,125|open
+Check kiting pattern|00665812|Williams, Victor|2026-10-25|$7,015|open
+Wires to high risk jurisdiction|807518|Jones, Anthony|2026/09/28|$4,305|open
+Check kiting pattern|00132641|Reyes, Linda|2026-05-25|$5,335|open
+Check kiting pattern|749360|Martin, Raymond P.|2026/09/12|$7,707|open
+Check kiting pattern|00734811|Jackson, Thomas|2026-08-09|$3,700|open
+Funnel account deposits|00823035|Williams, Michael E.|2026-04-09|$25,897|open
+Round dollar wires|00456824|Lee, James J.|2026-10-28|$3,188|open
+Round dollar wires|00815638|Martinez, Kevin|2026/07/01|$16,344|open
+Funnel account deposits|40844|Green, Samuel|2026-08-29|$2,463|open
+Round dollar wires|00710226|Williams, Monica N.|2026-08-25|$12,714|open
+Cash deposits over 10k in 3 days|627664|Garcia, Angela|2026-06-18|$11,420|open
+Round dollar wires|00271142|Torres, Thomas|2026-05-03|$7,903|open
+Check kiting pattern|00963102|Diaz, Henry|2026-10-31|$19,631|open
+Wires to high risk jurisdiction|421065|Vargas, James|2026-03-22|$27,462|open
+Check kiting pattern|1245736|Flores, Jason|2026-03-20|$2,136|open
+Cash deposits over 10k in 3 days|470161|Jones, Diana G.|2026/05/15|$17,735|open
+Wires to high risk jurisdiction|293192|Flores, Ana|2026-05-04|$17,003|open
+Round dollar wires|801561|Williams, Maria K.|2026/04/06|$6,243|open
+Round dollar wires|00429303|Williams, James|2026-08-27|$3,330|open
+Round dollar wires|709223|Smith, Henry|2026-06-02||open
+Cash deposits over 10k in 3 days|262438|Sanchez, Steven S.|2026/09/05|$7,978|open
+Round dollar wires|00156921|Sanchez, Daniel|2026-08-10|$9,275|open
+Funnel account deposits|00756524|Taylor, Brian M.|2026-04-11|$8,857|open
+Funnel account deposits|00228858|Gonzalez, Isabel D.|2026/10/20|$3,073|open
+Funnel account deposits|638523|Chavez, Patricia|2026-09-08|$1,972|open
+Wires to high risk jurisdiction|00229970|Diaz, Raymond|2026/06/20|$5,101|open
+Funnel account deposits|412799|Wilson, Kevin|2026-07-22|$10,227|open
+Cash deposits over 10k in 3 days|00298561|Anderson, David|2026-05-19|$14,937|open
+Round dollar wires|00490525|Gonzalez, Monica|2026/10/23|$22,076|open
+Wires to high risk jurisdiction|00048380|Brown, Eric|2026/03/29|$5,216|open
+Funnel account deposits|00345261|Diaz, Jason C.|2026-07-17|$9,365|open
+Funnel account deposits|00895297|Ramirez, Ana|2026-06-18|$2,946|open
+Funnel account deposits|00722290|Rivera, Ana|2026/06/05|$4,020|open
+Round dollar wires|00121793|Anderson, Diana|2026-10-11|$26,795|open
+Wires to high risk jurisdiction|557726|Vargas, Andrew|2026-08-03|$7,581|open
+Funnel account deposits|167143|Brown, Thomas|2026-04-13|$28,324|open
+Round dollar wires|00126264|Garcia, Elena|2026/04/09|$9,701|open
+Wires to high risk jurisdiction|00021194|Rodriguez, Linda|2026-09-27|$6,813|open
+Wires to high risk jurisdiction|00342800|Gutierrez, Andrew|2026-04-06|$4,411|open
+Check kiting pattern|00133025|Jackson, Bob|2026-04-19|$5,399|open
+Wires to high risk jurisdiction|00354234|Martin, Sofia|2026-08-01|$3,034|open
+Round dollar wires|128606|Moore, Rosa|2026-03-05|$14,587|open
+Check kiting pattern|00479212|Johnson, Nadia B.|2026-04-01|$6,926|open
+Cash deposits over 10k in 3 days|807518|Jones, Tony|2026-09-28|$8,146|open
+Wires to high risk jurisdiction|00458859|Torres, Mark|2026-08-10|$13,169|open
+Funnel account deposits|463909|Morales, Thomas|2026-09-30|$5,133|open
+Round dollar wires|00296446|Smith, Henry|2026-06-01|$22,973|closed
+Cash deposits over 10k in 3 days|00710226|Williams, Monica|2026/03/18|$11,057|open
+Wires to high risk jurisdiction|00432018|Cruz, Gloria|2026-05-11|$37,612|open
+Round dollar wires|530186|Jackson, Kevin|2026-10-24||open
+Wires to high risk jurisdiction|233184|Lee, Joseph L.|2026/06/27|$12,012|open
+Cash deposits over 10k in 3 days|00681320|Smith, Mark A.|2026/05/14|$9,808|open
+Check kiting pattern|00638523|Chavez, Patricia|2026-10-21|$33,248|open
+Wires to high risk jurisdiction|673319|Taylor, David|2026-05-11|$4,837|open
+Round dollar wires|805854|Rodriguez, Steven T.|2026-06-29|$15,488|open
+Check kiting pattern|00332561|Gonzalez, Joseph|2026/06/29|$7,539|open
+Funnel account deposits|63619|Davis, Henry|2026-07-27|$6,241|open
+Round dollar wires|00190569|Ortiz, Monica|2026/08/08|$7,652|open
+Funnel account deposits|00518554|Rodriguez, Nadia|2026/03/04|$3,909|open
+Funnel account deposits|00159993|Gomez, Mark|2026/09/04|$15,653|open
+Wires to high risk jurisdiction|839089|Perez, Kevin|2026-03-06|$50,152|open
+Funnel account deposits|00099820|Brown, Monica|2026/10/23|$31,058|open
+Wires to high risk jurisdiction|595347|Scott, Steve|2026/08/11|$8,770|open
+Cash deposits over 10k in 3 days|00839089|Perez, Kevin|2026/09/12|$26,860|open
+Round dollar wires|00184794|Davis, Laura C.|2026-09-23|$8,382|open
+Cash deposits over 10k in 3 days|412799|Wilson, Kevin|2026/10/23|$3,872|open
+Cash deposits over 10k in 3 days|265878|Johnson, Ana|2026-07-01|$77,760|open
+Wires to high risk jurisdiction|743988|Cruz, Maria|2026-10-10|$10,001|open
+Round dollar wires|60410|Brown, Maria|2026/04/09|$31,863|open
+Cash deposits over 10k in 3 days|188244|Garcia, Steven|2026-09-23|$7,394|open
+Cash deposits over 10k in 3 days|697383|Reyes, Julia|2026-08-08|$30,376|open
+Check kiting pattern|00331003|Davis, Diana|2026-09-22|$30,271|open
+Funnel account deposits|33049|Wright, Victor P.|2026-10-21|$13,078|open
+Check kiting pattern|00217878|Moore, Raymond|2026-07-14|$2,831|open
+Funnel account deposits|539340|Jones, Angela|2026-09-20|$2,930|open
+Cash deposits over 10k in 3 days|169282|Anderson, Joseph|2026/04/04|$7,538|open
+Cash deposits over 10k in 3 days|161567|Scott, Isabel|2026-03-22|$13,423|open
+Wires to high risk jurisdiction|00264732|Moore, Elena|2026-08-05|$14,731|open
+Round dollar wires|00479442|Allen, Steve J.|2026-03-11|$10,670|open
+Funnel account deposits|601489|Taylor, Teresa|2026-10-04|$44,459|open
+Cash deposits over 10k in 3 days|00282063|Miller, Teresa|2026-10-04|$6,936|open
+Cash deposits over 10k in 3 days|00094811|Martin, Raymond|2026/06/13|$23,326|open
+Funnel account deposits|198573|Johnson, Steven D.|2026/08/18|$23,388|open
+Cash deposits over 10k in 3 days|00759056|Flores, Jason|2026-07-08|$18,841|open
+Round dollar wires|00419122|Chavez, Julia E.|2026-09-05|$11,133|open
+Funnel account deposits|418478|Torres, Paula G.|2026-07-30|$14,129|open
+Wires to high risk jurisdiction|576315|Young, Sofia|2026-04-13|$6,452|open
+Check kiting pattern|4555470|Ortiz, David E.|2026/08/21|$4,585|open
+Round dollar wires|672522|Wright, Brian N.|2026/08/24|$2,477|open
+Check kiting pattern|00180660|Torres, Maria|2026-09-26|$2,487|closed
+Cash deposits over 10k in 3 days|990634|Allen, Kevin|2026-06-05|$21,187|open
+Cash deposits over 10k in 3 days|00161774|Flores, Samuel|2026-08-30|$39,691|open
+Funnel account deposits|392485|Sanchez, Sam D.|2026/08/28|$2,088|open
+Cash deposits over 10k in 3 days|00867887|Gomez, Angela S.|2026-10-29|$7,309|open
+Wires to high risk jurisdiction|00909961|Jones, Dan|2026/04/29|$16,431|open
+Cash deposits over 10k in 3 days|305731|Martinez, Steve|2026-03-12|$31,068|open
+Funnel account deposits|198573|Johnson, Steven D.|2026-07-16|$5,173|open
+Check kiting pattern|423658|Chavez, Maria S.|2026/05/28|$7,000|open
+Cash deposits over 10k in 3 days|00777077|Vargas, Andrew|2026/04/05|$8,158|open
+Funnel account deposits|431615|Flores, Carlos|2026-06-23|$2,087|open
+Funnel account deposits|00619537|Cruz, Daniel|2026-05-16|$15,061|open
+Funnel account deposits|954293|Martinez, Linda|2026-08-04|$5,107|closed
+Funnel account deposits|646087|Gonzalez, Monica|2026-09-22|$29,848|open
+Funnel account deposits|00393908|Miller, Mark C.|2026-10-22|$8,485|open
+Cash deposits over 10k in 3 days|00781880|Hernandez, James|2026-05-15|$12,561|open
+Check kiting pattern|00745463|Gonzalez, Steven|2026/07/03|$36,920|open
+Check kiting pattern|5832465|Johnson, Luis|2026-04-02|$4,387|open
+Cash deposits over 10k in 3 days|00099820|Brown, Monica T.|2026-03-07|$26,383|open
+Wires to high risk jurisdiction|484607|Williams, David|2026-05-20|$1,947|open
+Cash deposits over 10k in 3 days|00635821|Martinez, Ana|2026/09/14|$986|open
+Check kiting pattern|503881|Wilson, Linda|2026/08/27|$18,149|open
+Round dollar wires|00422721|Lopez, Eric|2026/06/21|$6,430|open
+Funnel account deposits|125727|Perez, Mark|2026/07/01|$9,732|open
+Round dollar wires|00074256|Moore, David|2026/06/23|$4,726|open
+Round dollar wires|300728|Jones, Eric R.|2026-10-22|$6,769|open
+Round dollar wires|215963|Hernandez, David|2026-03-16|$20,192|open
+Check kiting pattern|00683112|Cruz, Monica|2026-05-13|$4,069|open
+Funnel account deposits|23559|Green, Jason|2026-03-21|$10,159|open
+Wires to high risk jurisdiction|88931|Hernandez, Elena|2026-05-05|$4,813|open
+Funnel account deposits|584129|Reyes, Raymond|2026-06-12|$6,493|open
+Round dollar wires|2014673|Johnson, Lucia|2026-08-10|$17,913|open
+Funnel account deposits|561907|Diaz, Angela|2026/10/27|$1,849|open
+Round dollar wires|00580292|Scott, Maria P.|2026-07-09|$7,057|open
+Check kiting pattern|00448799|Jackson, Henry|2026/10/30|$11,451|open
+Funnel account deposits|2927207|Brown, Eric|2026-10-17|$5,786|open
+Funnel account deposits|00665164|Sanchez, Teresa|2026-08-19|$9,204|open
+Round dollar wires|407793|Davis, Robert|2026/07/08|$13,528|open
+Wires to high risk jurisdiction|00777061|Wright, Brian E.|2026-06-15|$8,203|closed
+Round dollar wires|00234082|Allen, Lucia D.|2026/08/30|$9,193|open
+Cash deposits over 10k in 3 days|00619396|Sanchez, Angela P.|2026-05-25|$30,648|open
+Funnel account deposits|794491|Anderson, Jason P.|2026-09-14|$6,782|open
+Cash deposits over 10k in 3 days|00961334|Vargas, Thomas C.|2026-04-13|$8,485|open
+Wires to high risk jurisdiction|00215963|Hernandez, David|2026/08/21|$8,584|closed
+Round dollar wires|00483322|Brown, David|2026-10-06|$17,998|closed
+Funnel account deposits|00736917|Wright, Julia|2026-08-28|$11,640|open
+Wires to high risk jurisdiction|883064|Young, Joseph|2026-05-24|$5,252|open
+Funnel account deposits|00745463|Gonzalez, Steven|2026-06-27|$1,952|open
+Cash deposits over 10k in 3 days|00463328|Vargas, Julia|2026-08-13|$5,686|open
+Round dollar wires|00528478|Ortiz, Linda P.|2026/10/13|$13,689|open
+Round dollar wires|00560668|Scott, Henry|2026-09-25|$7,028|open
+Check kiting pattern|293192|Flores, Ana|2026/07/16|$96,705|open
+Wires to high risk jurisdiction|167399|Martin, Monica|2026-10-01|$3,494|closed
+Check kiting pattern|00700133|Miller, Rosa J.|2026-06-24|$8,019|open
+Round dollar wires|00321132|Ramirez, Elena|2026-05-20|$19,084|open
+Cash deposits over 10k in 3 days|980581|Flores, Elena E.|2026/06/04|$6,848|open
+Round dollar wires|727919|Perez, Robert|2026-06-17|$9,014|open
+Cash deposits over 10k in 3 days|121087|Garcia, Nadia|2026-09-13|$13,713|open
+Cash deposits over 10k in 3 days|00870904|Sanchez, Gloria J.|2026-04-30|$11,803|closed
+Check kiting pattern|194004|Wright, Tony|2026-07-15|$10,159|open
+Round dollar wires|00094811|Martin, Raymond P.|2026-06-30|$16,865|open
+Check kiting pattern|00184794|Davis, Laura|2026-09-21|$9,107|open
+Round dollar wires|904197|Walker, Anthony W.|2026-09-09|$11,394|open
+Wires to high risk jurisdiction|00418312|Gutierrez, Rosa F.|2026/09/12|$16,980|open
+Wires to high risk jurisdiction|00569217|Martinez, Mark B.|2026/10/03|$4,464|open
+Check kiting pattern|00840168|Torres, Victor W.|2026-08-05|$2,257|open
+Round dollar wires|00537417|Moore, Bob|2026/09/11|$9,810|closed
+Check kiting pattern|914202|Lopez, Monica|2026-09-05|$7,343|open
+Cash deposits over 10k in 3 days|505337|Wright, Rosa|2026-08-29|$20,891|open
+Wires to high risk jurisdiction|00777077|Vargas, Andrew|2026/08/26||open
+Round dollar wires|00229970|Diaz, Raymond|2026-09-17|$7,768|open
+Cash deposits over 10k in 3 days|00988001|Morales, Rosa|2026-08-22|$2,385|open
+Cash deposits over 10k in 3 days|00286155|Cruz, Samuel|2026-07-07|$4,002|open
+Cash deposits over 10k in 3 days|00866396|Ramirez, Mark E.|2026-09-30|$9,145|open
+Cash deposits over 10k in 3 days|432018|Cruz, Gloria|2026-03-12|$11,401|open
+Round dollar wires|385373|Rivera, Robert|2026-03-12|$8,581|open
+Check kiting pattern|170942|Gomez, Robert|2026-03-14|$6,013|open
+Check kiting pattern|350463|Gutierrez, Teresa|2026-06-25|$9,084|open
+Funnel account deposits|00070290|Garcia, Sofia P.|2026/09/28|$6,631|open
+Cash deposits over 10k in 3 days|198573|Johnson, Steven|2026-09-24|$5,536|open
+Round dollar wires|00522828|Ramirez, Laura W.|2026-08-10|$9,624|open
+Check kiting pattern|70818|Diaz, Angela B.|2026-06-17|$26,925|open
+Wires to high risk jurisdiction|298443|Gonzalez, Nadia|2026-03-04|$8,529|open
+Check kiting pattern|879485|Chavez, Steve|2026-09-24|$8,227|open
+Check kiting pattern|00779315|Young, Robert S.|2026/05/07|$13,755|open
+Round dollar wires|206657|Smith, Nadia|2026-09-15|$44,601|open
+Funnel account deposits|429303|Williams, James H.|2026-05-05|$6,130|open
+Cash deposits over 10k in 3 days|9402787|Diaz, Gloria|2026-07-03||open
+Round dollar wires|555421|Wilson, Gloria|2026-10-19|$25,141|open
+Check kiting pattern|546241|Lopez, Raymond W.|2026/09/12|$5,651|open
+Wires to high risk jurisdiction|511563|Reyes, Jason|2026/03/09|$4,433|open
+Check kiting pattern|151572|Lee, Sofia|2026/04/11|$4,444|open
+Cash deposits over 10k in 3 days|699758|Smith, Bob|2026-10-12|$6,256|open
+Check kiting pattern|237391|Lee, Steven D.|2026-05-28|$6,227|open
+Check kiting pattern|94811|Martin, Raymond P.|2026-08-02|$11,732|open
+Wires to high risk jurisdiction|00638523|Chavez, Patricia S.|2026-08-31|$11,706|open
+Round dollar wires|00556884|Young, Paula|2026-08-07|$23,382|open
+Funnel account deposits|00015525|Lee, Paula P.|2026-06-18|$19,637|open
+Round dollar wires|549456|Gutierrez, Laura|2026/03/24|$3,474|open
+Check kiting pattern|873977|Jackson, Joseph|2026/09/16|$4,544|open
+Funnel account deposits|00464056|Williams, Mark L.|2026-10-13|$3,626|open
+Cash deposits over 10k in 3 days|126264|Garcia, Elena|2026-04-03|$4,964|open
+Cash deposits over 10k in 3 days|00119197|Martin, Diana|2026-09-26|$13,051|open
+Round dollar wires|809971|Gonzalez, Laura D.|2026/07/17|$43,747|open
+Check kiting pattern|190043|Davis, Carlos|2026/07/20|$6,588|open
+Cash deposits over 10k in 3 days|00732594|Morales, Ana|2026-07-22|$4,660|closed
+Funnel account deposits|297711|Wright, Daniel|2026-09-11|$7,911|open
+Check kiting pattern|00206182|Wilson, Michael|2026-04-10|$6,903|open
+Funnel account deposits|393908|Miller, Mark|2026-06-03||open
+Round dollar wires|560424|Moore, Maria|2026-04-29|$1,656|open
+Round dollar wires|00899129|Martin, Joseph|2026/05/31|$16,788|open
+Check kiting pattern|561907|Diaz, Angela|2026-06-16|$52,536|open
+Funnel account deposits|00588035|Diaz, Patricia|2026/06/15|$13,672|open
+Check kiting pattern|830568|Jackson, Andy T.|2026-06-16|$10,566|open
+Cash deposits over 10k in 3 days|8644157|Jackson, Linda P.|2026-06-18|$10,009|open
+Funnel account deposits|637897|Cruz, Luis H.|2026-09-20|$7,631|open
+Cash deposits over 10k in 3 days|815411|Perez, Kevin|2026-09-24|$12,220|open
+Funnel account deposits|7352795|Ramirez, Angela|2026-06-11|$4,825|open
+Check kiting pattern|00485669|Scott, Linda C.|2026-10-14|$44,193|open
+Round dollar wires|283237|Davis, Mark|2026/04/08|$21,349|open
+Funnel account deposits|625406|Martin, Andrew|2026-08-10|$1,891|open
+Wires to high risk jurisdiction|00954575|Rivera, Victor|2026-08-20|$17,075|open
+Wires to high risk jurisdiction|661013|Gomez, Luis|2026/08/28|$22,600|closed
+Round dollar wires|637073|King, Gloria|2026-04-20|$7,503|open
+Wires to high risk jurisdiction|636532|Morales, Brian P.|2026-10-18|$12,423|open
+Funnel account deposits|426933|Lopez, Luis|2026/07/01|$9,307|open
+Check kiting pattern|63619|Davis, Henry|2026-05-09||open
+Cash deposits over 10k in 3 days|00185911|Chavez, Diana|2026/03/29|$40,455|open
+Funnel account deposits|613078|Wilson, Anthony|2026-07-17|$15,941|open
+Wires to high risk jurisdiction|389129|Hernandez, Laura|2026-10-14|$11,631|open
+Funnel account deposits|221002|Jones, Thomas A.|2026/10/24|$4,297|open
+Funnel account deposits|00721094|Sanchez, Brian F.|2026-07-10|$17,257|open
+Funnel account deposits|262771|Davis, Julia|2026-07-31|$2,736|open
+Funnel account deposits|7238991|Smith, Isabel|2026-07-18|$42,498|open
+Funnel account deposits|953957|Martin, Rosa E.|2026/06/20|$1,744|open
+Wires to high risk jurisdiction|00746449|Torres, Carmen|2026/07/13|$14,169|open
+Check kiting pattern|740871|Gomez, David|2026-10-31|$24,689|closed
+Cash deposits over 10k in 3 days|00635821|Martinez, Ana E.|2026/06/16|$5,248|closed
+Wires to high risk jurisdiction|00341445|Diaz, Andrew|2026-03-17|$3,311|open
+Round dollar wires|00128606|Moore, Rosa T.|2026-09-05|$10,707|open
+Check kiting pattern|524851|Young, Ana|2026-04-06|$37,943|open
+Cash deposits over 10k in 3 days|290760|Perez, Carmen|2026/04/23|$33,180|open
+Funnel account deposits|00458570|Brown, David F.|2026-07-12|$5,205|open
+Check kiting pattern|00152638|King, Kevin N.|2026-06-14|$3,657|closed
+Wires to high risk jurisdiction|764751|Brown, Eric|2026-10-11|$12,927|open
+Cash deposits over 10k in 3 days|106071|Anderson, Diana|2026/10/12|$17,220|open
+Check kiting pattern|867263|Green, Isabel|2026-06-08|$21,994|open
+Round dollar wires|698758|Young, Sofia P.|2026/09/16|$6,553|open
+Funnel account deposits|00270413|Martinez, Rosa|2026/06/02|$2,779|open
+Funnel account deposits|743988|Cruz, Maria|2026-04-25|$7,319|open
+Funnel account deposits|422721|Lopez, Eric J.|2026-05-29|$13,775|open
+Funnel account deposits|423658|Chavez, Maria|2026-03-07|$17,124|open
+Funnel account deposits|00894011|Johnson, Jason|2026-03-24|$12,044|open
+Round dollar wires|00412799|Wilson, Kevin|2026-03-11|$2,604|open
+Wires to high risk jurisdiction|00422721|Lopez, Eric|2026/06/15|$3,258|closed
+Funnel account deposits|00909961|Jones, Daniel|2026-07-31|$30,302|open
+Check kiting pattern|3254548|Hernandez, Gloria K.|2026-05-08|$5,569|open
+Funnel account deposits|00698958|Smith, Lucia E.|2026-10-23|$3,829|open
+Check kiting pattern|00632272|Lopez, Carmen|2026/08/11|$23,651|open
+Wires to high risk jurisdiction|00328099|Moore, Lucia M.|2026-05-20|$3,012|open
+Cash deposits over 10k in 3 days|00553438|Rodriguez, Maria|2026-09-11|$2,359|open
+Wires to high risk jurisdiction|00333971|Gutierrez, Daniel|2026/04/28|$6,877|open
+Funnel account deposits|372506|Martinez, Sofia|2026/05/13|$14,341|open
+Cash deposits over 10k in 3 days|00316115|Ramirez, Laura|2026-06-27|$131,327|open
+Check kiting pattern|522051|Walker, Sofia|2026-10-29||closed
+Round dollar wires|511309|Jackson, Linda|2026-10-28|$6,978|open
+Wires to high risk jurisdiction|270275|Williams, Mark|2026-10-10|$62,285|open
+Round dollar wires|842436|Gonzalez, Teresa|2026-07-09|$23,946|open
+Funnel account deposits|638523|Chavez, Patricia|2026/03/19|$14,714|open
+Funnel account deposits|00043062|Garcia, Carmen|2026-10-13|$10,642|open
+Round dollar wires|00673319|Taylor, David|2026-08-17|$18,068|open
+Round dollar wires|635821|Martinez, Ana|2026-05-11|$4,123|open
+Round dollar wires|161567|Scott, Isabel|2026/10/13|$14,201|open
+Check kiting pattern|974767|Jackson, Anthony K.|2026-05-14|$2,239|open
+Cash deposits over 10k in 3 days|412799|Wilson, Kevin D.|2026-10-03|$3,769|open
+Funnel account deposits|324935|Green, Victor|2026-04-13|$7,280|open
+Check kiting pattern|12323|Ramirez, Victor|2026-09-01|$6,541|open
+Check kiting pattern|388153|Torres, Anthony|2026-10-27|$17,491|open
+Check kiting pattern|788807|Torres, Carlos|2026-09-01|$9,170|open
+Cash deposits over 10k in 3 days|530186|Jackson, Kevin|2026-05-08|$2,967|open
+Check kiting pattern|560668|Scott, Henry|2026-08-25|$13,965|open
+Cash deposits over 10k in 3 days|00419744|Lopez, Henry|2026-07-17|$3,588|open
+Wires to high risk jurisdiction|403635|Lee, Linda|2026-06-28|$5,873|open
+Funnel account deposits|00662494|Lopez, Angela|2026/10/15|$5,872|open
+Cash deposits over 10k in 3 days|602770|Davis, Jason A.|2026-10-26|$10,410|open
+Cash deposits over 10k in 3 days|00305731|Martinez, Steve|2026/05/26|$29,281|open
+Wires to high risk jurisdiction|367928|Flores, Maria|2026/05/21|$18,882|open
+Funnel account deposits|5052939|Flores, Eric|2026-09-12|$2,455|open
+Round dollar wires|883442|Anderson, Laura F.|2026/08/04|$19,784|open
+Wires to high risk jurisdiction|199402|Ortiz, Andy T.|2026-07-16|$1,075|open
+Funnel account deposits|00217430|Brown, Nadia|2026/09/27|$26,435|open
+Check kiting pattern|00051103|Taylor, Angela N.|2026-10-20|$8,660|open
+Round dollar wires|00169181|Anderson, Paula|2026-08-28|$4,253|open
+Funnel account deposits|119556|Chavez, Monica|2026-05-17|$2,584|closed
+Check kiting pattern|00653767|Rodriguez, Andrew F.|2026-07-05|$40,959|open
+Round dollar wires|00010411|Garcia, Diana|2026/08/01|$17,256|open
+Round dollar wires|327796|Moore, Anthony|2026-08-30|$15,710|open
+Check kiting pattern|00338040|Davis, Carlos|2026-09-03|$59,099|open
+Funnel account deposits|954293|Martinez, Linda|2026/05/20|$3,789|open
+Funnel account deposits|00061242|Chavez, Rosa|2026/07/06|$3,784|open
+Check kiting pattern|00377452|Jones, Jason|2026-08-31|$10,911|closed
+Wires to high risk jurisdiction|407793|Davis, Robert T.|2026-08-23|$7,783|open
+Check kiting pattern|421065|Vargas, James|2026/06/03|$12,598|open
+Wires to high risk jurisdiction|778466|Martinez, Tony|2026/03/10|$21,440|open
+Round dollar wires|525426|Miller, Elena W.|2026/06/06|$4,009|open
+Wires to high risk jurisdiction|938874|Chavez, Kevin S.|2026/04/17|$14,389|open
+Check kiting pattern|00860389|King, Brian|2026-10-06|$22,175|open
+Check kiting pattern|70655|King, Gloria|2026-10-22|$5,913|open
+Check kiting pattern|00791611|Perez, Laura|2026-08-25|$3,337|open
+Funnel account deposits|00807518|Jones, Anthony|2026-07-14|$5,226|open
+Cash deposits over 10k in 3 days|00026466|Wilson, Paula|2026-05-14|$15,695|open
+Check kiting pattern|315986|Taylor, Gloria|2026-03-04|$4,305|open
+Wires to high risk jurisdiction|231252|Reyes, Kevin R.|2026-10-20|$36,698|open
+Round dollar wires|00175456|Anderson, Luis E.|2026-07-07|$16,985|open
+Round dollar wires|6011888|Young, Ana|2026-09-21|$18,717|open
+Funnel account deposits|702893|King, Daniel|2026-08-30|$11,020|open
+Wires to high risk jurisdiction|524851|Young, Ana D.|2026-09-26|$21,688|open
+Round dollar wires|00824674|Scott, Gloria|2026/10/08|$6,915|open
+Round dollar wires|00045826|Jackson, Elena A.|2026-05-29|$25,048|open
+Round dollar wires|419122|Chavez, Julia|2026/09/13|$2,222|open
+Check kiting pattern|229970|Diaz, Raymond S.|2026-10-29|$8,520|open
+Cash deposits over 10k in 3 days|00716402|Green, Steven|2026-09-03|$7,027|open
+Check kiting pattern|00571314|Wilson, Kevin|2026-07-18|$38,112|closed
+Round dollar wires|00726082|Torres, Isabel|2026-03-13|$22,920|open
+Funnel account deposits|40844|Green, Sam|2026-06-30|$17,989|open
+Cash deposits over 10k in 3 days|00084182|Flores, Carlos|2026-04-13|$17,736|open
+Round dollar wires|00777077|Vargas, Andrew D.|2026-09-15|$1,222|open
+Wires to high risk jurisdiction|10411|Garcia, Diana W.|2026-09-29|$10,632|open
+Check kiting pattern|953957|Martin, Rosa E.|2026/03/06|$10,304|open
+Funnel account deposits|788807|Torres, Carlos S.|2026/10/05|$16,388|open
+Check kiting pattern|00772161|Williams, Steven F.|2026-10-11|$8,520|open
+Wires to high risk jurisdiction|619537|Cruz, Dan G.|2026/07/01|$7,470|open
+Funnel account deposits|33049|Wright, Victor P.|2026/06/05|$3,660|open
+Check kiting pattern|00566805|Martin, Anthony|2026-08-03|$2,291|open
+Round dollar wires|00907836|Garcia, Elena|2026-10-04|$14,149|open
+Wires to high risk jurisdiction|00557726|Vargas, Andy|2026-06-09|$9,921|open
+Check kiting pattern|756524|Taylor, Brian|2026-06-18|$17,551|open
+Wires to high risk jurisdiction|104015|King, Lucia|2026-03-06|$13,458|open
+Check kiting pattern|00293192|Flores, Ana|2026/03/23|$7,032|closed
+Cash deposits over 10k in 3 days|00972157|Cruz, Victor|2026/04/01|$5,693|open
+Round dollar wires|187429|Taylor, Paula J.|2026-04-26|$5,823|open
+Wires to high risk jurisdiction|121328|Flores, Paula P.|2026-10-30|$26,513|open
+Wires to high risk jurisdiction|407793|Davis, Robert|2026-10-17|$10,107|open
+Funnel account deposits|961450|Ramos, Patricia|2026-08-25|$9,646|open
+Cash deposits over 10k in 3 days|850825|Flores, James|2026-04-20|$4,499|open
+Round dollar wires|00343383|Smith, Gloria|2026-08-09|$7,295|open
+Wires to high risk jurisdiction|907811|Martinez, Luis|2026/05/21|$18,555|open
+Cash deposits over 10k in 3 days|298443|Gonzalez, Nadia R.|2026-05-01|$10,395|open
+Funnel account deposits|962406|Martin, Victor|2026/08/20|$75,504|open
+Check kiting pattern|00412799|Wilson, Kevin D.|2026-08-17|$7,942|open
+Wires to high risk jurisdiction|00582849|Ortiz, Victor|2026-06-14|$55,812|open
+Wires to high risk jurisdiction|00167143|Brown, Thomas|2026-03-10|$11,490|open
+Cash deposits over 10k in 3 days|9785514|Diaz, Kevin|2026-09-22|$2,620|open
+Wires to high risk jurisdiction|296446|Smith, Henry|2026-08-31|$15,162|open
+Wires to high risk jurisdiction|00297711|Wright, Dan|2026-07-09||open
+Wires to high risk jurisdiction|00516481|Ortiz, Victor P.|2026-07-05|$13,046|open
+Check kiting pattern|00195394|Brown, Teresa|2026/09/25|$39,107|open
+Check kiting pattern|764751|Brown, Eric J.|2026-04-21|$25,798|open
+Check kiting pattern|00839089|Perez, Kevin|2026-10-15|$10,495|open
+Cash deposits over 10k in 3 days|945116|Miller, Brian|2026-10-27||open
+Funnel account deposits|300728|Jones, Eric R.|2026-05-30||open
+Wires to high risk jurisdiction|74256|Moore, David|2026-06-29|$1,425|open
+Round dollar wires|00553438|Rodriguez, Maria|2026/04/04|$3,674|open
+Check kiting pattern|00543664|Moore, Sofia|2026-03-15|$7,446|open
+Check kiting pattern|00698958|Smith, Lucia E.|2026-08-14|$80,576|open
+Check kiting pattern|00389491|Martin, Brian|2026-03-12|$8,160|open
+Check kiting pattern|00305286|Ramirez, Angela|2026/07/03|$20,633|open
+Cash deposits over 10k in 3 days|00214160|Jackson, Carlos|2026-08-05|$13,531|open
+Cash deposits over 10k in 3 days|00672522|Wright, Brian|2026-09-23|$9,341|open
+Cash deposits over 10k in 3 days|119268|Taylor, Nadia|2026-09-02|$38,596|open
+Funnel account deposits|00992177|Reyes, Gloria T.|2026-06-15|$20,650|open
+Cash deposits over 10k in 3 days|00583950|Walker, Mark|2026-09-25|$18,563|open
+Check kiting pattern|00063619|Davis, Henry|2026/09/23|$14,272|open
+Round dollar wires|701391|Lopez, Julia M.|2026-10-02|$11,635|open
+Cash deposits over 10k in 3 days|750343|Perez, Andrew|2026-10-24|$3,639|closed
+Funnel account deposits|00126264|Garcia, Elena|2026/07/02|$17,835|open
+Check kiting pattern|00721094|Sanchez, Brian F.|2026/03/23|$31,966|open
+Check kiting pattern|00209531|Morales, Jason|2026-07-15|$5,089|open
+Wires to high risk jurisdiction|00636392|Green, Kevin|2026/10/08|$3,517|open
+Funnel account deposits|00633186|Reyes, Isabel|2026-03-22|$29,294|open
+Check kiting pattern|371711|Jones, Diana|2026/04/01||open
+Round dollar wires|00484606|Ortiz, David|2026/07/22|$5,136|open
+Check kiting pattern|00621447|King, Raymond|2026-04-10|$77,151|open
+Cash deposits over 10k in 3 days|895030|Flores, Ana E.|2026/06/06|$630|open
+Wires to high risk jurisdiction|00780009|Miller, Monica S.|2026/08/25|$6,760|open
+Round dollar wires|00082391|Wilson, Patricia|2026-10-13|$7,485|open
+Round dollar wires|00738613|King, Raymond|2026-04-05|$87,646|open
+Check kiting pattern|00521002|Perez, Anthony|2026/05/21|$100,393|open
+Check kiting pattern|3477822|Ramirez, Anthony A.|2026-03-04|$13,086|open
+Check kiting pattern|00412799|Wilson, Kevin|2026-05-24|$6,139|open
+Round dollar wires|00616497|Rodriguez, Laura R.|2026-05-08|$4,232|open
+Cash deposits over 10k in 3 days|4099816|Gomez, Elena F.|2026-10-13|$19,022|open
+Funnel account deposits|685938|Miller, Monica|2026-08-06|$2,319|open
+Wires to high risk jurisdiction|00035650|Reyes, Daniel|2026/05/11|$1,337|open
+Wires to high risk jurisdiction|444041|Chavez, Angela|2026-10-28|$8,552|open
+Cash deposits over 10k in 3 days|00549456|Gutierrez, Laura B.|2026-09-17|$41,951|open
+Check kiting pattern|00751783|Gutierrez, Elena|2026-09-17|$26,818|open
+Round dollar wires|00090403|Martinez, Eric|2026-10-27|$2,285|open
+Cash deposits over 10k in 3 days|00707631|Williams, Raymond|2026-09-26|$14,531|open
+Check kiting pattern|234989|Williams, Carmen|2026-04-30|$5,127|open
+Round dollar wires|00085087|Cruz, Jason P.|2026-10-10|$3,334|open
+Round dollar wires|789265|Brown, Victor|2026-06-14|$1,907|open
+Funnel account deposits|788807|Torres, Carlos|2026-09-25|$11,716|open
+Check kiting pattern|00470468|Hernandez, Rosa|2026-09-20||closed
+Wires to high risk jurisdiction|00234989|Williams, Carmen|2026/09/06|$16,867|open
+Wires to high risk jurisdiction|269005|Martinez, Pat|2026-03-01|$15,042|open
+Round dollar wires|00981575|Diaz, Carmen|2026-10-20|$19,631|open
+Funnel account deposits|00639083|Perez, Laura|2026-05-16|$5,157|open
+Wires to high risk jurisdiction|710226|Williams, Monica|2026-08-21|$19,311|open
+Wires to high risk jurisdiction|00104015|King, Lucia|2026-10-10|$352|open
+Cash deposits over 10k in 3 days|654853|Flores, Carmen|2026-04-23|$54,095|open
+Wires to high risk jurisdiction|48724|Johnson, Nadia|2026/08/18|$10,541|open
+Funnel account deposits|412799|Wilson, Kevin|2026-08-25|$4,851|open
+Cash deposits over 10k in 3 days|293192|Flores, Ana|2026-05-22|$8,857|open
+Wires to high risk jurisdiction|300728|Jones, Eric|2026/09/10|$32,071|open
+Round dollar wires|634706|Garcia, Kevin|2026/03/29|$18,590|open
+Cash deposits over 10k in 3 days|00961832|Scott, Patricia|2026/05/26|$13,584|open

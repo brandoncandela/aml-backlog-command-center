@@ -1,0 +1,18 @@
+{
+  "source": "fraud_referrals",
+  "label": "Fraud team referrals",
+  "file": "fraud_referrals.json",
+  "format": "json",
+  "records_path": "referrals",
+  "fields": {
+    "alert_id": {"path": "ref"},
+    "customer_ref": {"path": "subject.account", "ref_type": "account"},
+    "name": {"path": "subject.name"},
+    "dob": {"path": "subject.dob"},
+    "scenario": {"value": "fraud_referral", "detail_path": "reason"},
+    "alert_date": {"path": "opened", "date_formats": ["%Y-%m-%dT%H:%M:%S"]},
+    "amount": {"path": "exposure", "parse": "money"},
+    "status": {"value": "open"}
+  },
+  "dedupe_on": ["alert_id"]
+}

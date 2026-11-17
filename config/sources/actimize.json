@@ -1,0 +1,18 @@
+{
+  "source": "actimize",
+  "label": "Actimize transaction monitoring",
+  "file": "actimize_alert_export.csv",
+  "format": "csv",
+  "fields": {
+    "alert_id": {"column": "ALERT_ID"},
+    "customer_ref": {"column": "PARTY_KEY", "ref_type": "party_key"},
+    "name": {"column": "PARTY_NM"},
+    "scenario": {"column": "SCENARIO_CD", "map": {
+      "STRUCT_CASH": "structuring", "RAPID_MVMT": "rapid_movement", "HR_GEO_WIRE": "high_risk_geography",
+      "LARGE_CASH": "large_cash", "P2P_VELOCITY": "p2p_velocity", "DORMANT_REACT": "dormant_reactivation"}},
+    "alert_date": {"column": "ALERT_DT", "date_formats": ["%m/%d/%Y"]},
+    "amount": {"column": "TXN_AMT", "parse": "money"},
+    "status": {"column": "ALERT_STATUS", "open_values": ["OPEN"]}
+  },
+  "dedupe_on": ["alert_id"]
+}

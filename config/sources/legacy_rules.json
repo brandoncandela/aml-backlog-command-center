@@ -1,0 +1,20 @@
+{
+  "source": "legacy_rules",
+  "label": "Legacy SQL rules engine",
+  "file": "legacy_rules_export.txt",
+  "format": "delimited",
+  "delimiter": "|",
+  "fields": {
+    "alert_id": {"template": "LEG-{row:05d}"},
+    "customer_ref": {"column": "cust_no", "ref_type": "cif", "pad_left": 8},
+    "name": {"column": "customer", "name_order": "last_first"},
+    "scenario": {"column": "rule_name", "map": {
+      "Cash deposits over 10k in 3 days": "structuring", "Wires to high risk jurisdiction": "high_risk_geography",
+      "Round dollar wires": "round_dollar_wires", "Funnel account deposits": "funnel_account",
+      "Check kiting pattern": "check_kiting"}},
+    "alert_date": {"column": "created", "date_formats": ["%Y-%m-%d", "%Y/%m/%d"]},
+    "amount": {"column": "amount", "parse": "money"},
+    "status": {"column": "state", "open_values": ["open"]}
+  },
+  "dedupe_on": ["alert_id"]
+}

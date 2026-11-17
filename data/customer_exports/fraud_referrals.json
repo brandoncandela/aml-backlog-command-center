@@ -1,0 +1,4955 @@
+{
+ "exported_at": "2026-11-01T06:00:00",
+ "referrals": [
+  {
+   "ref": "FR-4400",
+   "subject": {
+    "name": "Laura Sanchez",
+    "dob": "1968-11-28",
+    "account": "7675271603"
+   },
+   "reason": "Synthetic identity",
+   "opened": "2026-10-29T09:03:00",
+   "exposure": "$4.2k"
+  },
+  {
+   "ref": "FR-4401",
+   "subject": {
+    "name": "Monica Gutierrez",
+    "dob": "1970-05-21",
+    "account": "6302452681"
+   },
+   "reason": "Mule activity",
+   "opened": "2026-05-14T09:02:00",
+   "exposure": "$72.7k"
+  },
+  {
+   "ref": "FR-4402",
+   "subject": {
+    "name": "Monica Brown",
+    "dob": "1969-05-01",
+    "account": "3633627534"
+   },
+   "reason": "Account takeover",
+   "opened": "2026-03-09T18:39:00",
+   "exposure": "4327"
+  },
+  {
+   "ref": "FR-4403",
+   "subject": {
+    "name": "Joseph Torres",
+    "dob": null,
+    "account": "3321797311"
+   },
+   "reason": "Elder exploitation",
+   "opened": "2026-05-20T18:36:00",
+   "exposure": "$3.6k"
+  },
+  {
+   "ref": "FR-4404",
+   "subject": {
+    "name": "Lucia King",
+    "dob": "1976-07-29",
+    "account": "8279421103"
+   },
+   "reason": "Elder exploitation",
+   "opened": "2026-06-28T14:52:00",
+   "exposure": "3860"
+  },
+  {
+   "ref": "FR-4405",
+   "subject": {
+    "name": "Elena Johnson",
+    "dob": null,
+    "account": "1484455148"
+   },
+   "reason": "Check fraud",
+   "opened": "2026-05-10T11:12:00",
+   "exposure": "$9.1k"
+  },
+  {
+   "ref": "FR-4406",
+   "subject": {
+    "name": "Monica Williams",
+    "dob": "1956-11-29",
+    "account": "****0550"
+   },
+   "reason": "Mule activity",
+   "opened": "2026-03-08T09:21:00",
+   "exposure": "$6.8k"
+  },
+  {
+   "ref": "FR-4407",
+   "subject": {
+    "name": "Julia Chavez ",
+    "dob": null,
+    "account": "5292025517"
+   },
+   "reason": "Synthetic identity",
+   "opened": "2026-07-02T18:35:00",
+   "exposure": "1867"
+  },
+  {
+   "ref": "FR-4408",
+   "subject": {
+    "name": "Diana Lopez",
+    "dob": null,
+    "account": "1565499163"
+   },
+   "reason": "Mule activity",
+   "opened": "2026-05-02T14:34:00",
+   "exposure": "1197"
+  },
+  {
+   "ref": "FR-4409",
+   "subject": {
+    "name": "Elena Moore",
+    "dob": "1994-12-24",
+    "account": "9047354070"
+   },
+   "reason": "Mule activity",
+   "opened": "2026-08-24T12:14:00",
+   "exposure": "$5.1k"
+  },
+  {
+   "ref": "FR-4410",
+   "subject": {
+    "name": "Monica Johnson ",
+    "dob": null,
+    "account": "5693058863"
+   },
+   "reason": "Account takeover",
+   "opened": "2026-07-05T12:29:00",
+   "exposure": "$0.3k"
+  },
+  {
+   "ref": "FR-4411",
+   "subject": {
+    "name": "Patricia Jones",
+    "dob": "1966-05-06",
+    "account": "****8448"
+   },
+   "reason": "Account takeover",
+   "opened": "2026-04-12T11:42:00",
+   "exposure": "$3.6k"
+  },
+  {
+   "ref": "FR-4412",
+   "subject": {
+    "name": "Victor Gutierrez",
+    "dob": "1952-12-20",
+    "account": "****4853"
+   },
+   "reason": "Check fraud",
+   "opened": "2026-09-19T09:10:00",
+   "exposure": "$2.3k"
+  },
+  {
+   "ref": "FR-4413",
+   "subject": {
+    "name": "Eric Sanchez",
+    "dob": "1963-08-19",
+    "account": "6970010560"
+   },
+   "reason": "Mule activity",
+   "opened": "2026-03-24T12:04:00",
+   "exposure": "1287"
+  },
+  {
+   "ref": "FR-4414",
+   "subject": {
+    "name": "Robert Martin",
+    "dob": "1950-02-03",
+    "account": "6538381307"
+   },
+   "reason": "Elder exploitation",
+   "opened": "2026-03-10T08:16:00",
+   "exposure": "1729"
+  },
+  {
+   "ref": "FR-4415",
+   "subject": {
+    "name": "Diana Garcia",
+    "dob": "1980-10-28",
+    "account": "9544735110"
+   },
+   "reason": "Synthetic identity",
+   "opened": "2026-08-03T10:26:00",
+   "exposure": "$0.6k"
+  },
+  {
+   "ref": "FR-4416",
+   "subject": {
+    "name": "Raymond Diaz",
+    "dob": "1975-07-08",
+    "account": "2590365276"
+   },
+   "reason": "Check fraud",
+   "opened": "2026-08-02T12:15:00",
+   "exposure": "9885"
+  },
+  {
+   "ref": "FR-4417",
+   "subject": {
+    "name": "Samuel Ortiz",
+    "dob": "1950-12-23",
+    "account": null
+   },
+   "reason": "Synthetic identity",
+   "opened": "2026-09-15T18:46:00",
+   "exposure": "13415"
+  },
+  {
+   "ref": "FR-4418",
+   "subject": {
+    "name": "Monica Williams",
+    "dob": "1956-11-29",
+    "account": "****0550"
+   },
+   "reason": "Account takeover",
+   "opened": "2026-06-06T11:41:00",
+   "exposure": "8787"
+  },
+  {
+   "ref": "FR-4419",
+   "subject": {
+    "name": "Julia Brown",
+    "dob": "1985-10-26",
+    "account": "****7538"
+   },
+   "reason": "Check fraud",
+   "opened": "2026-07-23T13:22:00",
+   "exposure": "$3.1k"
+  },
+  {
+   "ref": "FR-4420",
+   "subject": {
+    "name": "Maria Flores ",
+    "dob": "1952-11-20",
+    "account": "****2269"
+   },
+   "reason": "Elder exploitation",
+   "opened": "2026-03-01T10:44:00",
+   "exposure": "$1.6k"
+  },
+  {
+   "ref": "FR-4421",
+   "subject": {
+    "name": "Robert Davis",
+    "dob": "1999-11-18",
+    "account": "6687992986"
+   },
+   "reason": "Account takeover",
+   "opened": "2026-10-22T18:51:00",
+   "exposure": "720"
+  },
+  {
+   "ref": "FR-4422",
+   "subject": {
+    "name": "Laura Perez",
+    "dob": "1961-07-27",
+    "account": null
+   },
+   "reason": "Account takeover",
+   "opened": "2026-09-20T15:34:00",
+   "exposure": "3527"
+  },
+  {
+   "ref": "FR-4423",
+   "subject": {
+    "name": "Anthony Gomez",
+    "dob": null,
+    "account": null
+   },
+   "reason": "Synthetic identity",
+   "opened": "2026-06-25T15:33:00",
+   "exposure": "1379"
+  },
+  {
+   "ref": "FR-4424",
+   "subject": {
+    "name": "Laura Sanchez",
+    "dob": "1968-11-28",
+    "account": "1173149565"
+   },
+   "reason": "Mule activity",
+   "opened": "2026-08-26T10:30:00",
+   "exposure": "$5.5k"
+  },
+  {
+   "ref": "FR-4425",
+   "subject": {
+    "name": "Monica Gutierrez",
+    "dob": null,
+    "account": null
+   },
+   "reason": "Mule activity",
+   "opened": "2026-06-27T18:40:00",
+   "exposure": "$1.4k"
+  },
+  {
+   "ref": "FR-4426",
+   "subject": {
+    "name": "Victor Diaz",
+    "dob": "1960-08-15",
+    "account": "****0801"
+   },
+   "reason": "Mule activity",
+   "opened": "2026-09-22T17:25:00",
+   "exposure": "2594"
+  },
+  {
+   "ref": "FR-4427",
+   "subject": {
+    "name": "Dan Young",
+    "dob": "1978-10-18",
+    "account": "3596187607"
+   },
+   "reason": "Synthetic identity",
+   "opened": "2026-03-07T15:22:00",
+   "exposure": "$4.9k"
+  },
+  {
+   "ref": "FR-4428",
+   "subject": {
+    "name": "Julia Brown",
+    "dob": "1985-10-26",
+    "account": "6104787538"
+   },
+   "reason": "Check fraud",
+   "opened": "2026-06-18T13:18:00",
+   "exposure": "$17.0k"
+  },
+  {
+   "ref": "FR-4429",
+   "subject": {
+    "name": "Henry Davis",
+    "dob": "1979-05-08",
+    "account": "8504244306"
+   },
+   "reason": "Account takeover",
+   "opened": "2026-07-26T12:18:00",
+   "exposure": "70043"
+  },
+  {
+   "ref": "FR-4430",
+   "subject": {
+    "name": "Monica Lopez",
+    "dob": "1964-02-22",
+    "account": "3695009999"
+   },
+   "reason": "Synthetic identity",
+   "opened": "2026-09-02T12:25:00",
+   "exposure": "1491"
+  },
+  {
+   "ref": "FR-4431",
+   "subject": {
+    "name": "Rosa Garcia",
+    "dob": "2000-05-26",
+    "account": "1939437131"
+   },
+   "reason": "Synthetic identity",
+   "opened": "2026-06-17T08:51:00",
+   "exposure": "$1.0k"
+  },
+  {
+   "ref": "FR-4432",
+   "subject": {
+    "name": "Carmen Williams",
+    "dob": null,
+    "account": "6887587031"
+   },
+   "reason": "Check fraud",
+   "opened": "2026-05-07T12:48:00",
+   "exposure": "2627"
+  },
+  {
+   "ref": "FR-4433",
+   "subject": {
+    "name": "Jason Hernandez",
+    "dob": "1950-04-25",
+    "account": "****7355"
+   },
+   "reason": "Synthetic identity",
+   "opened": "2026-10-12T14:15:00",
+   "exposure": "1102"
+  },
+  {
+   "ref": "FR-4434",
+   "subject": {
+    "name": "Daniel Cruz",
+    "dob": "1945-10-15",
+    "account": "5732464320"
+   },
+   "reason": "Elder exploitation",
+   "opened": "2026-05-22T12:25:00",
+   "exposure": "$4.6k"
+  },
+  {
+   "ref": "FR-4435",
+   "subject": {
+    "name": "Maria Chavez",
+    "dob": null,
+    "account": "9976967690"
+   },
+   "reason": "Check fraud",
+   "opened": "2026-06-22T15:24:00",
+   "exposure": "2213"
+  },
+  {
+   "ref": "FR-4436",
+   "subject": {
+    "name": "Lucia Miller",
+    "dob": "1967-05-01",
+    "account": "9402557792"
+   },
+   "reason": "Account takeover",
+   "opened": "2026-04-09T15:18:00",
+   "exposure": "2093"
+  },
+  {
+   "ref": "FR-4437",
+   "subject": {
+    "name": "Monica Gutierrez",
+    "dob": "1970-05-21",
+    "account": "****3900"
+   },
+   "reason": "Check fraud",
+   "opened": "2026-04-04T08:28:00",
+   "exposure": "$5.6k"
+  },
+  {
+   "ref": "FR-4438",
+   "subject": {
+    "name": "Henry Smith",
+    "dob": "1993-12-25",
+    "account": "9585208525"
+   },
+   "reason": "Synthetic identity",
+   "opened": "2026-07-29T16:46:00",
+   "exposure": "$5.2k"
+  },
+  {
+   "ref": "FR-4439",
+   "subject": {
+    "name": "Laura Gonzalez ",
+    "dob": "1983-11-21",
+    "account": "2093031515"
+   },
+   "reason": "Synthetic identity",
+   "opened": "2026-05-29T13:56:00",
+   "exposure": "$1.6k"
+  },
+  {
+   "ref": "FR-4440",
+   "subject": {
+    "name": "Joseph Lopez ",
+    "dob": "1968-01-24",
+    "account": "1404210985"
+   },
+   "reason": "Check fraud",
+   "opened": "2026-07-09T18:30:00",
+   "exposure": "$5.0k"
+  },
+  {
+   "ref": "FR-4441",
+   "subject": {
+    "name": "Raymond Anderson",
+    "dob": "1997-05-01",
+    "account": "****1535"
+   },
+   "reason": "Synthetic identity",
+   "opened": "2026-05-24T12:20:00",
+   "exposure": "12943"
+  },
+  {
+   "ref": "FR-4442",
+   "subject": {
+    "name": "Linda Scott",
+    "dob": "1986-06-18",
+    "account": "9049813966"
+   },
+   "reason": "Synthetic identity",
+   "opened": "2026-04-30T12:37:00",
+   "exposure": "4380"
+  },
+  {
+   "ref": "FR-4443",
+   "subject": {
+    "name": "Linda Martinez",
+    "dob": "2002-03-29",
+    "account": "7654940407"
+   },
+   "reason": "Mule activity",
+   "opened": "2026-10-11T16:01:00",
+   "exposure": "14408"
+  },
+  {
+   "ref": "FR-4444",
+   "subject": {
+    "name": "Luis Cruz",
+    "dob": "2000-11-14",
+    "account": "****8047"
+   },
+   "reason": "Synthetic identity",
+   "opened": "2026-04-11T09:52:00",
+   "exposure": "1308"
+  },
+  {
+   "ref": "FR-4445",
+   "subject": {
+    "name": "Eric Johnson ",
+    "dob": "1978-05-24",
+    "account": "5007463241"
+   },
+   "reason": "Elder exploitation",
+   "opened": "2026-04-27T13:18:00",
+   "exposure": "351"
+  },
+  {
+   "ref": "FR-4446",
+   "subject": {
+    "name": "Jason Ramos",
+    "dob": "1956-12-11",
+    "account": "****6263"
+   },
+   "reason": "Account takeover",
+   "opened": "2026-09-26T13:03:00",
+   "exposure": "538"
+  },
+  {
+   "ref": "FR-4447",
+   "subject": {
+    "name": "Kevin Jackson",
+    "dob": "1994-11-28",
+    "account": "3512520743"
+   },
+   "reason": "Elder exploitation",
+   "opened": "2026-03-03T13:03:00",
+   "exposure": "$1.0k"
+  },
+  {
+   "ref": "FR-4448",
+   "subject": {
+    "name": "Steven Rivera ",
+    "dob": "1953-02-24",
+    "account": "5997792042"
+   },
+   "reason": "Mule activity",
+   "opened": "2026-04-09T14:13:00",
+   "exposure": "3129"
+  },
+  {
+   "ref": "FR-4449",
+   "subject": {
+    "name": "Kevin Wilson ",
+    "dob": "1970-07-25",
+    "account": "****0496"
+   },
+   "reason": "Mule activity",
+   "opened": "2026-10-29T09:24:00",
+   "exposure": "$1.7k"
+  },
+  {
+   "ref": "FR-4450",
+   "subject": {
+    "name": "Jason Walker",
+    "dob": "1995-03-13",
+    "account": "6531983168"
+   },
+   "reason": "Mule activity",
+   "opened": "2026-06-30T15:16:00",
+   "exposure": "3500"
+  },
+  {
+   "ref": "FR-4451",
+   "subject": {
+    "name": "Jason Wright",
+    "dob": "1956-05-21",
+    "account": "****1734"
+   },
+   "reason": "Check fraud",
+   "opened": "2026-08-02T13:27:00",
+   "exposure": "1598"
+  },
+  {
+   "ref": "FR-4452",
+   "subject": {
+    "name": "Maria Cruz",
+    "dob": "1980-07-08",
+    "account": "1345156602"
+   },
+   "reason": "Mule activity",
+   "opened": "2026-05-29T17:59:00",
+   "exposure": "56423"
+  },
+  {
+   "ref": "FR-4453",
+   "subject": {
+    "name": "Teresa Lee",
+    "dob": "1949-05-21",
+    "account": "****5874"
+   },
+   "reason": "Check fraud",
+   "opened": "2026-05-08T18:12:00",
+   "exposure": "2197"
+  },
+  {
+   "ref": "FR-4454",
+   "subject": {
+    "name": "Diana Gutierrez",
+    "dob": "1995-12-13",
+    "account": "****5576"
+   },
+   "reason": "Synthetic identity",
+   "opened": "2026-10-29T16:35:00",
+   "exposure": "$10.0k"
+  },
+  {
+   "ref": "FR-4455",
+   "subject": {
+    "name": "Steve Johnson ",
+    "dob": "1954-04-14",
+    "account": "6016571219"
+   },
+   "reason": "Elder exploitation",
+   "opened": "2026-08-07T16:13:00",
+   "exposure": "$7.1k"
+  },
+  {
+   "ref": "FR-4456",
+   "subject": {
+    "name": "Patricia Chavez",
+    "dob": "1970-04-20",
+    "account": "****8303"
+   },
+   "reason": "Synthetic identity",
+   "opened": "2026-05-07T16:10:00",
+   "exposure": "$3.2k"
+  },
+  {
+   "ref": "FR-4457",
+   "subject": {
+    "name": "Monica Moore",
+    "dob": "1988-11-03",
+    "account": null
+   },
+   "reason": "Account takeover",
+   "opened": "2026-10-30T09:35:00",
+   "exposure": "5337"
+  },
+  {
+   "ref": "FR-4458",
+   "subject": {
+    "name": "Steven Scott",
+    "dob": "1984-11-05",
+    "account": "****4184"
+   },
+   "reason": "Check fraud",
+   "opened": "2026-09-11T14:38:00",
+   "exposure": "10171"
+  },
+  {
+   "ref": "FR-4459",
+   "subject": {
+    "name": "Samuel Cruz",
+    "dob": "1953-10-04",
+    "account": "2256667912"
+   },
+   "reason": "Elder exploitation",
+   "opened": "2026-06-24T17:26:00",
+   "exposure": "1645"
+  },
+  {
+   "ref": "FR-4460",
+   "subject": {
+    "name": "Eric Gonzalez",
+    "dob": "1995-11-21",
+    "account": "****3483"
+   },
+   "reason": "Synthetic identity",
+   "opened": "2026-04-23T12:48:00",
+   "exposure": "5234"
+  },
+  {
+   "ref": "FR-4461",
+   "subject": {
+    "name": "Raymond Ramirez",
+    "dob": "1959-12-06",
+    "account": "****2432"
+   },
+   "reason": "Elder exploitation",
+   "opened": "2026-07-20T13:07:00",
+   "exposure": "1965"
+  },
+  {
+   "ref": "FR-4462",
+   "subject": {
+    "name": "Daniel Reyes",
+    "dob": "1978-03-12",
+    "account": null
+   },
+   "reason": "Check fraud",
+   "opened": "2026-03-25T16:09:00",
+   "exposure": "3309"
+  },
+  {
+   "ref": "FR-4463",
+   "subject": {
+    "name": "Carmen Walker ",
+    "dob": null,
+    "account": null
+   },
+   "reason": "Synthetic identity",
+   "opened": "2026-05-04T13:15:00",
+   "exposure": "5999"
+  },
+  {
+   "ref": "FR-4464",
+   "subject": {
+    "name": "Mark Torres",
+    "dob": "1946-08-18",
+    "account": "7707923488"
+   },
+   "reason": "Elder exploitation",
+   "opened": "2026-09-11T16:10:00",
+   "exposure": "8060"
+  },
+  {
+   "ref": "FR-4465",
+   "subject": {
+    "name": "Jason Jones ",
+    "dob": "1947-12-21",
+    "account": "3572054607"
+   },
+   "reason": "Account takeover",
+   "opened": "2026-04-18T16:34:00",
+   "exposure": "$4.9k"
+  },
+  {
+   "ref": "FR-4466",
+   "subject": {
+    "name": "Monica Gonzalez",
+    "dob": "1997-07-17",
+    "account": "****9928"
+   },
+   "reason": "Account takeover",
+   "opened": "2026-09-16T18:17:00",
+   "exposure": "1189"
+  },
+  {
+   "ref": "FR-4467",
+   "subject": {
+    "name": "Andrew Gutierrez",
+    "dob": "2002-06-16",
+    "account": "3137787511"
+   },
+   "reason": "Elder exploitation",
+   "opened": "2026-04-27T11:32:00",
+   "exposure": "1322"
+  },
+  {
+   "ref": "FR-4468",
+   "subject": {
+    "name": "James Cruz",
+    "dob": "1950-09-22",
+    "account": "****2599"
+   },
+   "reason": "Check fraud",
+   "opened": "2026-03-01T15:39:00",
+   "exposure": "5520"
+  },
+  {
+   "ref": "FR-4469",
+   "subject": {
+    "name": "Mike Jones",
+    "dob": "1958-07-25",
+    "account": "6365655164"
+   },
+   "reason": "Synthetic identity",
+   "opened": "2026-10-12T09:41:00",
+   "exposure": "$0.9k"
+  },
+  {
+   "ref": "FR-4470",
+   "subject": {
+    "name": "Andy Taylor",
+    "dob": "1952-02-10",
+    "account": "8069697185"
+   },
+   "reason": "Check fraud",
+   "opened": "2026-07-18T11:22:00",
+   "exposure": "$8.7k"
+  },
+  {
+   "ref": "FR-4471",
+   "subject": {
+    "name": "Lucia Lopez",
+    "dob": "1955-02-07",
+    "account": "7557722575"
+   },
+   "reason": "Check fraud",
+   "opened": "2026-10-14T17:27:00",
+   "exposure": "$1.1k"
+  },
+  {
+   "ref": "FR-4472",
+   "subject": {
+    "name": "Angela Diaz",
+    "dob": "1984-09-16",
+    "account": "6043230244"
+   },
+   "reason": "Synthetic identity",
+   "opened": "2026-06-06T13:23:00",
+   "exposure": "$1.9k"
+  },
+  {
+   "ref": "FR-4473",
+   "subject": {
+    "name": "Jason Green ",
+    "dob": "1979-11-29",
+    "account": null
+   },
+   "reason": "Elder exploitation",
+   "opened": "2026-06-20T09:10:00",
+   "exposure": "$1.5k"
+  },
+  {
+   "ref": "FR-4474",
+   "subject": {
+    "name": "Monica Gutierrez",
+    "dob": "1987-05-19",
+    "account": "****4148"
+   },
+   "reason": "Check fraud",
+   "opened": "2026-06-23T18:47:00",
+   "exposure": "1691"
+  },
+  {
+   "ref": "FR-4475",
+   "subject": {
+    "name": "Maria Williams",
+    "dob": "1970-05-01",
+    "account": "2809054442"
+   },
+   "reason": "Account takeover",
+   "opened": "2026-07-14T09:09:00",
+   "exposure": "4125"
+  },
+  {
+   "ref": "FR-4476",
+   "subject": {
+    "name": "Linda Sanchez",
+    "dob": "1973-01-14",
+    "account": "6766644364"
+   },
+   "reason": "Account takeover",
+   "opened": "2026-04-30T17:51:00",
+   "exposure": "$0.9k"
+  },
+  {
+   "ref": "FR-4477",
+   "subject": {
+    "name": "Teresa Davis",
+    "dob": "1969-10-25",
+    "account": "3258001852"
+   },
+   "reason": "Account takeover",
+   "opened": "2026-07-04T15:34:00",
+   "exposure": "$0.6k"
+  },
+  {
+   "ref": "FR-4478",
+   "subject": {
+    "name": "Andrew Wright",
+    "dob": "1960-08-12",
+    "account": "7459076733"
+   },
+   "reason": "Check fraud",
+   "opened": "2026-07-27T12:20:00",
+   "exposure": "$5.3k"
+  },
+  {
+   "ref": "FR-4479",
+   "subject": {
+    "name": "Lucia Moore",
+    "dob": "1972-06-20",
+    "account": "8574022697"
+   },
+   "reason": "Mule activity",
+   "opened": "2026-08-31T18:31:00",
+   "exposure": "14762"
+  },
+  {
+   "ref": "FR-4480",
+   "subject": {
+    "name": "Linda Ortiz",
+    "dob": "1998-10-09",
+    "account": "4132119668"
+   },
+   "reason": "Elder exploitation",
+   "opened": "2026-05-17T17:18:00",
+   "exposure": "3811"
+  },
+  {
+   "ref": "FR-4481",
+   "subject": {
+    "name": "Thomas Ramirez",
+    "dob": "1986-03-23",
+    "account": "****3193"
+   },
+   "reason": "Synthetic identity",
+   "opened": "2026-09-12T14:04:00",
+   "exposure": "821"
+  },
+  {
+   "ref": "FR-4482",
+   "subject": {
+    "name": "Rosa Morales",
+    "dob": "1973-04-16",
+    "account": "9258044951"
+   },
+   "reason": "Synthetic identity",
+   "opened": "2026-06-09T08:12:00",
+   "exposure": "2122"
+  },
+  {
+   "ref": "FR-4483",
+   "subject": {
+    "name": "Rosa Reyes",
+    "dob": "1947-02-05",
+    "account": "6614532064"
+   },
+   "reason": "Mule activity",
+   "opened": "2026-09-24T14:43:00",
+   "exposure": "10811"
+  },
+  {
+   "ref": "FR-4484",
+   "subject": {
+    "name": "Michael Scott",
+    "dob": "1974-01-17",
+    "account": "****5723"
+   },
+   "reason": "Mule activity",
+   "opened": "2026-03-20T18:57:00",
+   "exposure": "4559"
+  },
+  {
+   "ref": "FR-4485",
+   "subject": {
+    "name": "James Williams",
+    "dob": null,
+    "account": null
+   },
+   "reason": "Mule activity",
+   "opened": "2026-08-11T16:06:00",
+   "exposure": "14265"
+  },
+  {
+   "ref": "FR-4486",
+   "subject": {
+    "name": "Julia Ramos",
+    "dob": null,
+    "account": "3760725423"
+   },
+   "reason": "Mule activity",
+   "opened": "2026-03-30T11:06:00",
+   "exposure": "1801"
+  },
+  {
+   "ref": "FR-4487",
+   "subject": {
+    "name": "Elena Garcia",
+    "dob": "1991-09-17",
+    "account": "1027234478"
+   },
+   "reason": "Elder exploitation",
+   "opened": "2026-05-31T15:08:00",
+   "exposure": "$1.5k"
+  },
+  {
+   "ref": "FR-4488",
+   "subject": {
+    "name": "Diana Moore",
+    "dob": "1982-06-20",
+    "account": "****4998"
+   },
+   "reason": "Mule activity",
+   "opened": "2026-10-08T09:40:00",
+   "exposure": "$2.1k"
+  },
+  {
+   "ref": "FR-4489",
+   "subject": {
+    "name": "Isabel Rivera",
+    "dob": null,
+    "account": "3943115455"
+   },
+   "reason": "Synthetic identity",
+   "opened": "2026-08-17T09:25:00",
+   "exposure": "7112"
+  },
+  {
+   "ref": "FR-4490",
+   "subject": {
+    "name": "Lucia Scott",
+    "dob": "1947-06-18",
+    "account": "****4127"
+   },
+   "reason": "Elder exploitation",
+   "opened": "2026-05-03T15:38:00",
+   "exposure": "12248"
+  },
+  {
+   "ref": "FR-4491",
+   "subject": {
+    "name": "Maria Moore",
+    "dob": "1987-02-22",
+    "account": "8486500365"
+   },
+   "reason": "Account takeover",
+   "opened": "2026-10-22T12:57:00",
+   "exposure": "5361"
+  },
+  {
+   "ref": "FR-4492",
+   "subject": {
+    "name": "Maria Flores",
+    "dob": "1952-11-20",
+    "account": "3674152269"
+   },
+   "reason": "Account takeover",
+   "opened": "2026-06-26T13:33:00",
+   "exposure": "667"
+  },
+  {
+   "ref": "FR-4493",
+   "subject": {
+    "name": "Gloria King",
+    "dob": "2001-07-22",
+    "account": "****7522"
+   },
+   "reason": "Synthetic identity",
+   "opened": "2026-03-09T11:34:00",
+   "exposure": "6059"
+  },
+  {
+   "ref": "FR-4494",
+   "subject": {
+    "name": "Raymond Scott",
+    "dob": "1982-09-19",
+    "account": "8964732782"
+   },
+   "reason": "Mule activity",
+   "opened": "2026-05-27T12:31:00",
+   "exposure": "$1.5k"
+  },
+  {
+   "ref": "FR-4495",
+   "subject": {
+    "name": "Tony Gomez",
+    "dob": "1956-04-13",
+    "account": "****5516"
+   },
+   "reason": "Account takeover",
+   "opened": "2026-09-08T10:32:00",
+   "exposure": "503"
+  },
+  {
+   "ref": "FR-4496",
+   "subject": {
+    "name": "Jason Morales",
+    "dob": "1958-04-22",
+    "account": "4208418899"
+   },
+   "reason": "Elder exploitation",
+   "opened": "2026-03-27T15:22:00",
+   "exposure": "2630"
+  },
+  {
+   "ref": "FR-4497",
+   "subject": {
+    "name": "Ana Jones",
+    "dob": null,
+    "account": "****1724"
+   },
+   "reason": "Synthetic identity",
+   "opened": "2026-04-17T09:23:00",
+   "exposure": "$9.8k"
+  },
+  {
+   "ref": "FR-4498",
+   "subject": {
+    "name": "Joseph Martin",
+    "dob": null,
+    "account": "4593989896"
+   },
+   "reason": "Elder exploitation",
+   "opened": "2026-05-15T15:00:00",
+   "exposure": "2588"
+  },
+  {
+   "ref": "FR-4499",
+   "subject": {
+    "name": "Raymond Sanchez",
+    "dob": "1982-12-04",
+    "account": "****8227"
+   },
+   "reason": "Synthetic identity",
+   "opened": "2026-10-15T16:25:00",
+   "exposure": "$2.7k"
+  },
+  {
+   "ref": "FR-4500",
+   "subject": {
+    "name": "Samuel Green",
+    "dob": "1945-07-04",
+    "account": "****3039"
+   },
+   "reason": "Check fraud",
+   "opened": "2026-09-08T15:31:00",
+   "exposure": "7304"
+  },
+  {
+   "ref": "FR-4501",
+   "subject": {
+    "name": "Patricia Green",
+    "dob": "1977-11-16",
+    "account": "6346848342"
+   },
+   "reason": "Elder exploitation",
+   "opened": "2026-10-09T18:47:00",
+   "exposure": "$2.2k"
+  },
+  {
+   "ref": "FR-4502",
+   "subject": {
+    "name": "Jason Davis",
+    "dob": "1973-12-05",
+    "account": "5026795104"
+   },
+   "reason": "Mule activity",
+   "opened": "2026-09-09T13:12:00",
+   "exposure": "5584"
+  },
+  {
+   "ref": "FR-4503",
+   "subject": {
+    "name": "Monica Gutierrez",
+    "dob": null,
+    "account": "6302452681"
+   },
+   "reason": "Elder exploitation",
+   "opened": "2026-05-17T16:01:00",
+   "exposure": "9997"
+  },
+  {
+   "ref": "FR-4504",
+   "subject": {
+    "name": "Julia Gomez",
+    "dob": null,
+    "account": "2708975379"
+   },
+   "reason": "Synthetic identity",
+   "opened": "2026-09-18T12:45:00",
+   "exposure": "$4.0k"
+  },
+  {
+   "ref": "FR-4505",
+   "subject": {
+    "name": "Patricia Lopez",
+    "dob": "1993-10-25",
+    "account": "****1689"
+   },
+   "reason": "Account takeover",
+   "opened": "2026-04-19T16:00:00",
+   "exposure": "$5.1k"
+  },
+  {
+   "ref": "FR-4506",
+   "subject": {
+    "name": "Ana Ortiz",
+    "dob": "1964-03-23",
+    "account": "3092665377"
+   },
+   "reason": "Check fraud",
+   "opened": "2026-08-23T16:19:00",
+   "exposure": "$2.9k"
+  },
+  {
+   "ref": "FR-4507",
+   "subject": {
+    "name": "David King",
+    "dob": null,
+    "account": "3650467712"
+   },
+   "reason": "Mule activity",
+   "opened": "2026-10-16T14:56:00",
+   "exposure": "$1.5k"
+  },
+  {
+   "ref": "FR-4508",
+   "subject": {
+    "name": "Ana Johnson",
+    "dob": "1990-01-15",
+    "account": null
+   },
+   "reason": "Mule activity",
+   "opened": "2026-08-12T17:14:00",
+   "exposure": "3356"
+  },
+  {
+   "ref": "FR-4509",
+   "subject": {
+    "name": "Angela Diaz",
+    "dob": null,
+    "account": "1557278726"
+   },
+   "reason": "Check fraud",
+   "opened": "2026-03-29T09:52:00",
+   "exposure": "2003"
+  },
+  {
+   "ref": "FR-4510",
+   "subject": {
+    "name": "Linda Martinez",
+    "dob": "1986-07-30",
+    "account": "7460599723"
+   },
+   "reason": "Mule activity",
+   "opened": "2026-10-06T15:27:00",
+   "exposure": "$1.2k"
+  },
+  {
+   "ref": "FR-4511",
+   "subject": {
+    "name": "Monica Chavez",
+    "dob": null,
+    "account": "2687143021"
+   },
+   "reason": "Account takeover",
+   "opened": "2026-05-15T17:59:00",
+   "exposure": "5944"
+  },
+  {
+   "ref": "FR-4512",
+   "subject": {
+    "name": "Monica Lopez",
+    "dob": null,
+    "account": "****9999"
+   },
+   "reason": "Check fraud",
+   "opened": "2026-03-20T11:26:00",
+   "exposure": "$1.9k"
+  },
+  {
+   "ref": "FR-4513",
+   "subject": {
+    "name": "James Williams",
+    "dob": null,
+    "account": null
+   },
+   "reason": "Elder exploitation",
+   "opened": "2026-04-24T14:50:00",
+   "exposure": "$4.6k"
+  },
+  {
+   "ref": "FR-4514",
+   "subject": {
+    "name": "Diana Chavez",
+    "dob": "1954-02-07",
+    "account": null
+   },
+   "reason": "Synthetic identity",
+   "opened": "2026-03-18T09:25:00",
+   "exposure": "4099"
+  },
+  {
+   "ref": "FR-4515",
+   "subject": {
+    "name": "James Miller",
+    "dob": "1998-07-24",
+    "account": "****9086"
+   },
+   "reason": "Synthetic identity",
+   "opened": "2026-05-07T15:09:00",
+   "exposure": "8598"
+  },
+  {
+   "ref": "FR-4516",
+   "subject": {
+    "name": "Monica Ortiz",
+    "dob": "1994-07-18",
+    "account": null
+   },
+   "reason": "Elder exploitation",
+   "opened": "2026-08-26T12:23:00",
+   "exposure": "$1.5k"
+  },
+  {
+   "ref": "FR-4517",
+   "subject": {
+    "name": "Angela Reyes",
+    "dob": "1969-11-11",
+    "account": "****5914"
+   },
+   "reason": "Check fraud",
+   "opened": "2026-07-28T15:33:00",
+   "exposure": "$3.8k"
+  },
+  {
+   "ref": "FR-4518",
+   "subject": {
+    "name": "Raymond Martin",
+    "dob": "1961-04-08",
+    "account": "8120198419"
+   },
+   "reason": "Elder exploitation",
+   "opened": "2026-09-04T16:33:00",
+   "exposure": "397"
+  },
+  {
+   "ref": "FR-4519",
+   "subject": {
+    "name": "Daniel Reyes",
+    "dob": "1978-03-12",
+    "account": "4758122898"
+   },
+   "reason": "Mule activity",
+   "opened": "2026-06-02T09:37:00",
+   "exposure": "$24.5k"
+  },
+  {
+   "ref": "FR-4520",
+   "subject": {
+    "name": "Mike Williams",
+    "dob": "1954-02-02",
+    "account": "****7395"
+   },
+   "reason": "Synthetic identity",
+   "opened": "2026-07-23T13:05:00",
+   "exposure": "$3.1k"
+  },
+  {
+   "ref": "FR-4521",
+   "subject": {
+    "name": "Sam Gomez ",
+    "dob": "1990-09-14",
+    "account": "4911211422"
+   },
+   "reason": "Elder exploitation",
+   "opened": "2026-07-05T17:39:00",
+   "exposure": "$4.7k"
+  },
+  {
+   "ref": "FR-4522",
+   "subject": {
+    "name": "Jason Johnson",
+    "dob": "1960-12-20",
+    "account": "2662929722"
+   },
+   "reason": "Account takeover",
+   "opened": "2026-05-04T15:44:00",
+   "exposure": "$5.0k"
+  },
+  {
+   "ref": "FR-4523",
+   "subject": {
+    "name": "Sofia Young ",
+    "dob": "1988-06-03",
+    "account": "6812381567"
+   },
+   "reason": "Elder exploitation",
+   "opened": "2026-06-04T11:17:00",
+   "exposure": "1974"
+  },
+  {
+   "ref": "FR-4524",
+   "subject": {
+    "name": "Daniel Cruz",
+    "dob": "1945-10-15",
+    "account": "****4320"
+   },
+   "reason": "Check fraud",
+   "opened": "2026-10-24T16:54:00",
+   "exposure": "2074"
+  },
+  {
+   "ref": "FR-4525",
+   "subject": {
+    "name": "Henry Diaz",
+    "dob": "1945-01-02",
+    "account": "4070406006"
+   },
+   "reason": "Mule activity",
+   "opened": "2026-03-06T15:31:00",
+   "exposure": "4127"
+  },
+  {
+   "ref": "FR-4526",
+   "subject": {
+    "name": "Victor Gutierrez",
+    "dob": "1955-12-18",
+    "account": "4803735371"
+   },
+   "reason": "Account takeover",
+   "opened": "2026-06-26T15:33:00",
+   "exposure": "$14.3k"
+  },
+  {
+   "ref": "FR-4527",
+   "subject": {
+    "name": "Nadia Brown",
+    "dob": null,
+    "account": "6196559628"
+   },
+   "reason": "Synthetic identity",
+   "opened": "2026-09-15T16:48:00",
+   "exposure": "337"
+  },
+  {
+   "ref": "FR-4528",
+   "subject": {
+    "name": "Mark Flores",
+    "dob": null,
+    "account": "****3195"
+   },
+   "reason": "Account takeover",
+   "opened": "2026-08-15T12:18:00",
+   "exposure": "6631"
+  },
+  {
+   "ref": "FR-4529",
+   "subject": {
+    "name": "Ana Brown ",
+    "dob": "1961-08-20",
+    "account": "2813050833"
+   },
+   "reason": "Check fraud",
+   "opened": "2026-04-02T13:42:00",
+   "exposure": "$3.7k"
+  },
+  {
+   "ref": "FR-4530",
+   "subject": {
+    "name": "Monica Martinez",
+    "dob": null,
+    "account": "7382586617"
+   },
+   "reason": "Mule activity",
+   "opened": "2026-09-08T13:31:00",
+   "exposure": "5715"
+  },
+  {
+   "ref": "FR-4531",
+   "subject": {
+    "name": "Joe Walker",
+    "dob": "1997-06-22",
+    "account": "8325323061"
+   },
+   "reason": "Elder exploitation",
+   "opened": "2026-09-09T15:53:00",
+   "exposure": "$4.8k"
+  },
+  {
+   "ref": "FR-4532",
+   "subject": {
+    "name": "Isabel Allen ",
+    "dob": "1985-07-21",
+    "account": null
+   },
+   "reason": "Mule activity",
+   "opened": "2026-08-29T10:25:00",
+   "exposure": "20595"
+  },
+  {
+   "ref": "FR-4533",
+   "subject": {
+    "name": "Ana Johnson",
+    "dob": "1986-07-14",
+    "account": "2897873019"
+   },
+   "reason": "Mule activity",
+   "opened": "2026-08-27T13:36:00",
+   "exposure": "$4.6k"
+  },
+  {
+   "ref": "FR-4534",
+   "subject": {
+    "name": "Mark Morales",
+    "dob": "1986-01-20",
+    "account": "4524718181"
+   },
+   "reason": "Mule activity",
+   "opened": "2026-04-24T16:41:00",
+   "exposure": "5646"
+  },
+  {
+   "ref": "FR-4535",
+   "subject": {
+    "name": "David Anderson ",
+    "dob": "1945-06-07",
+    "account": "****6667"
+   },
+   "reason": "Check fraud",
+   "opened": "2026-06-27T15:08:00",
+   "exposure": "$0.1k"
+  },
+  {
+   "ref": "FR-4536",
+   "subject": {
+    "name": "Maria Johnson",
+    "dob": "2002-01-02",
+    "account": "3042559153"
+   },
+   "reason": "Mule activity",
+   "opened": "2026-07-26T10:37:00",
+   "exposure": "$5.8k"
+  },
+  {
+   "ref": "FR-4537",
+   "subject": {
+    "name": "Jason Cruz",
+    "dob": "1971-11-01",
+    "account": "8497047847"
+   },
+   "reason": "Mule activity",
+   "opened": "2026-04-11T16:50:00",
+   "exposure": "$4.9k"
+  },
+  {
+   "ref": "FR-4538",
+   "subject": {
+    "name": "Teresa Miller",
+    "dob": "1955-07-27",
+    "account": "7166575008"
+   },
+   "reason": "Synthetic identity",
+   "opened": "2026-09-19T18:29:00",
+   "exposure": "7668"
+  },
+  {
+   "ref": "FR-4539",
+   "subject": {
+    "name": "Sofia Moore",
+    "dob": "1953-11-03",
+    "account": "****1962"
+   },
+   "reason": "Check fraud",
+   "opened": "2026-07-10T16:51:00",
+   "exposure": "17755"
+  },
+  {
+   "ref": "FR-4540",
+   "subject": {
+    "name": "Anthony Wilson",
+    "dob": "1967-05-11",
+    "account": "2012696918"
+   },
+   "reason": "Mule activity",
+   "opened": "2026-06-03T16:57:00",
+   "exposure": "$18.9k"
+  },
+  {
+   "ref": "FR-4541",
+   "subject": {
+    "name": "Carlos Sanchez ",
+    "dob": "1980-03-21",
+    "account": "8433968224"
+   },
+   "reason": "Mule activity",
+   "opened": "2026-09-02T13:04:00",
+   "exposure": "2878"
+  },
+  {
+   "ref": "FR-4542",
+   "subject": {
+    "name": "Carmen Reyes",
+    "dob": "1959-12-01",
+    "account": "1674151252"
+   },
+   "reason": "Elder exploitation",
+   "opened": "2026-06-01T12:34:00",
+   "exposure": "1692"
+  },
+  {
+   "ref": "FR-4543",
+   "subject": {
+    "name": "Teresa Gutierrez",
+    "dob": "2001-12-25",
+    "account": null
+   },
+   "reason": "Account takeover",
+   "opened": "2026-03-29T16:51:00",
+   "exposure": "$12.3k"
+  },
+  {
+   "ref": "FR-4544",
+   "subject": {
+    "name": "Carlos Torres",
+    "dob": "1984-02-14",
+    "account": "****2038"
+   },
+   "reason": "Check fraud",
+   "opened": "2026-06-05T17:03:00",
+   "exposure": "$10.3k"
+  },
+  {
+   "ref": "FR-4545",
+   "subject": {
+    "name": "David Smith",
+    "dob": null,
+    "account": "****4750"
+   },
+   "reason": "Mule activity",
+   "opened": "2026-05-09T18:02:00",
+   "exposure": "1903"
+  },
+  {
+   "ref": "FR-4546",
+   "subject": {
+    "name": "Victor Torres",
+    "dob": "1950-11-05",
+    "account": "9663544439"
+   },
+   "reason": "Elder exploitation",
+   "opened": "2026-10-05T16:48:00",
+   "exposure": "3013"
+  },
+  {
+   "ref": "FR-4547",
+   "subject": {
+    "name": "James Johnson",
+    "dob": "2001-09-09",
+    "account": "****9801"
+   },
+   "reason": "Elder exploitation",
+   "opened": "2026-10-13T18:32:00",
+   "exposure": "$4.5k"
+  },
+  {
+   "ref": "FR-4548",
+   "subject": {
+    "name": "Julia Scott",
+    "dob": "1986-07-21",
+    "account": "****7070"
+   },
+   "reason": "Check fraud",
+   "opened": "2026-03-16T17:22:00",
+   "exposure": "2246"
+  },
+  {
+   "ref": "FR-4549",
+   "subject": {
+    "name": "Rosa Wright",
+    "dob": "1976-08-16",
+    "account": "****6428"
+   },
+   "reason": "Mule activity",
+   "opened": "2026-10-29T17:30:00",
+   "exposure": "$0.9k"
+  },
+  {
+   "ref": "FR-4550",
+   "subject": {
+    "name": "Joseph Reyes",
+    "dob": "1978-07-01",
+    "account": "4708462982"
+   },
+   "reason": "Mule activity",
+   "opened": "2026-04-06T14:57:00",
+   "exposure": "$5.6k"
+  },
+  {
+   "ref": "FR-4551",
+   "subject": {
+    "name": "Henry Jackson",
+    "dob": "1978-04-19",
+    "account": "1671792624"
+   },
+   "reason": "Check fraud",
+   "opened": "2026-09-13T13:26:00",
+   "exposure": "980"
+  },
+  {
+   "ref": "FR-4552",
+   "subject": {
+    "name": "Mark Johnson",
+    "dob": "1947-04-02",
+    "account": "5020242176"
+   },
+   "reason": "Check fraud",
+   "opened": "2026-10-04T17:43:00",
+   "exposure": "1886"
+  },
+  {
+   "ref": "FR-4553",
+   "subject": {
+    "name": "Maria Rodriguez",
+    "dob": "1965-12-08",
+    "account": "8115846814"
+   },
+   "reason": "Account takeover",
+   "opened": "2026-06-15T08:05:00",
+   "exposure": "5190"
+  },
+  {
+   "ref": "FR-4554",
+   "subject": {
+    "name": "Diana Chavez",
+    "dob": "1947-03-31",
+    "account": "8046998233"
+   },
+   "reason": "Synthetic identity",
+   "opened": "2026-10-10T08:10:00",
+   "exposure": "3118"
+  },
+  {
+   "ref": "FR-4555",
+   "subject": {
+    "name": "Dan Williams ",
+    "dob": "1971-02-24",
+    "account": "3797937021"
+   },
+   "reason": "Check fraud",
+   "opened": "2026-06-13T09:11:00",
+   "exposure": "1545"
+  },
+  {
+   "ref": "FR-4556",
+   "subject": {
+    "name": "Rosa Flores",
+    "dob": "1957-02-04",
+    "account": "****0856"
+   },
+   "reason": "Check fraud",
+   "opened": "2026-04-20T15:25:00",
+   "exposure": "$1.6k"
+  },
+  {
+   "ref": "FR-4557",
+   "subject": {
+    "name": "Julia Chavez",
+    "dob": null,
+    "account": "5292025517"
+   },
+   "reason": "Mule activity",
+   "opened": "2026-10-06T13:49:00",
+   "exposure": "$3.9k"
+  },
+  {
+   "ref": "FR-4558",
+   "subject": {
+    "name": "Joseph Green",
+    "dob": "1977-12-31",
+    "account": "3283017622"
+   },
+   "reason": "Account takeover",
+   "opened": "2026-04-14T18:43:00",
+   "exposure": "10288"
+  },
+  {
+   "ref": "FR-4559",
+   "subject": {
+    "name": "Carmen Morales ",
+    "dob": "1990-10-20",
+    "account": "5690085139"
+   },
+   "reason": "Mule activity",
+   "opened": "2026-04-19T10:59:00",
+   "exposure": "1483"
+  },
+  {
+   "ref": "FR-4560",
+   "subject": {
+    "name": "Henry Ramirez",
+    "dob": "1977-02-17",
+    "account": "****9498"
+   },
+   "reason": "Elder exploitation",
+   "opened": "2026-06-24T17:58:00",
+   "exposure": "$5.5k"
+  },
+  {
+   "ref": "FR-4561",
+   "subject": {
+    "name": "Gloria Reyes",
+    "dob": "1999-06-12",
+    "account": "****7744"
+   },
+   "reason": "Elder exploitation",
+   "opened": "2026-05-07T09:30:00",
+   "exposure": "$11.7k"
+  },
+  {
+   "ref": "FR-4562",
+   "subject": {
+    "name": "Michael Ortiz",
+    "dob": null,
+    "account": "3669055771"
+   },
+   "reason": "Account takeover",
+   "opened": "2026-03-16T12:03:00",
+   "exposure": "19763"
+  },
+  {
+   "ref": "FR-4563",
+   "subject": {
+    "name": "Dan Cruz",
+    "dob": "1945-10-15",
+    "account": "5732464320"
+   },
+   "reason": "Elder exploitation",
+   "opened": "2026-10-05T10:10:00",
+   "exposure": "1152"
+  },
+  {
+   "ref": "FR-4564",
+   "subject": {
+    "name": "Jason Reyes",
+    "dob": "1970-02-24",
+    "account": "4547839714"
+   },
+   "reason": "Mule activity",
+   "opened": "2026-05-29T15:08:00",
+   "exposure": "$0.6k"
+  },
+  {
+   "ref": "FR-4565",
+   "subject": {
+    "name": "David Williams",
+    "dob": "1991-07-04",
+    "account": "1553883048"
+   },
+   "reason": "Mule activity",
+   "opened": "2026-08-24T12:05:00",
+   "exposure": "$1.1k"
+  },
+  {
+   "ref": "FR-4566",
+   "subject": {
+    "name": "Mark Walker",
+    "dob": "1988-12-23",
+    "account": "7834849148"
+   },
+   "reason": "Synthetic identity",
+   "opened": "2026-05-06T13:02:00",
+   "exposure": "10604"
+  },
+  {
+   "ref": "FR-4567",
+   "subject": {
+    "name": "Raymond Williams",
+    "dob": "1956-04-21",
+    "account": "****7572"
+   },
+   "reason": "Check fraud",
+   "opened": "2026-09-13T11:57:00",
+   "exposure": "1049"
+  },
+  {
+   "ref": "FR-4568",
+   "subject": {
+    "name": "Julia Diaz",
+    "dob": "1947-10-11",
+    "account": "3418728794"
+   },
+   "reason": "Mule activity",
+   "opened": "2026-10-30T11:46:00",
+   "exposure": "3306"
+  },
+  {
+   "ref": "FR-4569",
+   "subject": {
+    "name": "Raymond Lopez",
+    "dob": "1986-03-10",
+    "account": "8036881613"
+   },
+   "reason": "Check fraud",
+   "opened": "2026-03-17T10:01:00",
+   "exposure": "$8.5k"
+  },
+  {
+   "ref": "FR-4570",
+   "subject": {
+    "name": "Daniel Wright",
+    "dob": "1981-06-06",
+    "account": null
+   },
+   "reason": "Synthetic identity",
+   "opened": "2026-09-30T16:48:00",
+   "exposure": "2122"
+  },
+  {
+   "ref": "FR-4571",
+   "subject": {
+    "name": "Raymond Ramirez",
+    "dob": "1959-12-06",
+    "account": "****1582"
+   },
+   "reason": "Check fraud",
+   "opened": "2026-05-04T10:12:00",
+   "exposure": "2644"
+  },
+  {
+   "ref": "FR-4572",
+   "subject": {
+    "name": "Dan Wright",
+    "dob": "1981-06-06",
+    "account": "4668799762"
+   },
+   "reason": "Account takeover",
+   "opened": "2026-03-04T17:20:00",
+   "exposure": "$7.2k"
+  },
+  {
+   "ref": "FR-4573",
+   "subject": {
+    "name": "Raymond Martin",
+    "dob": null,
+    "account": "1489481653"
+   },
+   "reason": "Mule activity",
+   "opened": "2026-08-17T16:03:00",
+   "exposure": "607"
+  },
+  {
+   "ref": "FR-4574",
+   "subject": {
+    "name": "Isabel Green",
+    "dob": "1983-10-14",
+    "account": "****9486"
+   },
+   "reason": "Elder exploitation",
+   "opened": "2026-09-24T09:29:00",
+   "exposure": "3333"
+  },
+  {
+   "ref": "FR-4575",
+   "subject": {
+    "name": "Tony Wilson",
+    "dob": "1967-05-11",
+    "account": "4822887028"
+   },
+   "reason": "Synthetic identity",
+   "opened": "2026-10-13T11:20:00",
+   "exposure": "$0.9k"
+  },
+  {
+   "ref": "FR-4576",
+   "subject": {
+    "name": "Brian Wright ",
+    "dob": "1950-08-01",
+    "account": null
+   },
+   "reason": "Account takeover",
+   "opened": "2026-10-14T14:12:00",
+   "exposure": "486"
+  },
+  {
+   "ref": "FR-4577",
+   "subject": {
+    "name": "Carlos Perez",
+    "dob": "1986-04-20",
+    "account": "8617924684"
+   },
+   "reason": "Elder exploitation",
+   "opened": "2026-10-01T16:44:00",
+   "exposure": "$2.1k"
+  },
+  {
+   "ref": "FR-4578",
+   "subject": {
+    "name": "Daniel Diaz",
+    "dob": "1950-10-18",
+    "account": "6325140165"
+   },
+   "reason": "Check fraud",
+   "opened": "2026-07-30T12:06:00",
+   "exposure": "$7.2k"
+  },
+  {
+   "ref": "FR-4579",
+   "subject": {
+    "name": "Carmen Perez",
+    "dob": "1997-11-06",
+    "account": null
+   },
+   "reason": "Elder exploitation",
+   "opened": "2026-04-29T13:48:00",
+   "exposure": "$7.9k"
+  },
+  {
+   "ref": "FR-4580",
+   "subject": {
+    "name": "James Hall",
+    "dob": "1946-06-02",
+    "account": "****6778"
+   },
+   "reason": "Synthetic identity",
+   "opened": "2026-10-29T09:20:00",
+   "exposure": "17939"
+  },
+  {
+   "ref": "FR-4581",
+   "subject": {
+    "name": "Samuel Martin",
+    "dob": "1980-04-25",
+    "account": "5750956720"
+   },
+   "reason": "Synthetic identity",
+   "opened": "2026-05-14T09:29:00",
+   "exposure": "9774"
+  },
+  {
+   "ref": "FR-4582",
+   "subject": {
+    "name": "Sofia Jones",
+    "dob": "2000-08-20",
+    "account": "****7161"
+   },
+   "reason": "Account takeover",
+   "opened": "2026-07-10T18:22:00",
+   "exposure": "$0.8k"
+  },
+  {
+   "ref": "FR-4583",
+   "subject": {
+    "name": "Laura Gutierrez",
+    "dob": "1981-03-15",
+    "account": "5239477095"
+   },
+   "reason": "Account takeover",
+   "opened": "2026-09-20T11:29:00",
+   "exposure": "$6.5k"
+  },
+  {
+   "ref": "FR-4584",
+   "subject": {
+    "name": "David Walker",
+    "dob": "1981-10-26",
+    "account": "2081407008"
+   },
+   "reason": "Elder exploitation",
+   "opened": "2026-05-06T18:41:00",
+   "exposure": "$7.7k"
+  },
+  {
+   "ref": "FR-4585",
+   "subject": {
+    "name": "Gloria King",
+    "dob": null,
+    "account": "1716861337"
+   },
+   "reason": "Synthetic identity",
+   "opened": "2026-06-05T10:40:00",
+   "exposure": "$10.0k"
+  },
+  {
+   "ref": "FR-4586",
+   "subject": {
+    "name": "Teresa Sanchez",
+    "dob": "1987-08-22",
+    "account": null
+   },
+   "reason": "Check fraud",
+   "opened": "2026-06-06T16:24:00",
+   "exposure": "3323"
+  },
+  {
+   "ref": "FR-4587",
+   "subject": {
+    "name": "James Vargas",
+    "dob": "1972-01-01",
+    "account": "6265906069"
+   },
+   "reason": "Elder exploitation",
+   "opened": "2026-06-22T15:44:00",
+   "exposure": "$9.7k"
+  },
+  {
+   "ref": "FR-4588",
+   "subject": {
+    "name": "Victor Torres",
+    "dob": "1950-11-05",
+    "account": "9211588433"
+   },
+   "reason": "Mule activity",
+   "opened": "2026-06-09T12:29:00",
+   "exposure": "$2.7k"
+  },
+  {
+   "ref": "FR-4589",
+   "subject": {
+    "name": "Laura Anderson",
+    "dob": "1986-11-04",
+    "account": "6606182984"
+   },
+   "reason": "Check fraud",
+   "opened": "2026-05-21T11:23:00",
+   "exposure": "$3.4k"
+  },
+  {
+   "ref": "FR-4590",
+   "subject": {
+    "name": "Laura Ramirez",
+    "dob": "1972-12-22",
+    "account": "****9173"
+   },
+   "reason": "Account takeover",
+   "opened": "2026-03-17T15:30:00",
+   "exposure": "2435"
+  },
+  {
+   "ref": "FR-4591",
+   "subject": {
+    "name": "Nadia Lee",
+    "dob": "1964-10-08",
+    "account": "****7360"
+   },
+   "reason": "Synthetic identity",
+   "opened": "2026-04-04T10:53:00",
+   "exposure": "$4.8k"
+  },
+  {
+   "ref": "FR-4592",
+   "subject": {
+    "name": "Tony Morales",
+    "dob": "1970-09-03",
+    "account": null
+   },
+   "reason": "Synthetic identity",
+   "opened": "2026-04-21T10:13:00",
+   "exposure": "6007"
+  },
+  {
+   "ref": "FR-4593",
+   "subject": {
+    "name": "Kevin Davis",
+    "dob": "1987-03-12",
+    "account": "6814386605"
+   },
+   "reason": "Mule activity",
+   "opened": "2026-09-23T12:08:00",
+   "exposure": "$6.0k"
+  },
+  {
+   "ref": "FR-4594",
+   "subject": {
+    "name": "Angela Sanchez",
+    "dob": "1976-11-10",
+    "account": "****7183"
+   },
+   "reason": "Check fraud",
+   "opened": "2026-07-09T16:12:00",
+   "exposure": "$1.9k"
+  },
+  {
+   "ref": "FR-4595",
+   "subject": {
+    "name": "Joseph Lee",
+    "dob": "1948-07-03",
+    "account": "1648215214"
+   },
+   "reason": "Check fraud",
+   "opened": "2026-05-19T17:05:00",
+   "exposure": "3701"
+  },
+  {
+   "ref": "FR-4596",
+   "subject": {
+    "name": "Joe Morales",
+    "dob": "1975-11-29",
+    "account": "2810319139"
+   },
+   "reason": "Synthetic identity",
+   "opened": "2026-03-03T09:41:00",
+   "exposure": "$6.7k"
+  },
+  {
+   "ref": "FR-4597",
+   "subject": {
+    "name": "Isabel Rodriguez",
+    "dob": "1989-02-14",
+    "account": "7052666251"
+   },
+   "reason": "Elder exploitation",
+   "opened": "2026-03-15T13:34:00",
+   "exposure": "$2.8k"
+  },
+  {
+   "ref": "FR-4598",
+   "subject": {
+    "name": "Bob Davis",
+    "dob": "1975-07-28",
+    "account": "****1167"
+   },
+   "reason": "Check fraud",
+   "opened": "2026-05-07T15:16:00",
+   "exposure": "$14.2k"
+  },
+  {
+   "ref": "FR-4599",
+   "subject": {
+    "name": "Jason Jones",
+    "dob": "1947-12-21",
+    "account": "5111406175"
+   },
+   "reason": "Account takeover",
+   "opened": "2026-08-12T10:09:00",
+   "exposure": "$10.5k"
+  },
+  {
+   "ref": "FR-4600",
+   "subject": {
+    "name": "Henry Gomez",
+    "dob": "1987-05-27",
+    "account": "6494418242"
+   },
+   "reason": "Elder exploitation",
+   "opened": "2026-03-24T14:40:00",
+   "exposure": "$2.6k"
+  },
+  {
+   "ref": "FR-4601",
+   "subject": {
+    "name": "Julia Martinez",
+    "dob": "1975-09-29",
+    "account": "****9602"
+   },
+   "reason": "Mule activity",
+   "opened": "2026-07-06T18:40:00",
+   "exposure": "6968"
+  },
+  {
+   "ref": "FR-4602",
+   "subject": {
+    "name": "Joe Gutierrez",
+    "dob": null,
+    "account": "7974741989"
+   },
+   "reason": "Mule activity",
+   "opened": "2026-03-12T16:36:00",
+   "exposure": "$1.0k"
+  },
+  {
+   "ref": "FR-4603",
+   "subject": {
+    "name": "Angela Smith",
+    "dob": "1998-12-20",
+    "account": "7632577028"
+   },
+   "reason": "Elder exploitation",
+   "opened": "2026-03-05T12:21:00",
+   "exposure": "50061"
+  },
+  {
+   "ref": "FR-4604",
+   "subject": {
+    "name": "Robert Gonzalez",
+    "dob": "1970-06-28",
+    "account": "****3991"
+   },
+   "reason": "Check fraud",
+   "opened": "2026-06-07T10:11:00",
+   "exposure": "783"
+  },
+  {
+   "ref": "FR-4605",
+   "subject": {
+    "name": "Daniel Reyes",
+    "dob": "1978-03-12",
+    "account": "4069079221"
+   },
+   "reason": "Elder exploitation",
+   "opened": "2026-05-30T18:58:00",
+   "exposure": "$3.6k"
+  },
+  {
+   "ref": "FR-4606",
+   "subject": {
+    "name": "David Williams",
+    "dob": "1991-07-04",
+    "account": "1553883048"
+   },
+   "reason": "Check fraud",
+   "opened": "2026-03-11T18:34:00",
+   "exposure": "9347"
+  },
+  {
+   "ref": "FR-4607",
+   "subject": {
+    "name": "Daniel Williams",
+    "dob": "1971-02-24",
+    "account": "****7021"
+   },
+   "reason": "Mule activity",
+   "opened": "2026-10-10T11:11:00",
+   "exposure": "11625"
+  },
+  {
+   "ref": "FR-4608",
+   "subject": {
+    "name": "Samuel Morales",
+    "dob": "1961-05-20",
+    "account": "****7219"
+   },
+   "reason": "Check fraud",
+   "opened": "2026-03-05T10:17:00",
+   "exposure": "$1.7k"
+  },
+  {
+   "ref": "FR-4609",
+   "subject": {
+    "name": "Ana Ramirez",
+    "dob": null,
+    "account": "2693500540"
+   },
+   "reason": "Elder exploitation",
+   "opened": "2026-04-16T18:35:00",
+   "exposure": "$6.0k"
+  },
+  {
+   "ref": "FR-4610",
+   "subject": {
+    "name": "Jason Davis ",
+    "dob": "1973-12-05",
+    "account": "5026795104"
+   },
+   "reason": "Synthetic identity",
+   "opened": "2026-09-19T16:11:00",
+   "exposure": "$1.1k"
+  },
+  {
+   "ref": "FR-4611",
+   "subject": {
+    "name": "Michael King",
+    "dob": "1969-03-14",
+    "account": "4021403213"
+   },
+   "reason": "Mule activity",
+   "opened": "2026-09-29T10:19:00",
+   "exposure": "600"
+  },
+  {
+   "ref": "FR-4612",
+   "subject": {
+    "name": "Angela Diaz ",
+    "dob": "1984-09-16",
+    "account": "6043230244"
+   },
+   "reason": "Account takeover",
+   "opened": "2026-05-26T09:37:00",
+   "exposure": "11123"
+  },
+  {
+   "ref": "FR-4613",
+   "subject": {
+    "name": "Michael Wilson",
+    "dob": "1962-12-21",
+    "account": "****9695"
+   },
+   "reason": "Synthetic identity",
+   "opened": "2026-07-22T13:38:00",
+   "exposure": "$7.6k"
+  },
+  {
+   "ref": "FR-4614",
+   "subject": {
+    "name": "Henry Rivera",
+    "dob": null,
+    "account": "6459693711"
+   },
+   "reason": "Synthetic identity",
+   "opened": "2026-09-04T12:51:00",
+   "exposure": "5054"
+  },
+  {
+   "ref": "FR-4615",
+   "subject": {
+    "name": "Linda Ortiz",
+    "dob": null,
+    "account": "4132119668"
+   },
+   "reason": "Account takeover",
+   "opened": "2026-08-27T17:29:00",
+   "exposure": "1376"
+  },
+  {
+   "ref": "FR-4616",
+   "subject": {
+    "name": "Raymond Ramirez",
+    "dob": "1959-12-06",
+    "account": "1516161582"
+   },
+   "reason": "Mule activity",
+   "opened": "2026-10-27T15:46:00",
+   "exposure": "$4.8k"
+  },
+  {
+   "ref": "FR-4617",
+   "subject": {
+    "name": "Eric Torres",
+    "dob": null,
+    "account": "****3309"
+   },
+   "reason": "Synthetic identity",
+   "opened": "2026-08-14T15:33:00",
+   "exposure": "2385"
+  },
+  {
+   "ref": "FR-4618",
+   "subject": {
+    "name": "Carmen Torres",
+    "dob": null,
+    "account": "2544877917"
+   },
+   "reason": "Synthetic identity",
+   "opened": "2026-04-29T15:48:00",
+   "exposure": "7560"
+  },
+  {
+   "ref": "FR-4619",
+   "subject": {
+    "name": "Nadia Jackson",
+    "dob": "1971-04-11",
+    "account": null
+   },
+   "reason": "Synthetic identity",
+   "opened": "2026-10-13T09:10:00",
+   "exposure": "744"
+  },
+  {
+   "ref": "FR-4620",
+   "subject": {
+    "name": "Julia Ramirez",
+    "dob": "1995-12-18",
+    "account": "3619717298"
+   },
+   "reason": "Mule activity",
+   "opened": "2026-05-28T10:46:00",
+   "exposure": "3153"
+  },
+  {
+   "ref": "FR-4621",
+   "subject": {
+    "name": "Luis Gomez",
+    "dob": null,
+    "account": "7798462535"
+   },
+   "reason": "Elder exploitation",
+   "opened": "2026-07-10T12:50:00",
+   "exposure": "4984"
+  },
+  {
+   "ref": "FR-4622",
+   "subject": {
+    "name": "Jason Morales",
+    "dob": "1958-04-22",
+    "account": "****4707"
+   },
+   "reason": "Check fraud",
+   "opened": "2026-04-12T11:06:00",
+   "exposure": "2755"
+  },
+  {
+   "ref": "FR-4623",
+   "subject": {
+    "name": "Anthony Jones",
+    "dob": "1966-09-05",
+    "account": null
+   },
+   "reason": "Check fraud",
+   "opened": "2026-03-22T17:53:00",
+   "exposure": "$2.8k"
+  },
+  {
+   "ref": "FR-4624",
+   "subject": {
+    "name": "Sofia Jones",
+    "dob": "1965-02-17",
+    "account": "5708803657"
+   },
+   "reason": "Elder exploitation",
+   "opened": "2026-04-07T08:08:00",
+   "exposure": "$2.1k"
+  },
+  {
+   "ref": "FR-4625",
+   "subject": {
+    "name": "Lucia Perez",
+    "dob": "1963-03-23",
+    "account": "6163404445"
+   },
+   "reason": "Elder exploitation",
+   "opened": "2026-04-09T09:55:00",
+   "exposure": "$0.9k"
+  },
+  {
+   "ref": "FR-4626",
+   "subject": {
+    "name": "Paula Diaz",
+    "dob": "1952-09-04",
+    "account": null
+   },
+   "reason": "Synthetic identity",
+   "opened": "2026-08-31T08:14:00",
+   "exposure": "7038"
+  },
+  {
+   "ref": "FR-4627",
+   "subject": {
+    "name": "Sofia Cruz",
+    "dob": "1973-02-08",
+    "account": "5145639807"
+   },
+   "reason": "Mule activity",
+   "opened": "2026-10-22T16:40:00",
+   "exposure": "22617"
+  },
+  {
+   "ref": "FR-4628",
+   "subject": {
+    "name": "Elena Flores",
+    "dob": "1953-05-27",
+    "account": "2236761686"
+   },
+   "reason": "Account takeover",
+   "opened": "2026-05-24T16:21:00",
+   "exposure": "1999"
+  },
+  {
+   "ref": "FR-4629",
+   "subject": {
+    "name": "Teresa Flores",
+    "dob": "1988-07-24",
+    "account": "2879441631"
+   },
+   "reason": "Check fraud",
+   "opened": "2026-03-23T18:34:00",
+   "exposure": "$6.1k"
+  },
+  {
+   "ref": "FR-4630",
+   "subject": {
+    "name": "Jason Wright",
+    "dob": "1956-05-21",
+    "account": "8460911734"
+   },
+   "reason": "Account takeover",
+   "opened": "2026-09-19T14:24:00",
+   "exposure": "9720"
+  },
+  {
+   "ref": "FR-4631",
+   "subject": {
+    "name": "Joseph Sanchez ",
+    "dob": "1970-10-05",
+    "account": null
+   },
+   "reason": "Account takeover",
+   "opened": "2026-06-09T14:10:00",
+   "exposure": "$7.9k"
+  },
+  {
+   "ref": "FR-4632",
+   "subject": {
+    "name": "Carlos Davis",
+    "dob": "1995-02-24",
+    "account": "2068546417"
+   },
+   "reason": "Check fraud",
+   "opened": "2026-07-15T09:49:00",
+   "exposure": "2190"
+  },
+  {
+   "ref": "FR-4633",
+   "subject": {
+    "name": "Andy Gutierrez",
+    "dob": "2002-06-16",
+    "account": "3137787511"
+   },
+   "reason": "Check fraud",
+   "opened": "2026-05-21T17:10:00",
+   "exposure": "$1.6k"
+  },
+  {
+   "ref": "FR-4634",
+   "subject": {
+    "name": "Gloria Reyes",
+    "dob": "1976-06-26",
+    "account": null
+   },
+   "reason": "Mule activity",
+   "opened": "2026-10-14T10:03:00",
+   "exposure": "$5.9k"
+  },
+  {
+   "ref": "FR-4635",
+   "subject": {
+    "name": "Patricia Wilson",
+    "dob": "1958-12-12",
+    "account": null
+   },
+   "reason": "Check fraud",
+   "opened": "2026-04-18T12:13:00",
+   "exposure": "2527"
+  },
+  {
+   "ref": "FR-4636",
+   "subject": {
+    "name": "Carlos Davis",
+    "dob": "1995-02-24",
+    "account": "5941598082"
+   },
+   "reason": "Mule activity",
+   "opened": "2026-04-19T11:48:00",
+   "exposure": "5234"
+  },
+  {
+   "ref": "FR-4637",
+   "subject": {
+    "name": "Ana Johnson",
+    "dob": "1982-09-19",
+    "account": "6513458829"
+   },
+   "reason": "Synthetic identity",
+   "opened": "2026-07-20T15:03:00",
+   "exposure": "$0.3k"
+  },
+  {
+   "ref": "FR-4638",
+   "subject": {
+    "name": "Laura Hall",
+    "dob": "1977-04-05",
+    "account": "5416744231"
+   },
+   "reason": "Account takeover",
+   "opened": "2026-06-03T14:14:00",
+   "exposure": "11491"
+  },
+  {
+   "ref": "FR-4639",
+   "subject": {
+    "name": "Eric Jones",
+    "dob": null,
+    "account": "9161735191"
+   },
+   "reason": "Mule activity",
+   "opened": "2026-09-27T13:12:00",
+   "exposure": "$1.4k"
+  },
+  {
+   "ref": "FR-4640",
+   "subject": {
+    "name": "Lucia King",
+    "dob": "1976-07-29",
+    "account": "****1103"
+   },
+   "reason": "Check fraud",
+   "opened": "2026-06-20T12:44:00",
+   "exposure": "$3.5k"
+  },
+  {
+   "ref": "FR-4641",
+   "subject": {
+    "name": "Victor Jackson",
+    "dob": "1977-10-31",
+    "account": "5685867474"
+   },
+   "reason": "Account takeover",
+   "opened": "2026-07-02T15:29:00",
+   "exposure": "637"
+  },
+  {
+   "ref": "FR-4642",
+   "subject": {
+    "name": "Robert Jackson ",
+    "dob": "1989-12-11",
+    "account": "****8945"
+   },
+   "reason": "Account takeover",
+   "opened": "2026-06-06T08:42:00",
+   "exposure": "$32.5k"
+  },
+  {
+   "ref": "FR-4643",
+   "subject": {
+    "name": "Laura Wilson",
+    "dob": "1961-09-27",
+    "account": "9334098481"
+   },
+   "reason": "Elder exploitation",
+   "opened": "2026-07-02T16:17:00",
+   "exposure": "10340"
+  },
+  {
+   "ref": "FR-4644",
+   "subject": {
+    "name": "Carlos Flores",
+    "dob": "1954-01-30",
+    "account": "6454835957"
+   },
+   "reason": "Mule activity",
+   "opened": "2026-09-10T15:53:00",
+   "exposure": "$0.9k"
+  },
+  {
+   "ref": "FR-4645",
+   "subject": {
+    "name": "Carmen Anderson",
+    "dob": "1950-07-11",
+    "account": "****3119"
+   },
+   "reason": "Account takeover",
+   "opened": "2026-03-23T08:16:00",
+   "exposure": "8755"
+  },
+  {
+   "ref": "FR-4646",
+   "subject": {
+    "name": "Brian King",
+    "dob": null,
+    "account": "5220387114"
+   },
+   "reason": "Elder exploitation",
+   "opened": "2026-06-04T18:09:00",
+   "exposure": "12798"
+  },
+  {
+   "ref": "FR-4647",
+   "subject": {
+    "name": "Rosa Taylor",
+    "dob": "1989-05-18",
+    "account": "2346810775"
+   },
+   "reason": "Elder exploitation",
+   "opened": "2026-10-27T13:50:00",
+   "exposure": "$8.2k"
+  },
+  {
+   "ref": "FR-4648",
+   "subject": {
+    "name": "Steven Martinez",
+    "dob": "1998-11-11",
+    "account": "5907535320"
+   },
+   "reason": "Account takeover",
+   "opened": "2026-05-27T13:54:00",
+   "exposure": "1322"
+  },
+  {
+   "ref": "FR-4649",
+   "subject": {
+    "name": "Raymond Diaz",
+    "dob": null,
+    "account": "2590365276"
+   },
+   "reason": "Check fraud",
+   "opened": "2026-08-05T16:50:00",
+   "exposure": "17509"
+  },
+  {
+   "ref": "FR-4650",
+   "subject": {
+    "name": "Luis Lopez ",
+    "dob": "1954-02-24",
+    "account": "3621287896"
+   },
+   "reason": "Account takeover",
+   "opened": "2026-10-03T14:45:00",
+   "exposure": "$1.6k"
+  },
+  {
+   "ref": "FR-4651",
+   "subject": {
+    "name": "James Williams ",
+    "dob": "1975-01-29",
+    "account": "5772498841"
+   },
+   "reason": "Account takeover",
+   "opened": "2026-06-19T18:00:00",
+   "exposure": "$32.8k"
+  },
+  {
+   "ref": "FR-4652",
+   "subject": {
+    "name": "Jason Morales",
+    "dob": null,
+    "account": "4208418899"
+   },
+   "reason": "Synthetic identity",
+   "opened": "2026-03-17T08:33:00",
+   "exposure": "1698"
+  },
+  {
+   "ref": "FR-4653",
+   "subject": {
+    "name": "Paula Gomez ",
+    "dob": "1988-10-15",
+    "account": "1230367359"
+   },
+   "reason": "Account takeover",
+   "opened": "2026-03-20T16:24:00",
+   "exposure": "$4.1k"
+  },
+  {
+   "ref": "FR-4654",
+   "subject": {
+    "name": "Carmen Williams",
+    "dob": "1992-01-03",
+    "account": "2740339749"
+   },
+   "reason": "Synthetic identity",
+   "opened": "2026-10-26T09:12:00",
+   "exposure": "$1.2k"
+  },
+  {
+   "ref": "FR-4655",
+   "subject": {
+    "name": "Isabel Lopez",
+    "dob": "1982-09-05",
+    "account": "2989787970"
+   },
+   "reason": "Account takeover",
+   "opened": "2026-04-09T13:30:00",
+   "exposure": "4602"
+  },
+  {
+   "ref": "FR-4656",
+   "subject": {
+    "name": "Jason Green",
+    "dob": "1956-05-12",
+    "account": "****0495"
+   },
+   "reason": "Account takeover",
+   "opened": "2026-10-04T16:17:00",
+   "exposure": "$3.3k"
+  },
+  {
+   "ref": "FR-4657",
+   "subject": {
+    "name": "Mark Anderson",
+    "dob": "2001-12-08",
+    "account": "****6062"
+   },
+   "reason": "Synthetic identity",
+   "opened": "2026-08-07T11:49:00",
+   "exposure": "4680"
+  },
+  {
+   "ref": "FR-4658",
+   "subject": {
+    "name": "Angela Lee",
+    "dob": "1952-01-28",
+    "account": "8905886836"
+   },
+   "reason": "Account takeover",
+   "opened": "2026-05-06T17:48:00",
+   "exposure": "$2.8k"
+  },
+  {
+   "ref": "FR-4659",
+   "subject": {
+    "name": "Dan Ramos",
+    "dob": "1991-06-26",
+    "account": "8689121260"
+   },
+   "reason": "Account takeover",
+   "opened": "2026-04-18T17:56:00",
+   "exposure": "835"
+  },
+  {
+   "ref": "FR-4660",
+   "subject": {
+    "name": "Monica Martin",
+    "dob": "1945-07-29",
+    "account": null
+   },
+   "reason": "Account takeover",
+   "opened": "2026-08-23T18:23:00",
+   "exposure": "1914"
+  },
+  {
+   "ref": "FR-4661",
+   "subject": {
+    "name": "Carlos Sanchez",
+    "dob": "1980-03-21",
+    "account": "****8224"
+   },
+   "reason": "Synthetic identity",
+   "opened": "2026-05-28T16:14:00",
+   "exposure": "6603"
+  },
+  {
+   "ref": "FR-4662",
+   "subject": {
+    "name": "Linda Martinez",
+    "dob": "1992-04-18",
+    "account": "1090541611"
+   },
+   "reason": "Account takeover",
+   "opened": "2026-06-08T13:09:00",
+   "exposure": "$5.8k"
+  },
+  {
+   "ref": "FR-4663",
+   "subject": {
+    "name": "Joseph Jones",
+    "dob": "1947-10-02",
+    "account": "8208225343"
+   },
+   "reason": "Synthetic identity",
+   "opened": "2026-04-07T08:41:00",
+   "exposure": "$9.9k"
+  },
+  {
+   "ref": "FR-4664",
+   "subject": {
+    "name": "Isabel Rivera",
+    "dob": "1960-11-07",
+    "account": "3943115455"
+   },
+   "reason": "Account takeover",
+   "opened": "2026-03-31T17:59:00",
+   "exposure": "2871"
+  },
+  {
+   "ref": "FR-4665",
+   "subject": {
+    "name": "Ana Flores",
+    "dob": "1999-02-04",
+    "account": "7113507768"
+   },
+   "reason": "Mule activity",
+   "opened": "2026-05-06T08:23:00",
+   "exposure": "$3.5k"
+  },
+  {
+   "ref": "FR-4666",
+   "subject": {
+    "name": "Steven Rivera",
+    "dob": "1953-02-24",
+    "account": "9634610183"
+   },
+   "reason": "Elder exploitation",
+   "opened": "2026-10-28T10:57:00",
+   "exposure": "4365"
+  },
+  {
+   "ref": "FR-4667",
+   "subject": {
+    "name": "Carlos Torres",
+    "dob": null,
+    "account": "****2038"
+   },
+   "reason": "Check fraud",
+   "opened": "2026-07-07T11:58:00",
+   "exposure": "$1.9k"
+  },
+  {
+   "ref": "FR-4668",
+   "subject": {
+    "name": "Mark Anderson ",
+    "dob": "2001-12-08",
+    "account": "****1093"
+   },
+   "reason": "Mule activity",
+   "opened": "2026-03-01T15:51:00",
+   "exposure": "1985"
+  },
+  {
+   "ref": "FR-4669",
+   "subject": {
+    "name": "Dan Cruz",
+    "dob": "1945-10-15",
+    "account": null
+   },
+   "reason": "Mule activity",
+   "opened": "2026-04-02T16:42:00",
+   "exposure": "$16.8k"
+  },
+  {
+   "ref": "FR-4670",
+   "subject": {
+    "name": "Luis Anderson ",
+    "dob": null,
+    "account": "****3144"
+   },
+   "reason": "Account takeover",
+   "opened": "2026-07-27T09:16:00",
+   "exposure": "$7.1k"
+  },
+  {
+   "ref": "FR-4671",
+   "subject": {
+    "name": "Diana Flores",
+    "dob": "1990-05-21",
+    "account": "2946099118"
+   },
+   "reason": "Synthetic identity",
+   "opened": "2026-04-08T18:01:00",
+   "exposure": "2462"
+  },
+  {
+   "ref": "FR-4672",
+   "subject": {
+    "name": "Gloria Miller",
+    "dob": "1994-02-16",
+    "account": "4242563174"
+   },
+   "reason": "Check fraud",
+   "opened": "2026-09-19T09:16:00",
+   "exposure": "$8.2k"
+  },
+  {
+   "ref": "FR-4673",
+   "subject": {
+    "name": "Laura Ramirez",
+    "dob": "1983-05-24",
+    "account": "8923978478"
+   },
+   "reason": "Mule activity",
+   "opened": "2026-09-09T16:14:00",
+   "exposure": "$1.5k"
+  },
+  {
+   "ref": "FR-4674",
+   "subject": {
+    "name": "Gloria Gonzalez",
+    "dob": "1956-07-11",
+    "account": "1981133364"
+   },
+   "reason": "Check fraud",
+   "opened": "2026-08-06T09:57:00",
+   "exposure": "11009"
+  },
+  {
+   "ref": "FR-4675",
+   "subject": {
+    "name": "Angela Reyes ",
+    "dob": "1969-11-11",
+    "account": null
+   },
+   "reason": "Elder exploitation",
+   "opened": "2026-07-28T08:44:00",
+   "exposure": "$2.4k"
+  },
+  {
+   "ref": "FR-4676",
+   "subject": {
+    "name": "Carmen Flores ",
+    "dob": null,
+    "account": null
+   },
+   "reason": "Synthetic identity",
+   "opened": "2026-06-24T13:59:00",
+   "exposure": "$1.5k"
+  },
+  {
+   "ref": "FR-4677",
+   "subject": {
+    "name": "Joseph Gutierrez",
+    "dob": "1986-03-16",
+    "account": null
+   },
+   "reason": "Check fraud",
+   "opened": "2026-10-10T14:14:00",
+   "exposure": "$0.8k"
+  },
+  {
+   "ref": "FR-4678",
+   "subject": {
+    "name": "Sofia Cruz",
+    "dob": null,
+    "account": "2658177686"
+   },
+   "reason": "Mule activity",
+   "opened": "2026-07-23T16:39:00",
+   "exposure": "2666"
+  },
+  {
+   "ref": "FR-4679",
+   "subject": {
+    "name": "Elena Ramirez",
+    "dob": null,
+    "account": null
+   },
+   "reason": "Account takeover",
+   "opened": "2026-07-24T17:47:00",
+   "exposure": "$1.5k"
+  },
+  {
+   "ref": "FR-4680",
+   "subject": {
+    "name": "Carlos Sanchez",
+    "dob": "1980-03-21",
+    "account": "8433968224"
+   },
+   "reason": "Account takeover",
+   "opened": "2026-05-28T10:34:00",
+   "exposure": "$4.4k"
+  },
+  {
+   "ref": "FR-4681",
+   "subject": {
+    "name": "Dan Reyes ",
+    "dob": "1978-03-12",
+    "account": "9082221063"
+   },
+   "reason": "Mule activity",
+   "opened": "2026-08-13T15:31:00",
+   "exposure": "1753"
+  },
+  {
+   "ref": "FR-4682",
+   "subject": {
+    "name": "Monica Williams",
+    "dob": "1956-11-29",
+    "account": "4648670550"
+   },
+   "reason": "Elder exploitation",
+   "opened": "2026-09-09T12:09:00",
+   "exposure": "2691"
+  },
+  {
+   "ref": "FR-4683",
+   "subject": {
+    "name": "Laura Perez",
+    "dob": "1961-07-27",
+    "account": "7872601478"
+   },
+   "reason": "Check fraud",
+   "opened": "2026-09-29T14:18:00",
+   "exposure": "$10.3k"
+  },
+  {
+   "ref": "FR-4684",
+   "subject": {
+    "name": "Linda Chavez",
+    "dob": "1964-01-27",
+    "account": "3439166984"
+   },
+   "reason": "Check fraud",
+   "opened": "2026-04-08T15:18:00",
+   "exposure": "$12.6k"
+  },
+  {
+   "ref": "FR-4685",
+   "subject": {
+    "name": "Robert Moore",
+    "dob": "1971-09-06",
+    "account": "8065486174"
+   },
+   "reason": "Elder exploitation",
+   "opened": "2026-04-17T12:47:00",
+   "exposure": "$2.7k"
+  },
+  {
+   "ref": "FR-4686",
+   "subject": {
+    "name": "Elena Sanchez",
+    "dob": null,
+    "account": null
+   },
+   "reason": "Check fraud",
+   "opened": "2026-07-04T17:22:00",
+   "exposure": "2924"
+  },
+  {
+   "ref": "FR-4687",
+   "subject": {
+    "name": "Carlos Davis",
+    "dob": "1995-02-24",
+    "account": "5941598082"
+   },
+   "reason": "Synthetic identity",
+   "opened": "2026-04-02T15:14:00",
+   "exposure": "$2.3k"
+  },
+  {
+   "ref": "FR-4688",
+   "subject": {
+    "name": "Pat Brown",
+    "dob": "1952-08-13",
+    "account": "7902985411"
+   },
+   "reason": "Mule activity",
+   "opened": "2026-09-28T09:47:00",
+   "exposure": "$6.7k"
+  },
+  {
+   "ref": "FR-4689",
+   "subject": {
+    "name": "Raymond Walker",
+    "dob": "1990-02-11",
+    "account": "1461679398"
+   },
+   "reason": "Mule activity",
+   "opened": "2026-04-12T08:14:00",
+   "exposure": "$6.2k"
+  },
+  {
+   "ref": "FR-4690",
+   "subject": {
+    "name": "Brian Moore",
+    "dob": null,
+    "account": "2678442127"
+   },
+   "reason": "Account takeover",
+   "opened": "2026-03-01T17:00:00",
+   "exposure": "$4.7k"
+  },
+  {
+   "ref": "FR-4691",
+   "subject": {
+    "name": "Angela Diaz",
+    "dob": null,
+    "account": "6043230244"
+   },
+   "reason": "Check fraud",
+   "opened": "2026-10-21T10:21:00",
+   "exposure": "2408"
+  },
+  {
+   "ref": "FR-4692",
+   "subject": {
+    "name": "Linda Sanchez",
+    "dob": "1973-01-14",
+    "account": "6766644364"
+   },
+   "reason": "Synthetic identity",
+   "opened": "2026-06-04T09:37:00",
+   "exposure": "$11.2k"
+  },
+  {
+   "ref": "FR-4693",
+   "subject": {
+    "name": "Ana Ramirez",
+    "dob": "2000-07-20",
+    "account": "7839023249"
+   },
+   "reason": "Check fraud",
+   "opened": "2026-03-23T08:12:00",
+   "exposure": "$2.4k"
+  },
+  {
+   "ref": "FR-4694",
+   "subject": {
+    "name": "David Smith",
+    "dob": "1956-08-19",
+    "account": "****4750"
+   },
+   "reason": "Check fraud",
+   "opened": "2026-07-01T09:22:00",
+   "exposure": "$0.4k"
+  },
+  {
+   "ref": "FR-4695",
+   "subject": {
+    "name": "Carlos Sanchez",
+    "dob": "1980-03-21",
+    "account": "****8224"
+   },
+   "reason": "Check fraud",
+   "opened": "2026-03-08T17:35:00",
+   "exposure": "$4.1k"
+  },
+  {
+   "ref": "FR-4696",
+   "subject": {
+    "name": "Michael Reyes",
+    "dob": "1946-09-04",
+    "account": "3292613330"
+   },
+   "reason": "Check fraud",
+   "opened": "2026-07-18T18:58:00",
+   "exposure": "$10.4k"
+  },
+  {
+   "ref": "FR-4697",
+   "subject": {
+    "name": "Julia Chavez",
+    "dob": "1995-01-02",
+    "account": "****9950"
+   },
+   "reason": "Mule activity",
+   "opened": "2026-03-01T12:28:00",
+   "exposure": "3868"
+  },
+  {
+   "ref": "FR-4698",
+   "subject": {
+    "name": "Victor Torres",
+    "dob": null,
+    "account": null
+   },
+   "reason": "Account takeover",
+   "opened": "2026-06-03T13:12:00",
+   "exposure": "9104"
+  },
+  {
+   "ref": "FR-4699",
+   "subject": {
+    "name": "Carlos Jackson ",
+    "dob": "1951-08-06",
+    "account": "9954768995"
+   },
+   "reason": "Check fraud",
+   "opened": "2026-08-11T14:14:00",
+   "exposure": "2587"
+  },
+  {
+   "ref": "FR-4700",
+   "subject": {
+    "name": "Eric Jones",
+    "dob": "1999-12-05",
+    "account": "9709118156"
+   },
+   "reason": "Synthetic identity",
+   "opened": "2026-03-14T15:17:00",
+   "exposure": "$1.8k"
+  },
+  {
+   "ref": "FR-4701",
+   "subject": {
+    "name": "Steven Jones",
+    "dob": "1969-05-21",
+    "account": "****8216"
+   },
+   "reason": "Synthetic identity",
+   "opened": "2026-09-13T15:00:00",
+   "exposure": "6602"
+  },
+  {
+   "ref": "FR-4702",
+   "subject": {
+    "name": "Gloria King",
+    "dob": "2001-07-22",
+    "account": "****1337"
+   },
+   "reason": "Mule activity",
+   "opened": "2026-09-29T14:56:00",
+   "exposure": "$4.3k"
+  },
+  {
+   "ref": "FR-4703",
+   "subject": {
+    "name": "Diana Chavez",
+    "dob": "1954-02-07",
+    "account": "1620285656"
+   },
+   "reason": "Elder exploitation",
+   "opened": "2026-10-03T16:37:00",
+   "exposure": "$2.8k"
+  },
+  {
+   "ref": "FR-4704",
+   "subject": {
+    "name": "Samuel Martin",
+    "dob": "2000-01-28",
+    "account": "1050505941"
+   },
+   "reason": "Synthetic identity",
+   "opened": "2026-10-21T18:53:00",
+   "exposure": "$15.2k"
+  },
+  {
+   "ref": "FR-4705",
+   "subject": {
+    "name": "Sofia Martinez",
+    "dob": "1959-08-30",
+    "account": "****9433"
+   },
+   "reason": "Elder exploitation",
+   "opened": "2026-09-13T11:24:00",
+   "exposure": "7196"
+  },
+  {
+   "ref": "FR-4706",
+   "subject": {
+    "name": "Sam Jackson ",
+    "dob": "1993-11-17",
+    "account": "5963551575"
+   },
+   "reason": "Check fraud",
+   "opened": "2026-07-04T13:35:00",
+   "exposure": "5689"
+  },
+  {
+   "ref": "FR-4707",
+   "subject": {
+    "name": "Victor Jones",
+    "dob": "1976-03-23",
+    "account": null
+   },
+   "reason": "Account takeover",
+   "opened": "2026-06-15T08:14:00",
+   "exposure": "$1.8k"
+  },
+  {
+   "ref": "FR-4708",
+   "subject": {
+    "name": "Julia Wright",
+    "dob": "1967-08-09",
+    "account": "1857123809"
+   },
+   "reason": "Mule activity",
+   "opened": "2026-04-01T18:35:00",
+   "exposure": "$5.1k"
+  },
+  {
+   "ref": "FR-4709",
+   "subject": {
+    "name": "Angela Hall ",
+    "dob": "2001-04-15",
+    "account": "****0597"
+   },
+   "reason": "Synthetic identity",
+   "opened": "2026-05-03T18:11:00",
+   "exposure": "$1.3k"
+  },
+  {
+   "ref": "FR-4710",
+   "subject": {
+    "name": "David Moore",
+    "dob": "1995-09-01",
+    "account": null
+   },
+   "reason": "Elder exploitation",
+   "opened": "2026-05-21T17:09:00",
+   "exposure": "14723"
+  },
+  {
+   "ref": "FR-4711",
+   "subject": {
+    "name": "Monica Hall",
+    "dob": null,
+    "account": "8362696779"
+   },
+   "reason": "Synthetic identity",
+   "opened": "2026-10-01T17:44:00",
+   "exposure": "$1.1k"
+  },
+  {
+   "ref": "FR-4712",
+   "subject": {
+    "name": "Ana Flores",
+    "dob": "1975-09-21",
+    "account": "****0215"
+   },
+   "reason": "Mule activity",
+   "opened": "2026-09-08T15:25:00",
+   "exposure": "4221"
+  },
+  {
+   "ref": "FR-4713",
+   "subject": {
+    "name": "Mark Morales",
+    "dob": "1967-04-16",
+    "account": "9370320325"
+   },
+   "reason": "Account takeover",
+   "opened": "2026-09-14T09:22:00",
+   "exposure": "$3.3k"
+  },
+  {
+   "ref": "FR-4714",
+   "subject": {
+    "name": "Patricia Wilson",
+    "dob": "1958-12-12",
+    "account": "3732209364"
+   },
+   "reason": "Account takeover",
+   "opened": "2026-07-05T15:28:00",
+   "exposure": "$7.1k"
+  },
+  {
+   "ref": "FR-4715",
+   "subject": {
+    "name": "Laura Perez",
+    "dob": null,
+    "account": "7872601478"
+   },
+   "reason": "Elder exploitation",
+   "opened": "2026-04-28T17:41:00",
+   "exposure": "$2.1k"
+  },
+  {
+   "ref": "FR-4716",
+   "subject": {
+    "name": "Teresa Johnson",
+    "dob": "1971-12-06",
+    "account": null
+   },
+   "reason": "Account takeover",
+   "opened": "2026-04-27T16:24:00",
+   "exposure": "200"
+  },
+  {
+   "ref": "FR-4717",
+   "subject": {
+    "name": "Diana Lopez",
+    "dob": "1976-07-04",
+    "account": "2170656289"
+   },
+   "reason": "Account takeover",
+   "opened": "2026-03-17T08:08:00",
+   "exposure": "20719"
+  },
+  {
+   "ref": "FR-4718",
+   "subject": {
+    "name": "Steven Johnson",
+    "dob": null,
+    "account": "6016571219"
+   },
+   "reason": "Check fraud",
+   "opened": "2026-03-06T11:14:00",
+   "exposure": "$15.4k"
+  },
+  {
+   "ref": "FR-4719",
+   "subject": {
+    "name": "Rosa Miller",
+    "dob": "1996-09-04",
+    "account": null
+   },
+   "reason": "Check fraud",
+   "opened": "2026-07-28T11:24:00",
+   "exposure": "10726"
+  },
+  {
+   "ref": "FR-4720",
+   "subject": {
+    "name": "Paula Ortiz",
+    "dob": "1954-04-10",
+    "account": "****8008"
+   },
+   "reason": "Elder exploitation",
+   "opened": "2026-04-27T16:46:00",
+   "exposure": "$1.1k"
+  },
+  {
+   "ref": "FR-4721",
+   "subject": {
+    "name": "Kevin Martinez",
+    "dob": null,
+    "account": null
+   },
+   "reason": "Synthetic identity",
+   "opened": "2026-07-15T18:26:00",
+   "exposure": "6203"
+  },
+  {
+   "ref": "FR-4722",
+   "subject": {
+    "name": "Brian Ortiz",
+    "dob": "1973-01-20",
+    "account": null
+   },
+   "reason": "Synthetic identity",
+   "opened": "2026-07-02T12:19:00",
+   "exposure": "2344"
+  },
+  {
+   "ref": "FR-4723",
+   "subject": {
+    "name": "Steven Jones",
+    "dob": "1969-05-21",
+    "account": "3277368216"
+   },
+   "reason": "Check fraud",
+   "opened": "2026-03-12T10:05:00",
+   "exposure": "9304"
+  },
+  {
+   "ref": "FR-4724",
+   "subject": {
+    "name": "Sofia Torres",
+    "dob": null,
+    "account": "8864052872"
+   },
+   "reason": "Mule activity",
+   "opened": "2026-05-31T15:04:00",
+   "exposure": "3675"
+  },
+  {
+   "ref": "FR-4725",
+   "subject": {
+    "name": "Mark Rodriguez",
+    "dob": "1975-10-01",
+    "account": null
+   },
+   "reason": "Synthetic identity",
+   "opened": "2026-03-17T18:36:00",
+   "exposure": "2964"
+  },
+  {
+   "ref": "FR-4726",
+   "subject": {
+    "name": "Joseph King",
+    "dob": "1957-07-12",
+    "account": null
+   },
+   "reason": "Synthetic identity",
+   "opened": "2026-05-17T14:56:00",
+   "exposure": "909"
+  },
+  {
+   "ref": "FR-4727",
+   "subject": {
+    "name": "Linda Rodriguez",
+    "dob": "1984-09-12",
+    "account": "7231583931"
+   },
+   "reason": "Synthetic identity",
+   "opened": "2026-10-15T10:33:00",
+   "exposure": "$6.4k"
+  },
+  {
+   "ref": "FR-4728",
+   "subject": {
+    "name": "Rosa Reyes",
+    "dob": "1947-02-05",
+    "account": "7453713764"
+   },
+   "reason": "Account takeover",
+   "opened": "2026-07-24T17:17:00",
+   "exposure": "$2.3k"
+  },
+  {
+   "ref": "FR-4729",
+   "subject": {
+    "name": "Robert Gonzalez",
+    "dob": "2002-05-27",
+    "account": "5482954340"
+   },
+   "reason": "Synthetic identity",
+   "opened": "2026-04-26T16:21:00",
+   "exposure": "$1.1k"
+  },
+  {
+   "ref": "FR-4730",
+   "subject": {
+    "name": "Steven Garcia",
+    "dob": "1993-09-06",
+    "account": "8069008596"
+   },
+   "reason": "Account takeover",
+   "opened": "2026-10-13T13:07:00",
+   "exposure": "$0.5k"
+  },
+  {
+   "ref": "FR-4731",
+   "subject": {
+    "name": "Jason Jones",
+    "dob": "1947-12-21",
+    "account": "****6175"
+   },
+   "reason": "Elder exploitation",
+   "opened": "2026-08-18T10:05:00",
+   "exposure": "$3.1k"
+  },
+  {
+   "ref": "FR-4732",
+   "subject": {
+    "name": "Paula Taylor",
+    "dob": null,
+    "account": "****4929"
+   },
+   "reason": "Synthetic identity",
+   "opened": "2026-04-22T13:01:00",
+   "exposure": "$5.1k"
+  },
+  {
+   "ref": "FR-4733",
+   "subject": {
+    "name": "Kevin Perez",
+    "dob": "2001-03-30",
+    "account": "****1328"
+   },
+   "reason": "Check fraud",
+   "opened": "2026-09-20T17:18:00",
+   "exposure": "7278"
+  },
+  {
+   "ref": "FR-4734",
+   "subject": {
+    "name": "Carmen Ramos",
+    "dob": "1947-09-17",
+    "account": "2067621152"
+   },
+   "reason": "Elder exploitation",
+   "opened": "2026-08-08T11:50:00",
+   "exposure": "$2.3k"
+  },
+  {
+   "ref": "FR-4735",
+   "subject": {
+    "name": "Dan Torres",
+    "dob": "1947-07-08",
+    "account": "****8043"
+   },
+   "reason": "Synthetic identity",
+   "opened": "2026-10-25T13:13:00",
+   "exposure": "11520"
+  },
+  {
+   "ref": "FR-4736",
+   "subject": {
+    "name": "Teresa Gutierrez",
+    "dob": "2001-12-25",
+    "account": null
+   },
+   "reason": "Account takeover",
+   "opened": "2026-05-07T13:49:00",
+   "exposure": "$6.6k"
+  },
+  {
+   "ref": "FR-4737",
+   "subject": {
+    "name": "Brian Morales",
+    "dob": "1971-03-11",
+    "account": "8196050206"
+   },
+   "reason": "Account takeover",
+   "opened": "2026-10-15T09:50:00",
+   "exposure": "$3.4k"
+  },
+  {
+   "ref": "FR-4738",
+   "subject": {
+    "name": "Pat Diaz",
+    "dob": null,
+    "account": "****7200"
+   },
+   "reason": "Check fraud",
+   "opened": "2026-10-21T14:27:00",
+   "exposure": "$1.3k"
+  },
+  {
+   "ref": "FR-4739",
+   "subject": {
+    "name": "Jason Ramos",
+    "dob": null,
+    "account": "****6263"
+   },
+   "reason": "Account takeover",
+   "opened": "2026-05-12T14:57:00",
+   "exposure": "$1.1k"
+  },
+  {
+   "ref": "FR-4740",
+   "subject": {
+    "name": "Kevin Wilson",
+    "dob": "1970-07-25",
+    "account": "4155260496"
+   },
+   "reason": "Account takeover",
+   "opened": "2026-03-30T10:28:00",
+   "exposure": "$1.8k"
+  },
+  {
+   "ref": "FR-4741",
+   "subject": {
+    "name": "Paula Walker",
+    "dob": "1959-08-23",
+    "account": "5645993795"
+   },
+   "reason": "Account takeover",
+   "opened": "2026-08-08T09:59:00",
+   "exposure": "31347"
+  },
+  {
+   "ref": "FR-4742",
+   "subject": {
+    "name": "David Gomez",
+    "dob": "1987-01-01",
+    "account": "4641006922"
+   },
+   "reason": "Synthetic identity",
+   "opened": "2026-03-16T08:06:00",
+   "exposure": "4045"
+  },
+  {
+   "ref": "FR-4743",
+   "subject": {
+    "name": "Maria Moore",
+    "dob": "1970-08-16",
+    "account": "4678786072"
+   },
+   "reason": "Mule activity",
+   "opened": "2026-08-06T15:07:00",
+   "exposure": "1737"
+  },
+  {
+   "ref": "FR-4744",
+   "subject": {
+    "name": "Daniel Miller ",
+    "dob": "1987-09-17",
+    "account": "1002106858"
+   },
+   "reason": "Account takeover",
+   "opened": "2026-05-21T12:18:00",
+   "exposure": "1313"
+  },
+  {
+   "ref": "FR-4745",
+   "subject": {
+    "name": "Angela Sanchez",
+    "dob": "1976-11-10",
+    "account": "5536037183"
+   },
+   "reason": "Synthetic identity",
+   "opened": "2026-09-04T08:40:00",
+   "exposure": "$4.3k"
+  },
+  {
+   "ref": "FR-4746",
+   "subject": {
+    "name": "Steven Williams",
+    "dob": "1982-04-19",
+    "account": "3530109333"
+   },
+   "reason": "Synthetic identity",
+   "opened": "2026-06-05T13:55:00",
+   "exposure": "$9.3k"
+  },
+  {
+   "ref": "FR-4747",
+   "subject": {
+    "name": "Monica Ramos ",
+    "dob": null,
+    "account": "4582375249"
+   },
+   "reason": "Mule activity",
+   "opened": "2026-09-04T18:59:00",
+   "exposure": "$14.9k"
+  },
+  {
+   "ref": "FR-4748",
+   "subject": {
+    "name": "Lucia King",
+    "dob": "1976-07-29",
+    "account": "8279421103"
+   },
+   "reason": "Account takeover",
+   "opened": "2026-05-24T14:28:00",
+   "exposure": "1965"
+  },
+  {
+   "ref": "FR-4749",
+   "subject": {
+    "name": "Daniel Anderson",
+    "dob": "1977-07-27",
+    "account": "3024555495"
+   },
+   "reason": "Check fraud",
+   "opened": "2026-10-17T14:21:00",
+   "exposure": "$4.0k"
+  },
+  {
+   "ref": "FR-4750",
+   "subject": {
+    "name": "Raymond Lopez",
+    "dob": null,
+    "account": "****3870"
+   },
+   "reason": "Synthetic identity",
+   "opened": "2026-07-29T17:00:00",
+   "exposure": "1841"
+  },
+  {
+   "ref": "FR-4751",
+   "subject": {
+    "name": "Maria Rodriguez",
+    "dob": "1985-01-25",
+    "account": "7619599756"
+   },
+   "reason": "Account takeover",
+   "opened": "2026-09-17T17:40:00",
+   "exposure": "12533"
+  },
+  {
+   "ref": "FR-4752",
+   "subject": {
+    "name": "David Smith",
+    "dob": "1956-08-19",
+    "account": "****4750"
+   },
+   "reason": "Synthetic identity",
+   "opened": "2026-08-18T11:16:00",
+   "exposure": "$4.2k"
+  },
+  {
+   "ref": "FR-4753",
+   "subject": {
+    "name": "Anthony Wright",
+    "dob": "1998-08-05",
+    "account": "6598711910"
+   },
+   "reason": "Mule activity",
+   "opened": "2026-07-20T11:41:00",
+   "exposure": "574"
+  },
+  {
+   "ref": "FR-4754",
+   "subject": {
+    "name": "Paula Gomez",
+    "dob": null,
+    "account": "****2067"
+   },
+   "reason": "Elder exploitation",
+   "opened": "2026-08-28T17:16:00",
+   "exposure": "$3.1k"
+  },
+  {
+   "ref": "FR-4755",
+   "subject": {
+    "name": "Rosa Taylor",
+    "dob": "1968-09-04",
+    "account": "1660944768"
+   },
+   "reason": "Synthetic identity",
+   "opened": "2026-04-04T12:28:00",
+   "exposure": "10541"
+  },
+  {
+   "ref": "FR-4756",
+   "subject": {
+    "name": "Maria Torres",
+    "dob": "1956-03-13",
+    "account": "3434545966"
+   },
+   "reason": "Synthetic identity",
+   "opened": "2026-03-04T17:41:00",
+   "exposure": "$19.0k"
+  },
+  {
+   "ref": "FR-4757",
+   "subject": {
+    "name": "Paula Diaz",
+    "dob": "1952-09-04",
+    "account": "8596387668"
+   },
+   "reason": "Elder exploitation",
+   "opened": "2026-05-16T15:46:00",
+   "exposure": "$8.9k"
+  },
+  {
+   "ref": "FR-4758",
+   "subject": {
+    "name": "Julia Davis",
+    "dob": "1961-12-20",
+    "account": "4017297159"
+   },
+   "reason": "Elder exploitation",
+   "opened": "2026-04-21T11:58:00",
+   "exposure": "$16.9k"
+  },
+  {
+   "ref": "FR-4759",
+   "subject": {
+    "name": "Michael King",
+    "dob": "1969-03-14",
+    "account": "4021403213"
+   },
+   "reason": "Synthetic identity",
+   "opened": "2026-10-31T14:04:00",
+   "exposure": "$16.3k"
+  },
+  {
+   "ref": "FR-4760",
+   "subject": {
+    "name": "Daniel Sanchez",
+    "dob": "1947-06-02",
+    "account": null
+   },
+   "reason": "Elder exploitation",
+   "opened": "2026-05-30T10:11:00",
+   "exposure": "$9.3k"
+  },
+  {
+   "ref": "FR-4761",
+   "subject": {
+    "name": "Robert Gonzalez",
+    "dob": null,
+    "account": "1570033991"
+   },
+   "reason": "Check fraud",
+   "opened": "2026-06-21T17:38:00",
+   "exposure": "11190"
+  },
+  {
+   "ref": "FR-4762",
+   "subject": {
+    "name": "James Martin ",
+    "dob": "1990-07-09",
+    "account": "****7842"
+   },
+   "reason": "Mule activity",
+   "opened": "2026-08-13T08:55:00",
+   "exposure": "$5.0k"
+  },
+  {
+   "ref": "FR-4763",
+   "subject": {
+    "name": "Samuel Sanchez",
+    "dob": null,
+    "account": "1401320385"
+   },
+   "reason": "Check fraud",
+   "opened": "2026-10-17T10:32:00",
+   "exposure": "$32.8k"
+  },
+  {
+   "ref": "FR-4764",
+   "subject": {
+    "name": "Anthony Gomez",
+    "dob": "1951-03-11",
+    "account": "4691910720"
+   },
+   "reason": "Account takeover",
+   "opened": "2026-10-28T09:40:00",
+   "exposure": "1171"
+  },
+  {
+   "ref": "FR-4765",
+   "subject": {
+    "name": "Gloria Wilson",
+    "dob": "1953-05-14",
+    "account": null
+   },
+   "reason": "Synthetic identity",
+   "opened": "2026-05-24T18:50:00",
+   "exposure": "26266"
+  },
+  {
+   "ref": "FR-4766",
+   "subject": {
+    "name": "Nadia Taylor ",
+    "dob": "1947-04-06",
+    "account": "****7781"
+   },
+   "reason": "Elder exploitation",
+   "opened": "2026-10-12T14:11:00",
+   "exposure": "2315"
+  },
+  {
+   "ref": "FR-4767",
+   "subject": {
+    "name": "Joseph Miller",
+    "dob": "1958-04-14",
+    "account": "8744076607"
+   },
+   "reason": "Mule activity",
+   "opened": "2026-08-10T11:32:00",
+   "exposure": "$2.8k"
+  },
+  {
+   "ref": "FR-4768",
+   "subject": {
+    "name": "Rosa Diaz",
+    "dob": "1949-10-24",
+    "account": "****6446"
+   },
+   "reason": "Mule activity",
+   "opened": "2026-05-04T18:36:00",
+   "exposure": "1763"
+  },
+  {
+   "ref": "FR-4769",
+   "subject": {
+    "name": "Lucia Miller",
+    "dob": "1967-05-01",
+    "account": "9402557792"
+   },
+   "reason": "Mule activity",
+   "opened": "2026-06-28T11:52:00",
+   "exposure": "3666"
+  },
+  {
+   "ref": "FR-4770",
+   "subject": {
+    "name": "Raymond Martin",
+    "dob": "1961-04-08",
+    "account": "****1653"
+   },
+   "reason": "Mule activity",
+   "opened": "2026-07-29T08:52:00",
+   "exposure": "1305"
+  },
+  {
+   "ref": "FR-4771",
+   "subject": {
+    "name": "Ana Martin",
+    "dob": "1965-06-29",
+    "account": null
+   },
+   "reason": "Check fraud",
+   "opened": "2026-03-03T15:33:00",
+   "exposure": "8541"
+  },
+  {
+   "ref": "FR-4772",
+   "subject": {
+    "name": "Rosa Ortiz ",
+    "dob": "1946-12-21",
+    "account": "8303947776"
+   },
+   "reason": "Account takeover",
+   "opened": "2026-10-09T12:52:00",
+   "exposure": "$0.9k"
+  },
+  {
+   "ref": "FR-4773",
+   "subject": {
+    "name": "Steven Torres",
+    "dob": "1974-12-31",
+    "account": null
+   },
+   "reason": "Elder exploitation",
+   "opened": "2026-04-03T16:06:00",
+   "exposure": "2292"
+  },
+  {
+   "ref": "FR-4774",
+   "subject": {
+    "name": "Monica Jones",
+    "dob": "1983-07-23",
+    "account": "2575994822"
+   },
+   "reason": "Elder exploitation",
+   "opened": "2026-05-11T13:21:00",
+   "exposure": "4042"
+  },
+  {
+   "ref": "FR-4775",
+   "subject": {
+    "name": "Maria Hall",
+    "dob": "1960-12-05",
+    "account": "8166344623"
+   },
+   "reason": "Check fraud",
+   "opened": "2026-10-16T18:05:00",
+   "exposure": "11959"
+  },
+  {
+   "ref": "FR-4776",
+   "subject": {
+    "name": "Jason Morales",
+    "dob": null,
+    "account": "4772874707"
+   },
+   "reason": "Check fraud",
+   "opened": "2026-03-17T08:21:00",
+   "exposure": "27450"
+  },
+  {
+   "ref": "FR-4777",
+   "subject": {
+    "name": "Bob Davis",
+    "dob": "1975-07-28",
+    "account": "1205531167"
+   },
+   "reason": "Account takeover",
+   "opened": "2026-08-17T10:12:00",
+   "exposure": "1408"
+  },
+  {
+   "ref": "FR-4778",
+   "subject": {
+    "name": "Robert Smith",
+    "dob": "1968-11-05",
+    "account": "****5786"
+   },
+   "reason": "Check fraud",
+   "opened": "2026-04-03T08:36:00",
+   "exposure": "2517"
+  },
+  {
+   "ref": "FR-4779",
+   "subject": {
+    "name": "Raymond Diaz",
+    "dob": "1975-07-08",
+    "account": "2590365276"
+   },
+   "reason": "Mule activity",
+   "opened": "2026-07-02T10:18:00",
+   "exposure": "$1.5k"
+  },
+  {
+   "ref": "FR-4780",
+   "subject": {
+    "name": "Raymond Reyes",
+    "dob": "1957-04-22",
+    "account": "1722815026"
+   },
+   "reason": "Mule activity",
+   "opened": "2026-05-01T17:25:00",
+   "exposure": "$0.2k"
+  },
+  {
+   "ref": "FR-4781",
+   "subject": {
+    "name": "Isabel Rivera",
+    "dob": null,
+    "account": "3943115455"
+   },
+   "reason": "Synthetic identity",
+   "opened": "2026-05-18T14:06:00",
+   "exposure": "$7.5k"
+  },
+  {
+   "ref": "FR-4782",
+   "subject": {
+    "name": "Sam Flores",
+    "dob": null,
+    "account": "3753540497"
+   },
+   "reason": "Mule activity",
+   "opened": "2026-06-25T09:46:00",
+   "exposure": "2954"
+  },
+  {
+   "ref": "FR-4783",
+   "subject": {
+    "name": "Lucia Flores",
+    "dob": "1947-04-23",
+    "account": null
+   },
+   "reason": "Account takeover",
+   "opened": "2026-06-08T14:08:00",
+   "exposure": "$2.8k"
+  },
+  {
+   "ref": "FR-4784",
+   "subject": {
+    "name": "Maria Cruz",
+    "dob": "1980-07-08",
+    "account": "1345156602"
+   },
+   "reason": "Check fraud",
+   "opened": "2026-09-20T14:26:00",
+   "exposure": "$3.3k"
+  },
+  {
+   "ref": "FR-4785",
+   "subject": {
+    "name": "Thomas King ",
+    "dob": null,
+    "account": "3639274737"
+   },
+   "reason": "Account takeover",
+   "opened": "2026-06-03T11:08:00",
+   "exposure": "2049"
+  },
+  {
+   "ref": "FR-4786",
+   "subject": {
+    "name": "Sofia Lee",
+    "dob": "1955-06-08",
+    "account": "****7095"
+   },
+   "reason": "Check fraud",
+   "opened": "2026-10-16T09:20:00",
+   "exposure": "$2.1k"
+  },
+  {
+   "ref": "FR-4787",
+   "subject": {
+    "name": "Eric Lopez",
+    "dob": "1988-08-30",
+    "account": "****4949"
+   },
+   "reason": "Mule activity",
+   "opened": "2026-03-21T16:42:00",
+   "exposure": "3502"
+  },
+  {
+   "ref": "FR-4788",
+   "subject": {
+    "name": "Michael Scott",
+    "dob": null,
+    "account": "1135255723"
+   },
+   "reason": "Synthetic identity",
+   "opened": "2026-04-17T12:43:00",
+   "exposure": "$4.5k"
+  },
+  {
+   "ref": "FR-4789",
+   "subject": {
+    "name": "Isabel Smith",
+    "dob": "1951-11-14",
+    "account": "8279888472"
+   },
+   "reason": "Account takeover",
+   "opened": "2026-06-21T08:08:00",
+   "exposure": "10138"
+  },
+  {
+   "ref": "FR-4790",
+   "subject": {
+    "name": "Robert Gomez ",
+    "dob": "1949-10-20",
+    "account": "9602679423"
+   },
+   "reason": "Account takeover",
+   "opened": "2026-10-05T15:59:00",
+   "exposure": "$3.2k"
+  },
+  {
+   "ref": "FR-4791",
+   "subject": {
+    "name": "Gloria Anderson",
+    "dob": "1970-04-02",
+    "account": "2924338870"
+   },
+   "reason": "Elder exploitation",
+   "opened": "2026-03-17T12:01:00",
+   "exposure": "2566"
+  },
+  {
+   "ref": "FR-4792",
+   "subject": {
+    "name": "Joseph Martin",
+    "dob": "1952-11-23",
+    "account": "3623292499"
+   },
+   "reason": "Check fraud",
+   "opened": "2026-07-17T11:11:00",
+   "exposure": "$9.5k"
+  },
+  {
+   "ref": "FR-4793",
+   "subject": {
+    "name": "Ana Flores",
+    "dob": "1975-09-21",
+    "account": "6131510215"
+   },
+   "reason": "Elder exploitation",
+   "opened": "2026-09-26T18:45:00",
+   "exposure": "$8.4k"
+  },
+  {
+   "ref": "FR-4794",
+   "subject": {
+    "name": "Steven Garcia",
+    "dob": "1993-09-06",
+    "account": null
+   },
+   "reason": "Check fraud",
+   "opened": "2026-10-17T13:50:00",
+   "exposure": "1527"
+  },
+  {
+   "ref": "FR-4795",
+   "subject": {
+    "name": "Samuel Walker",
+    "dob": "1980-04-04",
+    "account": null
+   },
+   "reason": "Check fraud",
+   "opened": "2026-04-07T12:33:00",
+   "exposure": "4230"
+  },
+  {
+   "ref": "FR-4796",
+   "subject": {
+    "name": "Diana Lopez",
+    "dob": "1976-07-04",
+    "account": "2170656289"
+   },
+   "reason": "Account takeover",
+   "opened": "2026-06-06T16:02:00",
+   "exposure": "1051"
+  },
+  {
+   "ref": "FR-4797",
+   "subject": {
+    "name": "Angela Diaz",
+    "dob": "1993-08-25",
+    "account": "1557278726"
+   },
+   "reason": "Elder exploitation",
+   "opened": "2026-05-10T12:19:00",
+   "exposure": "37057"
+  },
+  {
+   "ref": "FR-4798",
+   "subject": {
+    "name": "Eric Gonzalez",
+    "dob": "1995-11-21",
+    "account": "4920793483"
+   },
+   "reason": "Account takeover",
+   "opened": "2026-09-28T08:26:00",
+   "exposure": "$0.8k"
+  },
+  {
+   "ref": "FR-4799",
+   "subject": {
+    "name": "Lucia Moore ",
+    "dob": "1972-06-20",
+    "account": "8574022697"
+   },
+   "reason": "Elder exploitation",
+   "opened": "2026-10-28T14:12:00",
+   "exposure": "$11.5k"
+  },
+  {
+   "ref": "FR-4800",
+   "subject": {
+    "name": "Mike Flores",
+    "dob": "2001-09-15",
+    "account": "1334224122"
+   },
+   "reason": "Check fraud",
+   "opened": "2026-10-18T14:52:00",
+   "exposure": "$6.6k"
+  },
+  {
+   "ref": "FR-4801",
+   "subject": {
+    "name": "Joseph Cruz",
+    "dob": "1984-12-25",
+    "account": "****0508"
+   },
+   "reason": "Account takeover",
+   "opened": "2026-05-26T08:08:00",
+   "exposure": "$14.8k"
+  },
+  {
+   "ref": "FR-4802",
+   "subject": {
+    "name": "Laura Sanchez",
+    "dob": "1968-11-28",
+    "account": null
+   },
+   "reason": "Elder exploitation",
+   "opened": "2026-07-17T11:14:00",
+   "exposure": "$8.5k"
+  },
+  {
+   "ref": "FR-4803",
+   "subject": {
+    "name": "David Ortiz",
+    "dob": "1964-05-17",
+    "account": "****6924"
+   },
+   "reason": "Synthetic identity",
+   "opened": "2026-10-04T16:40:00",
+   "exposure": "5924"
+  },
+  {
+   "ref": "FR-4804",
+   "subject": {
+    "name": "Mark Morales",
+    "dob": null,
+    "account": "****0325"
+   },
+   "reason": "Check fraud",
+   "opened": "2026-10-13T14:11:00",
+   "exposure": "$6.4k"
+  },
+  {
+   "ref": "FR-4805",
+   "subject": {
+    "name": "Eric Brown",
+    "dob": "1978-02-17",
+    "account": "6856263205"
+   },
+   "reason": "Elder exploitation",
+   "opened": "2026-05-28T11:32:00",
+   "exposure": "$7.4k"
+  },
+  {
+   "ref": "FR-4806",
+   "subject": {
+    "name": "Teresa King",
+    "dob": "1986-01-30",
+    "account": "7599502094"
+   },
+   "reason": "Elder exploitation",
+   "opened": "2026-03-09T08:39:00",
+   "exposure": "$2.6k"
+  },
+  {
+   "ref": "FR-4807",
+   "subject": {
+    "name": "Raymond Diaz",
+    "dob": "1975-07-08",
+    "account": null
+   },
+   "reason": "Check fraud",
+   "opened": "2026-03-20T12:24:00",
+   "exposure": "4154"
+  },
+  {
+   "ref": "FR-4808",
+   "subject": {
+    "name": "Teresa Allen",
+    "dob": "1957-02-21",
+    "account": "6465398577"
+   },
+   "reason": "Synthetic identity",
+   "opened": "2026-08-17T14:01:00",
+   "exposure": "1647"
+  },
+  {
+   "ref": "FR-4809",
+   "subject": {
+    "name": "Robert Sanchez",
+    "dob": "1950-08-23",
+    "account": "8402843701"
+   },
+   "reason": "Mule activity",
+   "opened": "2026-05-08T13:47:00",
+   "exposure": "$2.3k"
+  },
+  {
+   "ref": "FR-4810",
+   "subject": {
+    "name": "Laura Martinez",
+    "dob": "1978-11-01",
+    "account": "2485194330"
+   },
+   "reason": "Check fraud",
+   "opened": "2026-09-20T10:54:00",
+   "exposure": "$18.2k"
+  },
+  {
+   "ref": "FR-4811",
+   "subject": {
+    "name": "Steven Jackson",
+    "dob": null,
+    "account": "7009892693"
+   },
+   "reason": "Check fraud",
+   "opened": "2026-08-17T16:24:00",
+   "exposure": "$2.6k"
+  },
+  {
+   "ref": "FR-4812",
+   "subject": {
+    "name": "Joseph Anderson",
+    "dob": "1991-09-29",
+    "account": "8100916427"
+   },
+   "reason": "Check fraud",
+   "opened": "2026-06-21T13:29:00",
+   "exposure": "805"
+  },
+  {
+   "ref": "FR-4813",
+   "subject": {
+    "name": "Thomas Brown",
+    "dob": "1960-06-26",
+    "account": "****6377"
+   },
+   "reason": "Account takeover",
+   "opened": "2026-07-20T09:25:00",
+   "exposure": "5743"
+  },
+  {
+   "ref": "FR-4814",
+   "subject": {
+    "name": "Carmen Torres",
+    "dob": null,
+    "account": "2544877917"
+   },
+   "reason": "Synthetic identity",
+   "opened": "2026-03-22T09:07:00",
+   "exposure": "9130"
+  },
+  {
+   "ref": "FR-4815",
+   "subject": {
+    "name": "Raymond Sanchez",
+    "dob": "1964-01-01",
+    "account": "5100666312"
+   },
+   "reason": "Check fraud",
+   "opened": "2026-08-04T15:20:00",
+   "exposure": "1962"
+  },
+  {
+   "ref": "FR-4816",
+   "subject": {
+    "name": "Steve Scott",
+    "dob": "1984-11-05",
+    "account": "7811594184"
+   },
+   "reason": "Account takeover",
+   "opened": "2026-06-26T10:16:00",
+   "exposure": "$11.4k"
+  },
+  {
+   "ref": "FR-4817",
+   "subject": {
+    "name": "Raymond Ramirez ",
+    "dob": "1959-12-06",
+    "account": "9170017462"
+   },
+   "reason": "Synthetic identity",
+   "opened": "2026-07-21T15:45:00",
+   "exposure": "2833"
+  },
+  {
+   "ref": "FR-4818",
+   "subject": {
+    "name": "David Anderson",
+    "dob": null,
+    "account": "3201255545"
+   },
+   "reason": "Account takeover",
+   "opened": "2026-03-09T11:57:00",
+   "exposure": "$1.6k"
+  },
+  {
+   "ref": "FR-4819",
+   "subject": {
+    "name": "James Hernandez",
+    "dob": null,
+    "account": "****9464"
+   },
+   "reason": "Synthetic identity",
+   "opened": "2026-05-06T18:01:00",
+   "exposure": "$3.7k"
+  },
+  {
+   "ref": "FR-4820",
+   "subject": {
+    "name": "Mark Anderson",
+    "dob": "2001-12-08",
+    "account": "8248666062"
+   },
+   "reason": "Synthetic identity",
+   "opened": "2026-03-25T10:55:00",
+   "exposure": "26516"
+  },
+  {
+   "ref": "FR-4821",
+   "subject": {
+    "name": "Nadia Gonzalez",
+    "dob": "1977-05-24",
+    "account": "****6049"
+   },
+   "reason": "Synthetic identity",
+   "opened": "2026-06-22T09:04:00",
+   "exposure": "1675"
+  },
+  {
+   "ref": "FR-4822",
+   "subject": {
+    "name": "Diana Garcia",
+    "dob": "1980-10-28",
+    "account": "9544735110"
+   },
+   "reason": "Account takeover",
+   "opened": "2026-04-06T17:45:00",
+   "exposure": "$3.4k"
+  },
+  {
+   "ref": "FR-4823",
+   "subject": {
+    "name": "Kevin Jackson",
+    "dob": "1994-11-28",
+    "account": "3512520743"
+   },
+   "reason": "Mule activity",
+   "opened": "2026-10-09T12:42:00",
+   "exposure": "1474"
+  },
+  {
+   "ref": "FR-4824",
+   "subject": {
+    "name": "Eric Brown",
+    "dob": "1978-02-17",
+    "account": "6856263205"
+   },
+   "reason": "Check fraud",
+   "opened": "2026-05-09T17:44:00",
+   "exposure": "$2.1k"
+  },
+  {
+   "ref": "FR-4825",
+   "subject": {
+    "name": "Steven Chavez",
+    "dob": "1958-01-08",
+    "account": "****4307"
+   },
+   "reason": "Account takeover",
+   "opened": "2026-03-31T09:52:00",
+   "exposure": "10250"
+  },
+  {
+   "ref": "FR-4826",
+   "subject": {
+    "name": "James Hall",
+    "dob": "1946-06-02",
+    "account": "****6778"
+   },
+   "reason": "Check fraud",
+   "opened": "2026-08-09T09:21:00",
+   "exposure": "4066"
+  },
+  {
+   "ref": "FR-4827",
+   "subject": {
+    "name": "Rosa Taylor ",
+    "dob": "1968-09-04",
+    "account": "****4768"
+   },
+   "reason": "Account takeover",
+   "opened": "2026-03-15T10:15:00",
+   "exposure": "3736"
+  },
+  {
+   "ref": "FR-4828",
+   "subject": {
+    "name": "Raymond Jones",
+    "dob": "1966-05-16",
+    "account": "6189520534"
+   },
+   "reason": "Check fraud",
+   "opened": "2026-06-27T11:52:00",
+   "exposure": "$2.2k"
+  },
+  {
+   "ref": "FR-4829",
+   "subject": {
+    "name": "Elena Gomez",
+    "dob": "1963-11-02",
+    "account": "6652820874"
+   },
+   "reason": "Account takeover",
+   "opened": "2026-09-09T15:11:00",
+   "exposure": "5554"
+  },
+  {
+   "ref": "FR-4830",
+   "subject": {
+    "name": "Brian Perez",
+    "dob": "1999-05-30",
+    "account": null
+   },
+   "reason": "Check fraud",
+   "opened": "2026-03-28T18:21:00",
+   "exposure": "2243"
+  },
+  {
+   "ref": "FR-4831",
+   "subject": {
+    "name": "Jason Walker",
+    "dob": "1995-03-13",
+    "account": "6531983168"
+   },
+   "reason": "Elder exploitation",
+   "opened": "2026-06-30T17:59:00",
+   "exposure": "$0.8k"
+  },
+  {
+   "ref": "FR-4832",
+   "subject": {
+    "name": "Raymond Jones",
+    "dob": "1966-05-16",
+    "account": "6189520534"
+   },
+   "reason": "Synthetic identity",
+   "opened": "2026-05-14T12:49:00",
+   "exposure": "8978"
+  },
+  {
+   "ref": "FR-4833",
+   "subject": {
+    "name": "Luis Anderson ",
+    "dob": "1985-09-14",
+    "account": "6465762762"
+   },
+   "reason": "Synthetic identity",
+   "opened": "2026-10-06T11:22:00",
+   "exposure": "$1.8k"
+  },
+  {
+   "ref": "FR-4834",
+   "subject": {
+    "name": "Diana Martinez",
+    "dob": "1998-05-07",
+    "account": "8743733908"
+   },
+   "reason": "Account takeover",
+   "opened": "2026-03-10T09:35:00",
+   "exposure": "$3.5k"
+  },
+  {
+   "ref": "FR-4835",
+   "subject": {
+    "name": "Daniel Wright",
+    "dob": "1981-06-06",
+    "account": null
+   },
+   "reason": "Account takeover",
+   "opened": "2026-05-12T08:40:00",
+   "exposure": "$0.7k"
+  },
+  {
+   "ref": "FR-4836",
+   "subject": {
+    "name": "Daniel Flores",
+    "dob": "1996-06-19",
+    "account": "7820547768"
+   },
+   "reason": "Synthetic identity",
+   "opened": "2026-03-20T18:24:00",
+   "exposure": "3075"
+  },
+  {
+   "ref": "FR-4837",
+   "subject": {
+    "name": "Sofia Allen",
+    "dob": "1987-04-03",
+    "account": "****8482"
+   },
+   "reason": "Mule activity",
+   "opened": "2026-06-06T10:50:00",
+   "exposure": "3249"
+  },
+  {
+   "ref": "FR-4838",
+   "subject": {
+    "name": "Daniel Reyes",
+    "dob": "1978-03-12",
+    "account": "9082221063"
+   },
+   "reason": "Elder exploitation",
+   "opened": "2026-04-07T08:21:00",
+   "exposure": "$7.5k"
+  },
+  {
+   "ref": "FR-4839",
+   "subject": {
+    "name": "Carlos Davis",
+    "dob": "1995-02-24",
+    "account": "2068546417"
+   },
+   "reason": "Elder exploitation",
+   "opened": "2026-10-07T13:22:00",
+   "exposure": "3951"
+  },
+  {
+   "ref": "FR-4840",
+   "subject": {
+    "name": "Eric Brown",
+    "dob": null,
+    "account": null
+   },
+   "reason": "Mule activity",
+   "opened": "2026-03-06T10:36:00",
+   "exposure": "$2.3k"
+  },
+  {
+   "ref": "FR-4841",
+   "subject": {
+    "name": "Angela Diaz",
+    "dob": "1984-09-16",
+    "account": "3120837431"
+   },
+   "reason": "Check fraud",
+   "opened": "2026-06-01T14:45:00",
+   "exposure": "$4.5k"
+  },
+  {
+   "ref": "FR-4842",
+   "subject": {
+    "name": "Victor Flores",
+    "dob": "1995-03-14",
+    "account": "5979505255"
+   },
+   "reason": "Elder exploitation",
+   "opened": "2026-05-27T16:45:00",
+   "exposure": "1834"
+  },
+  {
+   "ref": "FR-4843",
+   "subject": {
+    "name": "Thomas Smith",
+    "dob": "1964-03-06",
+    "account": "8483074418"
+   },
+   "reason": "Synthetic identity",
+   "opened": "2026-05-15T17:14:00",
+   "exposure": "$9.7k"
+  },
+  {
+   "ref": "FR-4844",
+   "subject": {
+    "name": "Raymond Lopez",
+    "dob": null,
+    "account": "6047613870"
+   },
+   "reason": "Synthetic identity",
+   "opened": "2026-06-19T14:12:00",
+   "exposure": "19815"
+  },
+  {
+   "ref": "FR-4845",
+   "subject": {
+    "name": "Nadia Gonzalez",
+    "dob": "1958-06-05",
+    "account": "1900418558"
+   },
+   "reason": "Check fraud",
+   "opened": "2026-04-09T15:56:00",
+   "exposure": "3299"
+  },
+  {
+   "ref": "FR-4846",
+   "subject": {
+    "name": "Diana Davis ",
+    "dob": "1994-09-30",
+    "account": "5704889947"
+   },
+   "reason": "Synthetic identity",
+   "opened": "2026-07-08T13:20:00",
+   "exposure": "$10.8k"
+  },
+  {
+   "ref": "FR-4847",
+   "subject": {
+    "name": "Thomas Martin",
+    "dob": "1985-12-22",
+    "account": "****9390"
+   },
+   "reason": "Check fraud",
+   "opened": "2026-07-31T17:37:00",
+   "exposure": "$4.8k"
+  },
+  {
+   "ref": "FR-4848",
+   "subject": {
+    "name": "Diana Williams",
+    "dob": null,
+    "account": "5596128503"
+   },
+   "reason": "Elder exploitation",
+   "opened": "2026-07-03T17:00:00",
+   "exposure": "$4.8k"
+  },
+  {
+   "ref": "FR-4849",
+   "subject": {
+    "name": "Steve Garcia",
+    "dob": "1993-09-06",
+    "account": "8069008596"
+   },
+   "reason": "Synthetic identity",
+   "opened": "2026-03-08T16:14:00",
+   "exposure": "$2.5k"
+  }
+ ]
+}
