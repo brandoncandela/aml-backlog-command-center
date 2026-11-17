@@ -1,0 +1,194 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AML Backlog Command Center</title>
+<meta name="description" content="A working demo of how to clear an AML alert backlog: onboard three alert systems, match alerts to customers, work one case per customer and plan analyst headcount against a regulatory deadline.">
+<meta property="og:title" content="AML Backlog Command Center">
+<meta property="og:description" content="5,343 alerts from three systems turned into 1,240 ranked customer cases, with a staffing plan that meets the deadline with 6 analysts instead of 9.">
+<meta property="og:image" content="https://brandoncandela.github.io/aml-backlog-command-center/social-preview.jpg">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="stylesheet" href="app.css">
+</head>
+<body>
+<header class="top">
+  <div class="wrap">
+    <div class="brand">Backlog Command Center <small>Larkspur Bank, fictional</small></div>
+    <nav class="tabs" role="tablist" aria-label="Views">
+      <button role="tab" data-view="overview" aria-selected="true">Overview</button>
+      <button role="tab" data-view="onboarding">Data onboarding</button>
+      <button role="tab" data-view="identity">Customer matching</button>
+      <button role="tab" data-view="queue">Case queue</button>
+      <button role="tab" data-view="capacity">Staffing plan</button>
+      <button role="tab" data-view="qa">QA sample</button>
+    </nav>
+  </div>
+</header>
+
+<main class="wrap">
+  <!-- Overview -->
+  <section class="view" id="overview">
+    <div class="hero reveal">
+      <p class="eyebrow">AML operations · Deployment demo</p>
+      <h1>Clear the alert backlog before the regulator's deadline.</h1>
+      <p class="lede">Larkspur Bank has <b data-k="alerts"></b> open alerts sitting in three different systems and a consent order that says the backlog must be gone by <b data-k="deadline"></b>. This tool pulls the three exports together, works out which customer each alert belongs to, and turns the pile into one ranked case per customer so the team reviews people, not tickets.</p>
+    </div>
+
+    <div class="grid g4">
+      <div class="card stat reveal"><div class="num" data-k="alerts"></div><div class="label">open alerts across 3 systems</div><div class="note">Actimize, a legacy SQL rules engine and fraud team referrals</div></div>
+      <div class="card stat reveal"><div class="num blue" data-k="cases"></div><div class="label">customer cases after grouping</div><div class="note"><span data-k="per_case"></span> alerts per customer on average</div></div>
+      <div class="card stat reveal"><div class="num" data-k="breached"></div><div class="label">cases already past the 60 day SLA</div><div class="note">The oldest alert is from March</div></div>
+      <div class="card stat reveal"><div class="num blue" data-k="precision"></div><div class="label">of automatic matches were correct</div><div class="note">Checked against a hidden answer key. Unsure matches go to a person.</div></div>
+    </div>
+
+    <div class="card reveal" style="margin-top:16px">
+      <h3>What changes for the team</h3>
+      <div class="compare">
+        <div class="side"><div class="muted">Working alert by alert</div><div class="big" data-k="need_alert"></div><div class="muted">analysts to hit the deadline</div></div>
+        <div class="arrow" aria-hidden="true">→</div>
+        <div class="side"><div class="muted">Working one case per customer</div><div class="big" style="color:var(--signal)" data-k="need_case"></div><div class="muted">analysts to hit the deadline</div></div>
+      </div>
+      <p class="sub" style="margin:18px auto 0;text-align:center">Same alerts, same SAR and QA work. The saving comes from researching each customer once instead of once per alert: about <b data-k="saved_pct"></b> fewer analyst hours.</p>
+    </div>
+
+    <div class="grid g3" style="margin-top:16px">
+      <div class="card reveal">
+        <h3>Cases by priority</h3>
+        <div id="tierBars"></div>
+        <p class="sub" style="margin:10px 0 0;font-size:13px">P1 means work it first. Every score is a sum of plain reasons you can read on the case.</p>
+      </div>
+      <div class="card reveal">
+        <h3>Where the alerts came from</h3>
+        <div id="sourceBars"></div>
+        <p class="sub" style="margin:10px 0 0;font-size:13px"><b data-k="multi"></b> customers were flagged by more than one system. Nobody could see that before.</p>
+      </div>
+      <div class="card reveal">
+        <h3>How the work flows</h3>
+        <ol style="margin:0;padding-left:18px;color:var(--muted);font-size:14px;line-height:1.9">
+          <li>Load each export with a small config file</li>
+          <li>Match every alert to a core banking customer</li>
+          <li>Send unsure matches to a short review queue</li>
+          <li>Group alerts into one case per customer</li>
+          <li>Rank cases and plan staffing to the deadline</li>
+        </ol>
+      </div>
+    </div>
+  </section>
+
+  <!-- Onboarding -->
+  <section class="view" id="onboarding" hidden>
+    <div class="hero reveal">
+      <p class="eyebrow">Step 1</p>
+      <h2>Data onboarding</h2>
+      <p class="sub">Each system exports alerts differently: different IDs, date formats, money formats and name order. Instead of custom code per bank, each source gets a short config file that says which column means what. Every row read is accounted for, so nothing disappears quietly.</p>
+    </div>
+    <div class="stack" id="sourceCards"></div>
+  </section>
+
+  <!-- Identity -->
+  <section class="view" id="identity" hidden>
+    <div class="hero reveal">
+      <p class="eyebrow">Step 2</p>
+      <h2>Customer matching</h2>
+      <p class="sub">An alert is only useful once you know whose it is. Matching tries the strongest evidence first. Anything below <b data-k="threshold"></b> confidence is not guessed: it goes to a person.</p>
+    </div>
+    <div class="grid g2">
+      <div class="card reveal">
+        <h3>How each alert was matched</h3>
+        <div class="table-wrap"><table id="methodTable"><thead><tr><th>Evidence</th><th>Confidence</th><th>Alerts</th><th>Result</th></tr></thead><tbody></tbody></table></div>
+      </div>
+      <div class="card reveal">
+        <h3>Was it right?</h3>
+        <p class="sub" style="margin-bottom:14px">The fictional data comes with a hidden answer key, so accuracy can be measured instead of assumed. In a real pilot this is the sample the bank's QA team checks by hand.</p>
+        <div class="grid g2">
+          <div class="stat"><div class="num blue" data-k="auto"></div><div class="label">matched automatically</div></div>
+          <div class="stat"><div class="num" data-k="precision"></div><div class="label">of those were correct</div></div>
+          <div class="stat"><div class="num" data-k="review"></div><div class="label">sent to identity review</div></div>
+          <div class="stat"><div class="num" data-k="wrong_guess"></div><div class="label">name only guesses that would have been wrong</div></div>
+        </div>
+      </div>
+    </div>
+    <div class="card reveal" style="margin-top:16px">
+      <div class="controls"><h3 style="margin:0 auto 0 0">Identity review queue</h3>
+        <div class="seg" id="reviewFilter"><button aria-pressed="true" data-f="all">All</button><button aria-pressed="false" data-f="ambiguous">Two or more matches</button><button aria-pressed="false" data-f="name_only">Name only</button><button aria-pressed="false" data-f="no_match">No match</button></div>
+      </div>
+      <p class="sub" style="font-size:14px">About 8 minutes each. A reviewer picks the right customer or marks the alert as not ours, and the case queue updates.</p>
+      <div class="table-wrap"><table id="reviewTable"><thead><tr><th>Alert</th><th>Name on alert</th><th>Source ref</th><th>Why it is here</th><th>Candidates</th></tr></thead><tbody></tbody></table></div>
+      <div class="controls" style="margin-top:12px"><button class="btn ghost" id="reviewMore">Show more</button><span id="reviewCount" class="sub" style="margin:0;font-size:13px"></span></div>
+    </div>
+  </section>
+
+  <!-- Queue -->
+  <section class="view" id="queue" hidden>
+    <div class="hero reveal">
+      <p class="eyebrow">Step 3</p>
+      <h2>Case queue</h2>
+      <p class="sub">One case per customer, ranked. Click a case to see every alert behind it and exactly why it scored the way it did. The weights are starting values set with the operations lead and are meant to be tuned.</p>
+    </div>
+    <div class="controls">
+      <div class="seg" id="tierFilter"><button aria-pressed="true" data-t="all">All</button><button aria-pressed="false" data-t="P1">P1</button><button aria-pressed="false" data-t="P2">P2</button><button aria-pressed="false" data-t="P3">P3</button></div>
+      <div class="seg" id="multiFilter"><button aria-pressed="false" data-m="multi">Flagged by 2+ systems</button></div>
+      <input type="search" id="caseSearch" placeholder="Search name, case or typology" aria-label="Search cases">
+    </div>
+    <div class="split">
+      <div class="card" style="padding:8px 8px 14px">
+        <div class="table-wrap"><table id="caseTable"><thead><tr><th>Case</th><th>Customer</th><th>Priority</th><th>Alerts</th><th>Oldest</th><th>Flagged</th></tr></thead><tbody></tbody></table></div>
+        <div class="controls" style="margin:12px 10px 0"><button class="btn ghost" id="caseMore">Show more</button><span id="caseCount" class="sub" style="margin:0;font-size:13px"></span></div>
+      </div>
+      <div class="card detail" id="caseDetail"><div class="empty">Select a case</div></div>
+    </div>
+  </section>
+
+  <!-- Capacity -->
+  <section class="view" id="capacity" hidden>
+    <div class="hero reveal">
+      <p class="eyebrow">Step 4</p>
+      <h2>Staffing plan</h2>
+      <p class="sub">How many analysts does it take to clear everything by the deadline? Move the slider. Work starts <b data-k="start"></b> with 6 productive hours per analyst per day, weekends and bank holidays off.</p>
+    </div>
+    <div class="card reveal">
+      <div class="cap-head"><span class="num" id="capN">6</span><span style="font-size:18px;color:var(--muted)">analysts</span></div>
+      <input class="slider" type="range" id="capSlider" min="4" max="30" value="6" aria-label="Number of analysts">
+      <div class="lane" id="lane"><div class="track"></div></div>
+      <div class="legend"><span><i style="background:var(--signal)"></i>One case per customer: <b id="capCase"></b></span><span><i style="background:#86868b"></i>Alert by alert: <b id="capAlert"></b></span></div>
+      <p class="verdict" id="capVerdict" style="margin:16px 0 0"></p>
+    </div>
+    <div class="grid g2" style="margin-top:16px">
+      <div class="card reveal">
+        <h3>Total analyst hours</h3>
+        <div id="hourBars"></div>
+        <p class="sub" style="margin:12px 0 0;font-size:13px">Includes <b data-k="sars"></b> expected SARs and a 10% QA sample in both approaches.</p>
+      </div>
+      <div class="card reveal">
+        <h3>Planning assumptions</h3>
+        <p class="sub" style="font-size:13px;margin-bottom:8px">Agreed in week one, then replaced with measured handle times from the pilot.</p>
+        <table class="assume" id="assumeTable"><tbody></tbody></table>
+      </div>
+    </div>
+  </section>
+
+  <!-- QA -->
+  <section class="view" id="qa" hidden>
+    <div class="hero reveal">
+      <p class="eyebrow">Step 5</p>
+      <h2>QA sample</h2>
+      <p class="sub">About 10% of cases are picked at random with a fixed seed, so an examiner can rerun the selection and get the same list. Every reason a case was ranked where it was is stored with it.</p>
+    </div>
+    <div class="grid g3">
+      <div class="card stat reveal"><div class="num blue" data-k="qa_n"></div><div class="label">cases in the QA sample</div></div>
+      <div class="card stat reveal"><div class="num" data-k="qa_p1"></div><div class="label">of them are P1</div></div>
+      <div class="card stat reveal"><div class="num" data-k="qa_seed">7</div><div class="label">random seed, stored for audit</div></div>
+    </div>
+    <div class="card reveal" style="margin-top:16px">
+      <div class="table-wrap"><table id="qaTable"><thead><tr><th>Case</th><th>Customer</th><th>Priority</th><th>Score</th><th>Alerts</th><th>Matched by</th></tr></thead><tbody></tbody></table></div>
+    </div>
+  </section>
+</main>
+
+<footer>
+  <div class="wrap">All data is fictional and generated by a script. Built by <a href="https://brandoncandela.github.io">Brandon Candela</a> · <a href="https://github.com/brandoncandela/aml-backlog-command-center">Source on GitHub</a></div>
+</footer>
+<script src="app.js"></script>
+</body>
+</html>
