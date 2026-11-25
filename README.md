@@ -1,6 +1,6 @@
 # AML Backlog Command Center
 
-**Live demo: [brandoncandela.github.io/aml-backlog-command-center](https://brandoncandela.github.io/aml-backlog-command-center/)**
+**Live demo: [brandoncandela.github.io/aml-backlog-command-center](https://brandoncandela.github.io/aml-backlog-command-center/)** · [Technical case study](https://brandoncandela.github.io/case-studies/aml-backlog-command-center.html)
 
 ![Backlog Command Center](docs/social-preview.jpg)
 
